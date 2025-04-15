@@ -17,12 +17,14 @@ ADD ./go.mod ./go.sum /build/
 RUN go mod download
 
 COPY . .
-COPY --from=builder-frontend /build/dist/* ./public/
 
 RUN go build -trimpath -ldflags "-s -w" -o /build/bin/rm-schedule
 
 FROM alpine:3.14
 
+WORKDIR /app
+
+COPY --from=builder-frontend /build/dist /app/public
 COPY --from=builder-backend /build/bin/rm-schedule /bin/rm-schedule
 
 ENTRYPOINT ["/bin/rm-schedule"]
