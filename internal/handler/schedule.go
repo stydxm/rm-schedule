@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	ScheduleStatic       = false
+	ScheduleStatic       = true
 	ScheduleCacheControl = "public, max-age=5"
 )
 

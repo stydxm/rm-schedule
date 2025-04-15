@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	GroupRankInfoStatic       = false
+	GroupRankInfoStatic       = true
 	GroupRankInfoCacheControl = "public, max-age=5"
 )
 
