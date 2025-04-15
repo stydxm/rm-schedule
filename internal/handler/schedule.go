@@ -8,19 +8,19 @@ import (
 )
 
 const (
-	scheduleDebug        = false
-	scheduleCacheControl = "public, max-age=5"
+	ScheduleStatic       = false
+	ScheduleCacheControl = "public, max-age=5"
 )
 
 func ScheduleHandler(c iris.Context) {
 	// 是否存在 Tencent-Acceleration-Domain-Name
 	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
-		c.Header("Cache-Control", scheduleCacheControl)
+		c.Header("Cache-Control", ScheduleCacheControl)
 		c.Redirect(job.ScheduleUrl, 301)
 		return
 	}
 
-	if scheduleDebug {
+	if ScheduleStatic {
 		c.Header("Cache-Control", "no-cache")
 		c.ContentType("application/json")
 		c.Write(static.ScheduleBytes)
@@ -28,13 +28,13 @@ func ScheduleHandler(c iris.Context) {
 	}
 
 	if cached, b := svc.Cache.Get("schedule"); b {
-		c.Header("Cache-Control", scheduleCacheControl)
+		c.Header("Cache-Control", ScheduleCacheControl)
 		c.ContentType("application/json")
 		c.Write(cached.([]byte))
 		return
 	}
 
-	c.Header("Cache-Control", scheduleCacheControl)
+	c.Header("Cache-Control", ScheduleCacheControl)
 	c.StatusCode(500)
 	c.JSON(iris.Map{"code": -1, "msg": "Failed to get schedule"})
 }
