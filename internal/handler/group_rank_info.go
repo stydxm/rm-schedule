@@ -14,7 +14,7 @@ const (
 
 func GroupRankInfoHandler(c iris.Context) {
 	if GroupRankInfoStatic {
-		c.Header("Cache-Control", "no-cache")
+		c.Header("Cache-Control", "public, max-age=60")
 		c.ContentType("application/json")
 		c.Write(static.GroupRankInfoBytes)
 		return

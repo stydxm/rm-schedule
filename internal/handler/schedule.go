@@ -14,7 +14,7 @@ const (
 
 func ScheduleHandler(c iris.Context) {
 	if ScheduleStatic {
-		c.Header("Cache-Control", "no-cache")
+		c.Header("Cache-Control", "public, max-age=60")
 		c.ContentType("application/json")
 		c.Write(static.ScheduleBytes)
 		return
