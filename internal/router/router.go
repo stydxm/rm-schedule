@@ -8,7 +8,7 @@ import (
 )
 
 // Router defines the router for this service
-func Router(r *iris.Application, frontend *embed.FS) {
+func Router(r *iris.Application, frontend embed.FS) {
 	api := r.Party("/api")
 	api.Get("/schedule", handler.ScheduleHandler)
 	api.Get("/group_rank_info", handler.GroupRankInfoHandler)
@@ -16,9 +16,9 @@ func Router(r *iris.Application, frontend *embed.FS) {
 	api.Get("/mp/match", handler.MpMatchHandler)
 	api.Get("/rank", handler.RankListHandler)
 
-	r.HandleDir("/", *frontend, iris.DirOptions{
+	r.HandleDir("/", frontend, iris.DirOptions{
 		IndexName: "index.html",
-		ShowList:  true,
+		ShowList:  false,
 		Compress:  true,
 	})
 

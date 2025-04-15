@@ -17,7 +17,7 @@ ADD ./go.mod ./go.sum /build/
 RUN go mod download
 
 COPY . .
-COPY --from=builder-frontend /build/dist ./dist
+COPY --from=builder-frontend /build/dist/* ./public/
 
 RUN go build -trimpath -ldflags "-s -w" -o /build/bin/rm-schedule
 

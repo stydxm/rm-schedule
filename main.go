@@ -17,7 +17,7 @@ func main() {
 	defer cron.Stop()
 
 	r := iris.Default()
-	router.Router(r, &frontend)
+	router.Router(r, frontend)
 
 	if err := r.Listen(":8080"); err != nil {
 		panic(err)
