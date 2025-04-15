@@ -10,3 +10,6 @@ var RankScoreBytes []byte
 
 //go:embed schedule.json
 var ScheduleBytes []byte
+
+//go:embed group_rank_info.json
+var GroupRankInfoBytes []byte
