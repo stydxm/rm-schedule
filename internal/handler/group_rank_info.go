@@ -3,14 +3,23 @@ package handler
 import (
 	"github.com/kataras/iris/v12"
 	"github.com/scutrobotlab/rm-schedule/internal/job"
+	"github.com/scutrobotlab/rm-schedule/internal/static"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 )
 
 const (
+	GroupRankInfoStatic       = false
 	GroupRankInfoCacheControl = "public, max-age=5"
 )
 
 func GroupRankInfoHandler(c iris.Context) {
+	if GroupRankInfoStatic {
+		c.Header("Cache-Control", "no-cache")
+		c.ContentType("application/json")
+		c.Write(static.GroupRankInfoBytes)
+		return
+	}
+
 	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
 		c.Header("Cache-Control", GroupRankInfoCacheControl)
 		c.Redirect(job.GroupRankInfoUrl, 301)

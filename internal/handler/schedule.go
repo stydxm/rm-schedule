@@ -13,17 +13,17 @@ const (
 )
 
 func ScheduleHandler(c iris.Context) {
-	// 是否存在 Tencent-Acceleration-Domain-Name
-	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
-		c.Header("Cache-Control", ScheduleCacheControl)
-		c.Redirect(job.ScheduleUrl, 301)
-		return
-	}
-
 	if ScheduleStatic {
 		c.Header("Cache-Control", "no-cache")
 		c.ContentType("application/json")
 		c.Write(static.ScheduleBytes)
+		return
+	}
+
+	// 是否存在 Tencent-Acceleration-Domain-Name
+	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
+		c.Header("Cache-Control", ScheduleCacheControl)
+		c.Redirect(job.ScheduleUrl, 301)
 		return
 	}
 
