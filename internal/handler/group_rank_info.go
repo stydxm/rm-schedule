@@ -8,11 +8,23 @@ import (
 )
 
 const (
-	GroupRankInfoStatic       = true
+	GroupRankInfoStatic       = false
 	GroupRankInfoCacheControl = "public, max-age=5"
 )
 
+var SeasonGroupRankInfoMap = map[string][]byte{
+	"2024": static.GroupRankInfoBytes2024,
+}
+
 func GroupRankInfoHandler(c iris.Context) {
+	season := c.URLParam("season")
+	if data, ok := SeasonGroupRankInfoMap[season]; ok {
+		c.Header("Cache-Control", "public, max-age=60")
+		c.ContentType("application/json")
+		c.Write(data)
+		return
+	}
+
 	if GroupRankInfoStatic {
 		c.Header("Cache-Control", "public, max-age=60")
 		c.ContentType("application/json")

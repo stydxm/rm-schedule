@@ -33,7 +33,29 @@ type CompleteForm struct {
 	InitialCoinTotal      int    `json:"initialCoinTotal"`
 }
 
+var SeasonCompleteFormMap = map[string][]byte{
+	"2024": static.CompleteFormBytes2024,
+}
+
+var SeasonRankScoreMap = map[string][]byte{
+	"2024": static.RankScoreBytes2024,
+}
+
 func RankListHandler(c iris.Context) {
+	season := c.URLParam("season")
+	var completeFormBytes []byte
+	var rankScoreBytes []byte
+	if data, ok := SeasonCompleteFormMap[season]; ok {
+		completeFormBytes = data
+	} else {
+		completeFormBytes = static.CompleteFormBytes
+	}
+	if data, ok := SeasonRankScoreMap[season]; ok {
+		rankScoreBytes = data
+	} else {
+		rankScoreBytes = static.RankScoreBytes
+	}
+
 	schoolName := c.URLParam("school_name")
 	if schoolName == "" {
 		c.StatusCode(400)
@@ -44,7 +66,7 @@ func RankListHandler(c iris.Context) {
 	completedFormMap, ok := svc.Cache.Get("completed_form")
 	if !ok {
 		completedFormJson := make([]CompleteForm, 0)
-		err := json.Unmarshal(static.CompleteFormBytes, &completedFormJson)
+		err := json.Unmarshal(completeFormBytes, &completedFormJson)
 		if err != nil {
 			log.Printf("Failed to parse completed form: %v\n", err)
 			c.StatusCode(500)
@@ -69,7 +91,7 @@ func RankListHandler(c iris.Context) {
 	rankScoreMap, ok := svc.Cache.Get("rank_score")
 	if !ok {
 		rankScoreJson := make([]RankScoreItem, 0)
-		err := json.Unmarshal(static.RankScoreBytes, &rankScoreJson)
+		err := json.Unmarshal(rankScoreBytes, &rankScoreJson)
 		if err != nil {
 			log.Printf("Failed to parse rank list: %v\n", err)
 			c.StatusCode(500)
