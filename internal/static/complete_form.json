@@ -267,7 +267,7 @@
     "levelDocument": "C",
     "levelTechnology": "A",
     "school": "中北大学",
-    "team": 606
+    "team": "606"
   },
   {
     "initialCoinDocument": 25,
@@ -645,7 +645,7 @@
     "levelDocument": "C",
     "levelTechnology": "B",
     "school": "东南大学",
-    "team": 3
+    "team": "3SE"
   },
   {
     "initialCoinDocument": -25,
