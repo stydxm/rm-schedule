@@ -1,1 +1,866 @@
-[]
+[
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 175,
+    "levelDocument": "A",
+    "levelTechnology": "S",
+    "school": "同济大学",
+    "team": "SuperPower"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "华南理工大学",
+    "team": "华南虎"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "南昌大学",
+    "team": "Passion"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "南方科技大学",
+    "team": "ARTINX"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "西安电子科技大学",
+    "team": "IRobot"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "西北工业大学",
+    "team": "WMJ"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "中国科学技术大学",
+    "team": "RoboWalker"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 150,
+    "levelDocument": "B",
+    "levelTechnology": "S",
+    "school": "中国石油大学（华东）",
+    "team": "RPS"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 150,
+    "initialCoinTotal": 125,
+    "levelDocument": "C",
+    "levelTechnology": "S",
+    "school": "哈尔滨工业大学",
+    "team": "I Hiter"
+  },
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 100,
+    "levelDocument": "A",
+    "levelTechnology": "A",
+    "school": "哈尔滨工业大学（威海）",
+    "team": "HERO"
+  },
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 100,
+    "levelDocument": "A",
+    "levelTechnology": "A",
+    "school": "中南大学",
+    "team": "FYT"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "北京工业大学",
+    "team": "PIP"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "北京科技大学",
+    "team": "Reborn"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "电子科技大学中山学院",
+    "team": "RoboBraver"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "国防科技大学",
+    "team": "军临"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "南京航空航天大学",
+    "team": "长空御风"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "南京理工大学",
+    "team": "Alliance"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "四川大学",
+    "team": "火锅"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "太原理工大学",
+    "team": "TRoMaC"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "天津大学",
+    "team": "北洋机甲"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "五邑大学",
+    "team": "IMCA"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "燕山大学",
+    "team": "燕鹰"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "中国石油大学（北京）",
+    "team": "SPR"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 75,
+    "levelDocument": "B",
+    "levelTechnology": "A",
+    "school": "重庆大学",
+    "team": "千里"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 50,
+    "levelDocument": "C",
+    "levelTechnology": "A",
+    "school": "北京理工大学",
+    "team": "追梦"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 50,
+    "levelDocument": "C",
+    "levelTechnology": "A",
+    "school": "成都大学",
+    "team": "Ultra"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 50,
+    "levelDocument": "C",
+    "levelTechnology": "A",
+    "school": "福建理工大学",
+    "team": "苍侠"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 50,
+    "levelDocument": "C",
+    "levelTechnology": "A",
+    "school": "哈尔滨工程大学",
+    "team": "创梦之翼"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 50,
+    "levelDocument": "C",
+    "levelTechnology": "A",
+    "school": "深圳大学",
+    "team": "RobotPilots"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 50,
+    "levelDocument": "C",
+    "levelTechnology": "A",
+    "school": "中北大学",
+    "team": 606
+  },
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 25,
+    "levelDocument": "A",
+    "levelTechnology": "B",
+    "school": "东华大学",
+    "team": "DIODE"
+  },
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 25,
+    "levelDocument": "A",
+    "levelTechnology": "B",
+    "school": "太原工业学院",
+    "team": "火线"
+  },
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 25,
+    "levelDocument": "A",
+    "levelTechnology": "B",
+    "school": "西南石油大学",
+    "team": "铁人"
+  },
+  {
+    "initialCoinDocument": -50,
+    "initialCoinTechnology": 75,
+    "initialCoinTotal": 25,
+    "levelDocument": "D",
+    "levelTechnology": "A",
+    "school": "浙江理工大学",
+    "team": "钱塘蛟"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "北方工业大学",
+    "team": "DreamTeam"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "北京理工大学珠海学院",
+    "team": "毅恒"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "东北大学",
+    "team": "TDT"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "东北大学秦皇岛分校",
+    "team": "征龙凌沧"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "东莞理工学院",
+    "team": "ACE"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "佛山大学",
+    "team": "醒狮"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "广东工业大学",
+    "team": "DynamicX"
+  },
+  {
+    "initialCoinDocument": 25,
+    "initialCoinTechnology": -25,
+    "initialCoinTotal": 0,
+    "levelDocument": "A",
+    "levelTechnology": "C",
+    "school": "桂林电子科技大学",
+    "team": "Evolution"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "桂林信息科技学院",
+    "team": "GIRT"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "合肥工业大学",
+    "team": "苍穹"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "合肥工业大学(宣城校区)",
+    "team": "WDR"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "华北科技学院",
+    "team": "风暴"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "华南农业大学",
+    "team": "Taurus"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "吉林大学",
+    "team": "TARS_Go"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "辽宁科技大学",
+    "team": "COD"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "南京航空航天大学金城学院",
+    "team": "Born of Fire"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "青岛大学",
+    "team": "未来"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "山东理工大学",
+    "team": "齐奇"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "上海交通大学",
+    "team": "交龙"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "深圳技术大学",
+    "team": "悍匠"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "深圳职业技术大学",
+    "team": "RCIA"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "武汉工程大学",
+    "team": "Nautilus"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "西安交通大学",
+    "team": "笃行"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "西安理工大学",
+    "team": "NEXT E"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "香港科技大学（广州）",
+    "team": "PnX"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "湘潭大学",
+    "team": "逐曦"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "云南大学",
+    "team": "Future"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "长安大学",
+    "team": "VGD"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "浙江大学",
+    "team": "Hello World"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "浙江纺织服装职业技术学院",
+    "team": "RoboFuture"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "中国矿业大学",
+    "team": "CUBOT"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": 0,
+    "levelDocument": "B",
+    "levelTechnology": "B",
+    "school": "仲恺农业工程学院",
+    "team": "奇点"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "安徽信息工程学院",
+    "team": "Artisans"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "北京信息科技大学",
+    "team": "星辰"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": -25,
+    "initialCoinTotal": -25,
+    "levelDocument": "B",
+    "levelTechnology": "C",
+    "school": "成都信息工程大学",
+    "team": "风信子"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "大连理工大学",
+    "team": "凌BUG"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "东北林业大学",
+    "team": "Ares"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "东南大学",
+    "team": 3
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "广西大学",
+    "team": "ROBOTZ"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "广州城市理工学院",
+    "team": "野狼"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": -25,
+    "initialCoinTotal": -25,
+    "levelDocument": "B",
+    "levelTechnology": "C",
+    "school": "桂林理工大学",
+    "team": "群星"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "河北工业大学",
+    "team": "山海机甲"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "湖南大学",
+    "team": "跃鹿"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "华北理工大学",
+    "team": "Horizon"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "华东理工大学",
+    "team": "起源"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "华中科技大学",
+    "team": "狼牙"
+  },
+  {
+    "initialCoinDocument": 0,
+    "initialCoinTechnology": -25,
+    "initialCoinTotal": -25,
+    "levelDocument": "B",
+    "levelTechnology": "C",
+    "school": "江苏大学",
+    "team": "Aurora"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "齐鲁工业大学",
+    "team": "Adam"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "厦门大学嘉庚学院",
+    "team": "TCR"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "山东科技大学",
+    "team": "SmartRobot"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "上海工程技术大学",
+    "team": "木鸢Birdiebot"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "上海科技大学",
+    "team": "Magician"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "沈阳航空航天大学",
+    "team": "TUP"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "沈阳理工大学",
+    "team": "Ambition"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "首都师范大学",
+    "team": "PIE"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "西南交通大学",
+    "team": "Helios"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "长沙理工大学",
+    "team": "云嵌"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -25,
+    "levelDocument": "C",
+    "levelTechnology": "B",
+    "school": "重庆理工大学",
+    "team": "士继DREAMER"
+  },
+  {
+    "initialCoinDocument": -50,
+    "initialCoinTechnology": 0,
+    "initialCoinTotal": -50,
+    "levelDocument": "D",
+    "levelTechnology": "B",
+    "school": "哈尔滨工业大学（深圳）",
+    "team": "南工骁鹰"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": -25,
+    "initialCoinTotal": -50,
+    "levelDocument": "C",
+    "levelTechnology": "C",
+    "school": "河北科技大学",
+    "team": "Actor\u0026Thinker"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": -25,
+    "initialCoinTotal": -50,
+    "levelDocument": "C",
+    "levelTechnology": "C",
+    "school": "南华大学",
+    "team": "MA"
+  },
+  {
+    "initialCoinDocument": -25,
+    "initialCoinTechnology": -50,
+    "initialCoinTotal": -75,
+    "levelDocument": "C",
+    "levelTechnology": "D",
+    "school": "宁波工程学院",
+    "team": "New Legends"
+  }
+]
