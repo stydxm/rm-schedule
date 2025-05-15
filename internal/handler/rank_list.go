@@ -74,8 +74,15 @@ func RankListHandler(c iris.Context) {
 			return
 		}
 
+		// 并列名次处理
+		var rank int
+		var lastCoinTotal int
 		for i := range completedFormJson {
-			completedFormJson[i].Rank = i + 1
+			if completedFormJson[i].InitialCoinTotal != lastCoinTotal {
+				rank = i + 1
+			}
+			completedFormJson[i].Rank = rank
+			lastCoinTotal = completedFormJson[i].InitialCoinTotal
 		}
 		completedFormMap = lo.SliceToMap(completedFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
 		svc.Cache.Set("completed_form", completedFormMap, cache.NoExpiration)
