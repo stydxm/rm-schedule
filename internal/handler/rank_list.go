@@ -29,7 +29,9 @@ type CompleteForm struct {
 	Team                  string `json:"team"`
 	Score                 int    `json:"score"`
 	InitialCoinDocument   int    `json:"initialCoinDocument"`
+	LevelDocument         string `json:"levelDocument"`
 	InitialCoinTechnology int    `json:"initialCoinTechnology"`
+	LevelTechnology       string `json:"levelTechnology"`
 	InitialCoinTotal      int    `json:"initialCoinTotal"`
 }
 
