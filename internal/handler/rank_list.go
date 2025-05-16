@@ -65,32 +65,32 @@ func RankListHandler(c iris.Context) {
 		return
 	}
 
-	completedFormMap, ok := svc.Cache.Get("completed_form")
+	completeFormMap, ok := svc.Cache.Get("complete_form")
 	if !ok {
-		completedFormJson := make([]CompleteForm, 0)
-		err := json.Unmarshal(completeFormBytes, &completedFormJson)
+		completeFormJson := make([]CompleteForm, 0)
+		err := json.Unmarshal(completeFormBytes, &completeFormJson)
 		if err != nil {
-			log.Printf("Failed to parse completed form: %v\n", err)
+			log.Printf("Failed to parse complete form: %v\n", err)
 			c.StatusCode(500)
-			c.JSON(iris.Map{"code": -1, "msg": "Failed to parse completed form"})
+			c.JSON(iris.Map{"code": -1, "msg": "Failed to parse complete form"})
 			return
 		}
 
 		// 并列名次处理
 		var rank int
 		var lastCoinTotal int
-		for i := range completedFormJson {
-			if completedFormJson[i].InitialCoinTotal != lastCoinTotal {
+		for i := range completeFormJson {
+			if completeFormJson[i].InitialCoinTotal != lastCoinTotal {
 				rank = i + 1
 			}
-			completedFormJson[i].Rank = rank
-			lastCoinTotal = completedFormJson[i].InitialCoinTotal
+			completeFormJson[i].Rank = rank
+			lastCoinTotal = completeFormJson[i].InitialCoinTotal
 		}
-		completedFormMap = lo.SliceToMap(completedFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
-		svc.Cache.Set("completed_form", completedFormMap, cache.NoExpiration)
+		completeFormMap = lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
+		svc.Cache.Set("complete_form", completeFormMap, cache.NoExpiration)
 	}
 
-	completedForm, ok := completedFormMap.(map[string]CompleteForm)[schoolName]
+	completeForm, ok := completeFormMap.(map[string]CompleteForm)[schoolName]
 	if !ok {
 		c.StatusCode(404)
 		c.JSON(iris.Map{"code": -1, "msg": "School not found"})
@@ -122,6 +122,6 @@ func RankListHandler(c iris.Context) {
 	c.Header("Cache-Control", "public, max-age=3600")
 	c.JSON(RankListItem{
 		RankScoreItem: rankScore,
-		CompleteForm:  completedForm,
+		CompleteForm:  completeForm,
 	})
 }
