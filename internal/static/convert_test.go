@@ -15,6 +15,10 @@ func TestCompleteForm(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
+	err = convertAndSaveToJSON("./complete_form_rank.tsv", "./complete_form_rank.json")
+	if err != nil {
+		t.Fatal(err)
+	}
 	err = convertAndSaveToJSON("./rank_score.tsv", "./rank_score.json")
 	if err != nil {
 		t.Fatal(err)

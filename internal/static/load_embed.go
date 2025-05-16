@@ -7,6 +7,9 @@ import _ "embed"
 //go:embed complete_form.json
 var CompleteFormBytes []byte
 
+//go:embed complete_form_rank.json
+var CompleteFormRankBytes []byte
+
 //go:embed rank_score.json
 var RankScoreBytes []byte
 

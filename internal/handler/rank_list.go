@@ -35,8 +35,18 @@ type CompleteForm struct {
 	InitialCoinTotal      int    `json:"initialCoinTotal"`
 }
 
+type CompleteFormRank struct {
+	Rank   int    `json:"rank"`
+	School string `json:"school"`
+	Team   string `json:"team"`
+}
+
 var SeasonCompleteFormMap = map[string][]byte{
 	"2024": static.CompleteFormBytes2024,
+}
+
+var SeasonCompleteFormRankMap = map[string][]byte{
+	"2024": {},
 }
 
 var SeasonRankScoreMap = map[string][]byte{
@@ -46,11 +56,17 @@ var SeasonRankScoreMap = map[string][]byte{
 func RankListHandler(c iris.Context) {
 	season := c.URLParam("season")
 	var completeFormBytes []byte
+	var completeFormRankBytes []byte
 	var rankScoreBytes []byte
 	if data, ok := SeasonCompleteFormMap[season]; ok {
 		completeFormBytes = data
 	} else {
 		completeFormBytes = static.CompleteFormBytes
+	}
+	if data, ok := SeasonCompleteFormRankMap[season]; ok {
+		completeFormRankBytes = data
+	} else {
+		completeFormRankBytes = static.CompleteFormRankBytes
 	}
 	if data, ok := SeasonRankScoreMap[season]; ok {
 		rankScoreBytes = data
@@ -76,15 +92,37 @@ func RankListHandler(c iris.Context) {
 			return
 		}
 
-		// 并列名次处理
-		var rank int
-		var lastCoinTotal int
-		for i := range completeFormJson {
-			if completeFormJson[i].InitialCoinTotal != lastCoinTotal {
-				rank = i + 1
+		if len(completeFormRankBytes) != 0 {
+			// 有完整形态排名
+			completeFormRankJson := make([]CompleteFormRank, 0)
+			err = json.Unmarshal(completeFormRankBytes, &completeFormRankJson)
+			if err != nil {
+				log.Printf("Failed to parse complete form rank: %v\n", err)
+				c.StatusCode(500)
+				c.JSON(iris.Map{"code": -1, "msg": "Failed to parse complete form rank"})
+				return
 			}
-			completeFormJson[i].Rank = rank
-			lastCoinTotal = completeFormJson[i].InitialCoinTotal
+			completeFormRankMap := make(map[string]CompleteFormRank)
+			for _, item := range completeFormRankJson {
+				completeFormRankMap[item.School] = item
+			}
+			for i, item := range completeFormJson {
+				if rankItem, ok := completeFormRankMap[item.School]; ok {
+					completeFormJson[i].Rank = rankItem.Rank
+				}
+			}
+		} else {
+			// 无完整形态排名 按照金币数量计算
+			// 并列名次处理
+			var rank int
+			var lastCoinTotal int
+			for i := range completeFormJson {
+				if completeFormJson[i].InitialCoinTotal != lastCoinTotal {
+					rank = i + 1
+				}
+				completeFormJson[i].Rank = rank
+				lastCoinTotal = completeFormJson[i].InitialCoinTotal
+			}
 		}
 		completeFormMap = lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
 		svc.Cache.Set("complete_form", completeFormMap, cache.NoExpiration)
