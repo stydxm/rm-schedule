@@ -2,6 +2,7 @@ package handler
 
 import (
 	"encoding/json"
+	"fmt"
 	"log"
 
 	"github.com/kataras/iris/v12"
@@ -55,6 +56,9 @@ var SeasonRankScoreMap = map[string][]byte{
 
 func RankListHandler(c iris.Context) {
 	season := c.URLParam("season")
+	completeFormKey := fmt.Sprintf("complete_form_%s", season)
+	rankScoreKey := fmt.Sprintf("rank_score_%s", season)
+
 	var completeFormBytes []byte
 	var completeFormRankBytes []byte
 	var rankScoreBytes []byte
@@ -81,7 +85,7 @@ func RankListHandler(c iris.Context) {
 		return
 	}
 
-	completeFormMap, ok := svc.Cache.Get("complete_form")
+	completeFormMap, ok := svc.Cache.Get(completeFormKey)
 	if !ok {
 		completeFormJson := make([]CompleteForm, 0)
 		err := json.Unmarshal(completeFormBytes, &completeFormJson)
@@ -125,7 +129,7 @@ func RankListHandler(c iris.Context) {
 			}
 		}
 		completeFormMap = lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
-		svc.Cache.Set("complete_form", completeFormMap, cache.NoExpiration)
+		svc.Cache.Set(completeFormKey, completeFormMap, cache.NoExpiration)
 	}
 
 	completeForm, ok := completeFormMap.(map[string]CompleteForm)[schoolName]
@@ -135,7 +139,7 @@ func RankListHandler(c iris.Context) {
 		return
 	}
 
-	rankScoreMap, ok := svc.Cache.Get("rank_score")
+	rankScoreMap, ok := svc.Cache.Get(rankScoreKey)
 	if !ok {
 		rankScoreJson := make([]RankScoreItem, 0)
 		err := json.Unmarshal(rankScoreBytes, &rankScoreJson)
@@ -147,7 +151,7 @@ func RankListHandler(c iris.Context) {
 		}
 
 		rankScoreMap = lo.SliceToMap(rankScoreJson, func(item RankScoreItem) (string, RankScoreItem) { return item.SchoolChinese, item })
-		svc.Cache.Set("rank_list", rankScoreMap, cache.NoExpiration)
+		svc.Cache.Set(rankScoreKey, rankScoreMap, cache.NoExpiration)
 	}
 
 	rankScore, ok := rankScoreMap.(map[string]RankScoreItem)[schoolName]
