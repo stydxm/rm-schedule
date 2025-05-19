@@ -3,6 +3,7 @@ package handler
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/kataras/iris/v12/x/errors"
 	"log"
 
 	"github.com/kataras/iris/v12"
@@ -56,22 +57,8 @@ var SeasonRankScoreMap = map[string][]byte{
 
 func RankListHandler(c iris.Context) {
 	season := c.URLParam("season")
-	completeFormKey := fmt.Sprintf("complete_form_%s", season)
 	rankScoreKey := fmt.Sprintf("rank_score_%s", season)
-
-	var completeFormBytes []byte
-	var completeFormRankBytes []byte
 	var rankScoreBytes []byte
-	if data, ok := SeasonCompleteFormMap[season]; ok {
-		completeFormBytes = data
-	} else {
-		completeFormBytes = static.CompleteFormBytes
-	}
-	if data, ok := SeasonCompleteFormRankMap[season]; ok {
-		completeFormRankBytes = data
-	} else {
-		completeFormRankBytes = static.CompleteFormRankBytes
-	}
 	if data, ok := SeasonRankScoreMap[season]; ok {
 		rankScoreBytes = data
 	} else {
@@ -85,54 +72,13 @@ func RankListHandler(c iris.Context) {
 		return
 	}
 
-	completeFormMap, ok := svc.Cache.Get(completeFormKey)
-	if !ok {
-		completeFormJson := make([]CompleteForm, 0)
-		err := json.Unmarshal(completeFormBytes, &completeFormJson)
-		if err != nil {
-			log.Printf("Failed to parse complete form: %v\n", err)
-			c.StatusCode(500)
-			c.JSON(iris.Map{"code": -1, "msg": "Failed to parse complete form"})
-			return
-		}
-
-		if len(completeFormRankBytes) != 0 {
-			// 有完整形态排名
-			completeFormRankJson := make([]CompleteFormRank, 0)
-			err = json.Unmarshal(completeFormRankBytes, &completeFormRankJson)
-			if err != nil {
-				log.Printf("Failed to parse complete form rank: %v\n", err)
-				c.StatusCode(500)
-				c.JSON(iris.Map{"code": -1, "msg": "Failed to parse complete form rank"})
-				return
-			}
-			completeFormRankMap := make(map[string]CompleteFormRank)
-			for _, item := range completeFormRankJson {
-				completeFormRankMap[item.School] = item
-			}
-			for i, item := range completeFormJson {
-				if rankItem, ok := completeFormRankMap[item.School]; ok {
-					completeFormJson[i].Rank = rankItem.Rank
-				}
-			}
-		} else {
-			// 无完整形态排名 按照金币数量计算
-			// 并列名次处理
-			var rank int
-			var lastCoinTotal int
-			for i := range completeFormJson {
-				if completeFormJson[i].InitialCoinTotal != lastCoinTotal {
-					rank = i + 1
-				}
-				completeFormJson[i].Rank = rank
-				lastCoinTotal = completeFormJson[i].InitialCoinTotal
-			}
-		}
-		completeFormMap = lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
-		svc.Cache.Set(completeFormKey, completeFormMap, cache.NoExpiration)
+	completeFormMap, err := GetCompleteFormMap(season)
+	if err != nil {
+		c.StatusCode(500)
+		c.JSON(iris.Map{"code": -1, "msg": "Failed to get complete form"})
+		return
 	}
-
-	completeForm, ok := completeFormMap.(map[string]CompleteForm)[schoolName]
+	completeForm, ok := completeFormMap[schoolName]
 	if !ok {
 		c.StatusCode(404)
 		c.JSON(iris.Map{"code": -1, "msg": "School not found"})
@@ -166,4 +112,68 @@ func RankListHandler(c iris.Context) {
 		RankScoreItem: rankScore,
 		CompleteForm:  completeForm,
 	})
+}
+
+// GetCompleteFormMap 获取完整形态
+func GetCompleteFormMap(season string) (map[string]CompleteForm, error) {
+	completeFormKey := fmt.Sprintf("complete_form_%s", season)
+	ret, ok := svc.Cache.Get(completeFormKey)
+	if ok {
+		return ret.(map[string]CompleteForm), nil
+	}
+
+	var completeFormBytes []byte
+	var completeFormRankBytes []byte
+	if data, ok := SeasonCompleteFormMap[season]; ok {
+		completeFormBytes = data
+	} else {
+		completeFormBytes = static.CompleteFormBytes
+	}
+	if data, ok := SeasonCompleteFormRankMap[season]; ok {
+		completeFormRankBytes = data
+	} else {
+		completeFormRankBytes = static.CompleteFormRankBytes
+	}
+
+	completeFormJson := make([]CompleteForm, 0)
+	err := json.Unmarshal(completeFormBytes, &completeFormJson)
+	if err != nil {
+		log.Printf("Failed to parse complete form: %v\n", err)
+		return nil, errors.New("Failed to parse complete form")
+	}
+
+	if len(completeFormRankBytes) != 0 {
+		// 有完整形态排名
+		completeFormRankJson := make([]CompleteFormRank, 0)
+		err = json.Unmarshal(completeFormRankBytes, &completeFormRankJson)
+		if err != nil {
+			log.Printf("Failed to parse complete form rank: %v\n", err)
+			return nil, errors.New("Failed to parse complete form rank")
+		}
+		completeFormRankMap := make(map[string]CompleteFormRank)
+		for _, item := range completeFormRankJson {
+			completeFormRankMap[item.School] = item
+		}
+		for i, item := range completeFormJson {
+			if rankItem, ok := completeFormRankMap[item.School]; ok {
+				completeFormJson[i].Rank = rankItem.Rank
+			}
+		}
+	} else {
+		// 无完整形态排名 按照金币数量计算
+		// 并列名次处理
+		var rank int
+		var lastCoinTotal int
+		for i := range completeFormJson {
+			if completeFormJson[i].InitialCoinTotal != lastCoinTotal {
+				rank = i + 1
+			}
+			completeFormJson[i].Rank = rank
+			lastCoinTotal = completeFormJson[i].InitialCoinTotal
+		}
+	}
+	completeFormMap := lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
+	svc.Cache.Set(completeFormKey, completeFormMap, cache.NoExpiration)
+
+	return completeFormMap, nil
 }
