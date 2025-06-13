@@ -34,7 +34,7 @@ func GroupRankInfoHandler(c iris.Context) {
 
 	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
 		c.Header("Cache-Control", GroupRankInfoCacheControl)
-		c.Redirect(job.GroupRankInfoUrl, 301)
+		c.Redirect(job.Params["group_rank_static"].Url, 301)
 		return
 	}
 

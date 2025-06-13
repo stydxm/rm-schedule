@@ -23,7 +23,7 @@ func RobotDataHandler(c iris.Context) {
 	// 是否存在 Tencent-Acceleration-Domain-Name
 	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
 		c.Header("Cache-Control", RobotDataCacheControl)
-		c.Redirect(job.RobotDataUrl, 301)
+		c.Redirect(job.Params["robot_data"].Url, 301)
 		return
 	}
 

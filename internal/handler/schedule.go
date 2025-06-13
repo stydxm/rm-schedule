@@ -36,7 +36,7 @@ func ScheduleHandler(c iris.Context) {
 	// 是否存在 Tencent-Acceleration-Domain-Name
 	if c.GetHeader("Tencent-Acceleration-Domain-Name") != "" {
 		c.Header("Cache-Control", ScheduleCacheControl)
-		c.Redirect(job.ScheduleUrl, 301)
+		c.Redirect(job.Params["schedule"].Url, 301)
 		return
 	}
 
