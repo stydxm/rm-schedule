@@ -19,6 +19,11 @@ func InitCronJob() *cron.Cron {
 		log.Fatalf("cron add func failed: %v", err)
 	}
 
+	_, err = c.AddFunc("@every 5s", UpdateRobotData)
+	if err != nil {
+		log.Fatalf("cron add func failed: %v", err)
+	}
+
 	UpdateGroupRankInfo()
 	UpdateSchedule()
 

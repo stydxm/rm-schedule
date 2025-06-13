@@ -13,6 +13,7 @@ func Router(r *iris.Application, frontend string) {
 	api.Get("/static/*path", handler.RMStaticHandler)
 	api.Get("/mp/match", handler.MpMatchHandler)
 	api.Get("/rank", handler.RankListHandler)
+	api.Get("/robot_data", handler.RobotDataHandler)
 
 	r.HandleDir("/", iris.Dir(frontend), iris.DirOptions{
 		IndexName: "index.html",
