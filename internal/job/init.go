@@ -26,6 +26,7 @@ func InitCronJob() *cron.Cron {
 
 	UpdateGroupRankInfo()
 	UpdateSchedule()
+	UpdateRobotData()
 
 	return c
 }
