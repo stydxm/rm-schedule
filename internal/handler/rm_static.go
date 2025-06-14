@@ -49,6 +49,6 @@ func RMStaticHandler(c iris.Context) {
 	svc.Cache.Set("static"+path, bytes, cache.DefaultExpiration)
 
 	c.Header("Cache-Control", "public, max-age=3600")
-	c.ContentType("image/png")
+	c.ContentType(resp.Header.Get("Content-Type"))
 	c.Write(bytes)
 }
