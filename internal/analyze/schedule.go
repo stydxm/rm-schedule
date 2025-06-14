@@ -14,7 +14,7 @@ import (
 
 // GetScheduleData 获取赛程数据
 func GetScheduleData() ([]byte, error) {
-	resp, err := http.Get(job.ScheduleUrl)
+	resp, err := http.Get(job.Params["schedule"].Url)
 	if err != nil {
 		return nil, err
 	}

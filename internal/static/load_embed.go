@@ -19,6 +19,9 @@ var ScheduleBytes []byte
 //go:embed group_rank_info.json
 var GroupRankInfoBytes []byte
 
+//go:embed robot_data.json
+var RobotDataBytes []byte
+
 // 2024 赛季的静态文件
 
 //go:embed season_2024/complete_form.json
