@@ -1,6 +1,7 @@
 package job
 
 import (
+	"github.com/scutrobotlab/rm-schedule/internal/common"
 	"log"
 
 	"github.com/robfig/cron/v3"
@@ -13,19 +14,19 @@ type CronJobParam struct {
 }
 
 var Params = map[string]CronJobParam{
-	"group_rank_info": {
-		Name:            "group_rank_info",
-		Url:             "https://pro-robomasters-hz-n5i3.oss-cn-hangzhou.aliyuncs.com/live_json/group_rank_info.json",
+	common.UpstreamNameGroupRankInfo: {
+		Name:            common.UpstreamNameGroupRankInfo,
+		Url:             common.UpstreamUrlGroupRankInfo,
 		ReplaceRMStatic: false,
 	},
-	"robot_data": {
-		Name:            "robot_data",
-		Url:             "https://pro-robomasters-hz-n5i3.oss-cn-hangzhou.aliyuncs.com/live_json/robot_data.json",
+	common.UpstreamNameRobotData: {
+		Name:            common.UpstreamNameRobotData,
+		Url:             common.UpstreamUrlRobotData,
 		ReplaceRMStatic: false,
 	},
-	"schedule": {
-		Name:            "schedule",
-		Url:             "https://pro-robomasters-hz-n5i3.oss-cn-hangzhou.aliyuncs.com/live_json/schedule.json",
+	common.UpstreamNameSchedule: {
+		Name:            common.UpstreamNameSchedule,
+		Url:             common.UpstreamUrlSchedule,
 		ReplaceRMStatic: true,
 	},
 }
