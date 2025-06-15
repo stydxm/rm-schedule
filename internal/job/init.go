@@ -7,7 +7,8 @@ import (
 )
 
 type CronJobParam struct {
-	Name, Url       string
+	Name            string
+	Url             string
 	ReplaceRMStatic bool
 }
 

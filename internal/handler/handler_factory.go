@@ -6,10 +6,12 @@ import (
 )
 
 type RouteHandlerParam struct {
-	Name, CacheControl, OriginalUrl string
-	Static                          bool
-	SeasonMap                       map[string][]byte
-	Data                            []byte
+	Name         string
+	CacheControl string
+	OriginalUrl  string
+	Static       bool
+	SeasonMap    map[string][]byte
+	Data         []byte
 }
 
 func RouteHandlerFactory(param RouteHandlerParam) func(c iris.Context) {
