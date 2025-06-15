@@ -13,18 +13,18 @@ type CronJobParam struct {
 	ReplaceRMStatic bool
 }
 
-var Params = map[string]CronJobParam{
-	common.UpstreamNameGroupRankInfo: {
+var Params = []CronJobParam{
+	{
 		Name:            common.UpstreamNameGroupRankInfo,
 		Url:             common.UpstreamUrlGroupRankInfo,
 		ReplaceRMStatic: false,
 	},
-	common.UpstreamNameRobotData: {
+	{
 		Name:            common.UpstreamNameRobotData,
 		Url:             common.UpstreamUrlRobotData,
 		ReplaceRMStatic: false,
 	},
-	common.UpstreamNameSchedule: {
+	{
 		Name:            common.UpstreamNameSchedule,
 		Url:             common.UpstreamUrlSchedule,
 		ReplaceRMStatic: true,
