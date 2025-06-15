@@ -5,7 +5,8 @@ import (
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 )
 
-type RouteHandlerParam struct {
+// RedirectRouteHandlerParam 定义重定向路由处理器的参数
+type RedirectRouteHandlerParam struct {
 	Name         string
 	CacheControl string
 	OriginalUrl  string
@@ -14,7 +15,8 @@ type RouteHandlerParam struct {
 	Data         []byte
 }
 
-func RouteHandlerFactory(param RouteHandlerParam) func(c iris.Context) {
+// RedirectRouteHandlerFactory 处理重定向路由的工厂函数
+func RedirectRouteHandlerFactory(param RedirectRouteHandlerParam) func(c iris.Context) {
 	return func(c iris.Context) {
 		if param.SeasonMap != nil {
 			season := c.URLParam("season")
