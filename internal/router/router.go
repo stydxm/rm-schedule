@@ -1,7 +1,6 @@
 package router
 
 import (
-	"fmt"
 	"github.com/kataras/iris/v12"
 	"github.com/scutrobotlab/rm-schedule/internal/common"
 	"github.com/scutrobotlab/rm-schedule/internal/handler"
@@ -45,10 +44,9 @@ func Router(r *iris.Application, frontend string) {
 	api.Get("/static/*path", handler.RMStaticHandler)
 	api.Get("/mp/match", handler.MpMatchHandler)
 	api.Get("/rank", handler.RankListHandler)
-
-	for name, param := range Params {
-		api.Get(fmt.Sprintf("/%s", name), handler.RouteHandlerFactory(param))
-	}
+	api.Get("/group_rank_info", handler.RouteHandlerFactory(Params[common.UpstreamNameGroupRankInfo]))
+	api.Get("/robot_data", handler.RouteHandlerFactory(Params[common.UpstreamNameRobotData]))
+	api.Get("/schedule", handler.RouteHandlerFactory(Params[common.UpstreamNameSchedule]))
 
 	r.HandleDir("/", iris.Dir(frontend), iris.DirOptions{
 		IndexName: "index.html",
