@@ -10,7 +10,7 @@ import (
 var RedirectParams = map[string]handler.RedirectRouteHandlerParam{
 	common.UpstreamNameGroupRankInfo: {
 		Name:         common.UpstreamNameGroupRankInfo,
-		Static:       false,
+		Static:       true,
 		CacheControl: "public, max-age=5",
 		OriginalUrl:  common.UpstreamUrlGroupRankInfo,
 		Data:         static.GroupRankInfoBytes,
@@ -20,7 +20,7 @@ var RedirectParams = map[string]handler.RedirectRouteHandlerParam{
 	},
 	common.UpstreamNameRobotData: {
 		Name:         common.UpstreamNameRobotData,
-		Static:       false,
+		Static:       true,
 		CacheControl: "public, max-age=5",
 		OriginalUrl:  common.UpstreamUrlRobotData,
 		Data:         static.RobotDataBytes,
@@ -28,7 +28,7 @@ var RedirectParams = map[string]handler.RedirectRouteHandlerParam{
 	},
 	common.UpstreamNameSchedule: {
 		Name:         common.UpstreamNameSchedule,
-		Static:       false,
+		Static:       true,
 		CacheControl: "public, max-age=5",
 		OriginalUrl:  common.UpstreamUrlSchedule,
 		Data:         static.ScheduleBytes,
