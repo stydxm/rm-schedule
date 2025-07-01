@@ -15,6 +15,8 @@ func Router(r *iris.Application, frontend string) {
 	api.Get("/group_rank_info", handler.RedirectRouteHandlerFactory(RedirectParams[common.UpstreamNameGroupRankInfo]))
 	api.Get("/robot_data", handler.RedirectRouteHandlerFactory(RedirectParams[common.UpstreamNameRobotData]))
 	api.Get("/schedule", handler.RedirectRouteHandlerFactory(RedirectParams[common.UpstreamNameSchedule]))
+	api.Get("/match_id_to_video", handler.MatchIDHandler)
+	api.Get("/match_order_to_video", handler.MatchOrderHandler)
 
 	r.HandleDir("/", iris.Dir(frontend), iris.DirOptions{
 		IndexName: "index.html",
