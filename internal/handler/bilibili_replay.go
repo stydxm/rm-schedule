@@ -36,16 +36,16 @@ func MatchIDHandler(c iris.Context) {
 func MatchOrderHandler(c iris.Context) {
 	season := c.URLParam("season")
 	zone := c.URLParam("zone")
-	_matchOrder := c.URLParam("match_order")
-	if season == "" || zone == "" || _matchOrder == "" {
+	_orderNumber := c.URLParam("order_number")
+	if season == "" || zone == "" || _orderNumber == "" {
 		c.StatusCode(400)
-		c.JSON(iris.Map{"error": "season & zone & match_order is required"})
+		c.JSON(iris.Map{"error": "season & zone & order_number is required"})
 		return
 	}
-	matchOrder, err := strconv.Atoi(_matchOrder)
+	orderNumber, err := strconv.Atoi(_orderNumber)
 	if err != nil {
 		c.StatusCode(400)
-		c.JSON(iris.Map{"error": "match_order should be int"})
+		c.JSON(iris.Map{"error": "order_number should be int"})
 		return
 	}
 
@@ -69,7 +69,7 @@ func MatchOrderHandler(c iris.Context) {
 		c.JSON(iris.Map{"code": -1, "msg": "Zone not found"})
 		return
 	}
-	video, ok := selectedZone[matchOrder]
+	video, ok := selectedZone[orderNumber]
 	if !ok {
 		c.StatusCode(404)
 		c.JSON(iris.Map{"code": -1, "msg": "Match not found"})
