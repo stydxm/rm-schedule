@@ -1,0 +1,1556 @@
+[
+  {
+    "group": "RM",
+    "nickname": "UARM_Artemis战队",
+    "school": "阿尔伯塔大学",
+    "uid": 1809005975
+  },
+  {
+    "group": "RM",
+    "nickname": "安徽理工大学鸿烈战队",
+    "school": "安徽理工大学",
+    "uid": 1520157998
+  },
+  {
+    "group": "RM",
+    "nickname": "Artisans机器人工作室",
+    "school": "安徽信息工程学院",
+    "uid": 480994440
+  },
+  {
+    "group": "RM",
+    "nickname": "北部湾大学飞虎战队",
+    "school": "北部湾大学",
+    "uid": 2004335409
+  },
+  {
+    "group": "RM",
+    "nickname": "北方工大DreamTeam",
+    "school": "北方工业大学",
+    "uid": 483728350
+  },
+  {
+    "group": "RM",
+    "nickname": "PIP机器人战队",
+    "school": "北京工业大学",
+    "uid": 1089014863
+  },
+  {
+    "group": "RM",
+    "nickname": "北航机器人队BR",
+    "school": "北京航空航天大学",
+    "uid": 3546810920471028
+  },
+  {
+    "group": "RM",
+    "nickname": "RoboMaster北吉星",
+    "school": "北京吉利学院",
+    "uid": 495156726
+  },
+  {
+    "group": "RM",
+    "nickname": "BNGU战队",
+    "school": "北京交通大学（威海）",
+    "uid": 2116207227
+  },
+  {
+    "group": "RM",
+    "nickname": "北科大Reborn机器人队",
+    "school": "北京科技大学",
+    "uid": 35313085
+  },
+  {
+    "group": "RM",
+    "nickname": "北理工追梦战队",
+    "school": "北京理工大学",
+    "uid": 411495552
+  },
+  {
+    "group": "RM",
+    "nickname": "北理珠毅恒战队",
+    "school": "北京理工大学珠海学院",
+    "uid": 1751158266
+  },
+  {
+    "group": "RM",
+    "nickname": "嗷呜嗷呜的森林狼战队",
+    "school": "北京林业大学",
+    "uid": 1006533854
+  },
+  {
+    "group": "RM",
+    "nickname": "UIC-Navigator",
+    "school": "北京师范大学-香港浸会大学联合国际学院",
+    "uid": 3546373957880136
+  },
+  {
+    "group": "RM",
+    "nickname": "Unicorn行空工作室",
+    "school": "北京石油化工学院",
+    "uid": 3546835891259510
+  },
+  {
+    "group": "RM",
+    "nickname": "北信科Astra战队",
+    "school": "北京信息科技大学",
+    "uid": 1300735030
+  },
+  {
+    "group": "RM",
+    "nickname": "北邮逐雁战队",
+    "school": "北京邮电大学",
+    "uid": 549118149
+  },
+  {
+    "group": "RM",
+    "nickname": "RM常大Climber战队",
+    "school": "常州大学",
+    "uid": 1419737293
+  },
+  {
+    "group": "RM",
+    "nickname": "常工FA机器人战队",
+    "school": "常州工学院赫特福德学院",
+    "uid": 3546643565643900
+  },
+  {
+    "group": "RM",
+    "nickname": "成都大学Ultra战队",
+    "school": "成都大学",
+    "uid": 1402799613
+  },
+  {
+    "group": "RM",
+    "nickname": "成都工业Success战队",
+    "school": "成都工业学院",
+    "uid": 1923274493
+  },
+  {
+    "group": "RM",
+    "nickname": "核聚nucleus战队",
+    "school": "成都理工大学工程技术学院",
+    "uid": 1441712577
+  },
+  {
+    "group": "RM",
+    "nickname": "风信子战队",
+    "school": "成都信息工程大学",
+    "uid": 510594686
+  },
+  {
+    "group": "RM",
+    "nickname": "重庆大学千里战队",
+    "school": "重庆大学",
+    "uid": 1432987899
+  },
+  {
+    "group": "RM",
+    "nickname": "FGT-扶光战队",
+    "school": "重庆第二师范学院",
+    "uid": 3493123353217971
+  },
+  {
+    "group": "RM",
+    "nickname": "重理工士继DREAMER战队",
+    "school": "重庆理工大学",
+    "uid": 1032748998
+  },
+  {
+    "group": "RM",
+    "nickname": "CTGU-LionHeart战队",
+    "school": "重庆三峡学院",
+    "uid": 1862361970
+  },
+  {
+    "group": "RM",
+    "nickname": "重邮重山RM",
+    "school": "重庆邮电大学",
+    "uid": 3546581974387617
+  },
+  {
+    "group": "RM",
+    "nickname": "智能引擎机器人队",
+    "school": "大连大学",
+    "uid": 1099055596
+  },
+  {
+    "group": "RM",
+    "nickname": "TOE创新实验室",
+    "school": "大连交通大学",
+    "uid": 475886688
+  },
+  {
+    "group": "RM",
+    "nickname": "凌BUG战队",
+    "school": "大连理工大学",
+    "uid": 316514143
+  },
+  {
+    "group": "RM",
+    "nickname": "大连民族大学CONE战队",
+    "school": "大连民族大学",
+    "uid": 1105335220
+  },
+  {
+    "group": "RM",
+    "nickname": "Texas-Aimbots",
+    "school": "德州农工大学",
+    "uid": 3546392635115719
+  },
+  {
+    "group": "RM",
+    "nickname": "微城市V-CTIM战队",
+    "school": "电子科技大学成都学院",
+    "uid": 1674757489
+  },
+  {
+    "group": "RM",
+    "nickname": "电科中山RoboBraver",
+    "school": "电子科技大学中山学院",
+    "uid": 482366311
+  },
+  {
+    "group": "RM",
+    "nickname": "RB人的日常",
+    "school": "电子科技大学中山学院",
+    "uid": 3546678256732596
+  },
+  {
+    "group": "RM",
+    "nickname": "东北大学T-DT实验室",
+    "school": "东北大学",
+    "uid": 441058262
+  },
+  {
+    "group": "RM",
+    "nickname": "征龙凌沧机甲战队",
+    "school": "东北大学秦皇岛分校",
+    "uid": 1413659378
+  },
+  {
+    "group": "RM",
+    "nickname": "东林Ares实验室",
+    "school": "东北林业大学",
+    "uid": 2111524758
+  },
+  {
+    "group": "RM",
+    "nickname": "ajjsjsb",
+    "school": "东莞理工学院",
+    "uid": 435657962
+  },
+  {
+    "group": "RM",
+    "nickname": "DGUT-ACE战队",
+    "school": "东莞理工学院",
+    "uid": 1580858117
+  },
+  {
+    "group": "RM",
+    "nickname": "莞工ACE机器人战队",
+    "school": "东莞理工学院",
+    "uid": 1674900345
+  },
+  {
+    "group": "RM",
+    "nickname": "KineticRobotics",
+    "school": "东莞理工学院粤台产业科技学院\u0026\n东莞理工学院中法联合学院\u0026\n法国国立工艺学院\u0026\n台湾中正大学",
+    "uid": 3546592038619425
+  },
+  {
+    "group": "RM",
+    "nickname": "东华大学DIODE战队",
+    "school": "东华大学",
+    "uid": 628899287
+  },
+  {
+    "group": "RM",
+    "nickname": "东南大学3SE战队",
+    "school": "东南大学",
+    "uid": 1911835891
+  },
+  {
+    "group": "RM",
+    "nickname": "思玄机器人战队",
+    "school": "防灾科技学院",
+    "uid": 3461564694792769
+  },
+  {
+    "group": "RM",
+    "nickname": "醒狮战队",
+    "school": "佛山大学（原佛山科学技术学院）",
+    "uid": 477174788
+  },
+  {
+    "group": "RM",
+    "nickname": "FJUT机器人实验室",
+    "school": "福建理工大学",
+    "uid": 228802230
+  },
+  {
+    "group": "RM",
+    "nickname": "福建农林大学071战队",
+    "school": "福建农林大学",
+    "uid": 490985999
+  },
+  {
+    "group": "RM",
+    "nickname": "福师大机器人协会",
+    "school": "福建师范大学",
+    "uid": 2084906333
+  },
+  {
+    "group": "RM",
+    "nickname": "浮舟湿地战队",
+    "school": "福州大学",
+    "uid": 1061925512
+  },
+  {
+    "group": "RM",
+    "nickname": "复旦大学星云EGA战队",
+    "school": "复旦大学",
+    "uid": 3546796338973608
+  },
+  {
+    "group": "RM",
+    "nickname": "AOCM战队",
+    "school": "广东第二师范学院",
+    "uid": 3493135055325572
+  },
+  {
+    "group": "RM",
+    "nickname": "广东工业大学DynamicX",
+    "school": "广东工业大学",
+    "uid": 1773012463
+  },
+  {
+    "group": "RM",
+    "nickname": "GDOU浪潮战队",
+    "school": "广东海洋大学",
+    "uid": 1824598955
+  },
+  {
+    "group": "RM",
+    "nickname": "广交院擎天战队",
+    "school": "广东交通职业技术学院",
+    "uid": 1804404370
+  },
+  {
+    "group": "RM",
+    "nickname": "广轻工Inventor战队",
+    "school": "广东轻工职业技术大学",
+    "uid": 1812591932
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "广西大学ROBOT-Z",
+    "school": "广西大学",
+    "uid": 1699032759
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "GCU野狼队",
+    "school": "广州城市理工学院（原华南理工大学广州学院）",
+    "uid": 668390955
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "广城理机器人工程学院",
+    "school": "广州城市理工学院（原华南理工大学广州学院）",
+    "uid": 1423479455
+  },
+  {
+    "group": "RM",
+    "nickname": "广工商Alice战队",
+    "school": "广州工商学院",
+    "uid": 3546565140548514
+  },
+  {
+    "group": "RM",
+    "nickname": "ICBK破冰船实验室",
+    "school": "广州航海学院",
+    "uid": 1412291067
+  },
+  {
+    "group": "RM",
+    "nickname": "ICeBreaKer破冰船战队",
+    "school": "广州航海学院",
+    "uid": 3494367067113610
+  },
+  {
+    "group": "RM",
+    "nickname": "南風战队",
+    "school": "广州南方学院（原中山大学南方学院）",
+    "uid": 1129036891
+  },
+  {
+    "group": "RM",
+    "nickname": "IRONR机器人实验室",
+    "school": "广州铁路职业技术学院",
+    "uid": 3493143049669164
+  },
+  {
+    "group": "RM",
+    "nickname": "人文大信-rob工作室",
+    "school": "贵阳人文科技学院",
+    "uid": 1488098988
+  },
+  {
+    "group": "RM",
+    "nickname": "贵州大学printk战队",
+    "school": "贵州大学",
+    "uid": 3546884966713847
+  },
+  {
+    "group": "RM",
+    "nickname": "桂电机器人中心",
+    "school": "桂林电子科技大学",
+    "uid": 476451232
+  },
+  {
+    "group": "RM",
+    "nickname": "破浪笃行战队",
+    "school": "桂林电子科技大学北海校区",
+    "uid": 483571470
+  },
+  {
+    "group": "RM",
+    "nickname": "桂林理工大学群星战队",
+    "school": "桂林理工大学",
+    "uid": 1435056133
+  },
+  {
+    "group": "RM",
+    "nickname": "桂林信科GIRT机器人队",
+    "school": "桂林信息科技学院（原桂林电子科技大学信息科技学院）",
+    "uid": 337318265
+  },
+  {
+    "group": "RM",
+    "nickname": "RM军临战队",
+    "school": "国防科技大学",
+    "uid": 3546581995358226
+  },
+  {
+    "group": "RM",
+    "nickname": "哈工程创梦之翼战队",
+    "school": "哈尔滨工程大学",
+    "uid": 440137526
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "哈工大竞技机器人队",
+    "school": "哈尔滨工业大学",
+    "uid": 46946247
+  },
+  {
+    "group": "RM",
+    "nickname": "哈工大深圳-南工骁鹰",
+    "school": "哈尔滨工业大学（深圳）",
+    "uid": 1559398123
+  },
+  {
+    "group": "RM",
+    "nickname": "HERO竞技机器人实验室",
+    "school": "哈尔滨工业大学（威海）",
+    "uid": 208915710
+  },
+  {
+    "group": "RM",
+    "nickname": "哈工大威海HERO战队",
+    "school": "哈尔滨工业大学（威海）",
+    "uid": 449298626
+  },
+  {
+    "group": "RM",
+    "nickname": "AIR智能机器人实验室",
+    "school": "哈尔滨理工大学",
+    "uid": 484165823
+  },
+  {
+    "group": "RM",
+    "nickname": "南海鲨机器人实验室",
+    "school": "海南大学",
+    "uid": 2139574745
+  },
+  {
+    "group": "RM",
+    "nickname": "HDU-PHOENIX战队",
+    "school": "杭州电子科技大学",
+    "uid": 538837098
+  },
+  {
+    "group": "RM",
+    "nickname": "HFUT苍穹机甲大师战队",
+    "school": "合肥工业大学",
+    "uid": 1922989965
+  },
+  {
+    "group": "RM",
+    "nickname": "合工大WDR机器人实验室",
+    "school": "合肥工业大学宣城校区",
+    "uid": 1356045643
+  },
+  {
+    "group": "RM",
+    "nickname": "直隶机甲",
+    "school": "河北大学",
+    "uid": 3546561762036347
+  },
+  {
+    "group": "RM",
+    "nickname": "河北工业山海机甲战队",
+    "school": "河北工业大学",
+    "uid": 2055273988
+  },
+  {
+    "group": "RM",
+    "nickname": "奇点智联战队",
+    "school": "河北轨道运输职业技术学院",
+    "uid": 1325564655
+  },
+  {
+    "group": "RM",
+    "nickname": "LuBan战队",
+    "school": "河北建筑工程学院",
+    "uid": 3546380951881754
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "河北科技大学机器人队",
+    "school": "河北科技大学",
+    "uid": 1629496353
+  },
+  {
+    "group": "RM",
+    "nickname": "RoboMaster-鼎行双创",
+    "school": "河南科技大学",
+    "uid": 1990019463
+  },
+  {
+    "group": "RM",
+    "nickname": "LBT机器人实验室",
+    "school": "黑河学院",
+    "uid": 1586691846
+  },
+  {
+    "group": "RM",
+    "nickname": "湖二师-DuangOne战队",
+    "school": "湖北第二师范学院",
+    "uid": 3546750077896852
+  },
+  {
+    "group": "RM",
+    "nickname": "湖工大力创",
+    "school": "湖北工业大学",
+    "uid": 1507033608
+  },
+  {
+    "group": "RM",
+    "nickname": "湖南大学跃鹿战队",
+    "school": "湖南大学",
+    "uid": 522795884
+  },
+  {
+    "group": "RM",
+    "nickname": "湖工Vortex战队",
+    "school": "湖南工程学院",
+    "uid": 3461566267656574
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "湘农机器人",
+    "school": "湖南农业大学",
+    "uid": 3546794193587156
+  },
+  {
+    "group": "RM",
+    "nickname": "Lab_of_Hunters",
+    "school": "华北电力大学",
+    "uid": 3494352586279326
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "NCIST风暴战队",
+    "school": "华北科技学院",
+    "uid": 491873722
+  },
+  {
+    "group": "RM",
+    "nickname": "华北理工RM创新实验室",
+    "school": "华北理工大学",
+    "uid": 481866846
+  },
+  {
+    "group": "RM",
+    "nickname": "华理Origin起源战队",
+    "school": "华东理工大学",
+    "uid": 499504991
+  },
+  {
+    "group": "RM",
+    "nickname": "华工机器人实验室",
+    "school": "华南理工大学",
+    "uid": 523048929
+  },
+  {
+    "group": "RM",
+    "nickname": "华南农大Taurus战队",
+    "school": "华南农业大学",
+    "uid": 1168989303
+  },
+  {
+    "group": "RM",
+    "nickname": "华南师大PIONEER战队",
+    "school": "华南师范大学",
+    "uid": 1896341925
+  },
+  {
+    "group": "RM",
+    "nickname": "华南师大VANGUARD战队",
+    "school": "华南师范大学（佛山校区）",
+    "uid": 3493270558607999
+  },
+  {
+    "group": "RM",
+    "nickname": "华侨大学EDR",
+    "school": "华侨大学",
+    "uid": 1571194755
+  },
+  {
+    "group": "RM",
+    "nickname": "ARUW机甲大师",
+    "school": "华盛顿大学",
+    "uid": 3493076718848104
+  },
+  {
+    "group": "RM",
+    "nickname": "华中科技大学狼牙战队",
+    "school": "华中科技大学",
+    "uid": 475402455
+  },
+  {
+    "group": "RM",
+    "nickname": "惠州学院District46",
+    "school": "惠州学院",
+    "uid": 1795299552
+  },
+  {
+    "group": "RM",
+    "nickname": "吉林大学TARS_Go战队",
+    "school": "吉林大学",
+    "uid": 488284486
+  },
+  {
+    "group": "RM",
+    "nickname": "集美大学-TEF科来",
+    "school": "集美大学",
+    "uid": 651717103
+  },
+  {
+    "group": "RM",
+    "nickname": "潜渊战队",
+    "school": "集美大学诚毅学院",
+    "uid": 3546588364409313
+  },
+  {
+    "group": "RM",
+    "nickname": "济大TFT战队",
+    "school": "济南大学",
+    "uid": 1714040757
+  },
+  {
+    "group": "RM",
+    "nickname": "RoboMaster凌云战队",
+    "school": "济宁学院",
+    "uid": 470806894
+  },
+  {
+    "group": "RM",
+    "nickname": "UCSB机甲大师_RMG",
+    "school": "加利福尼亚大学圣巴巴拉分校",
+    "uid": 3546578319050990
+  },
+  {
+    "group": "RM",
+    "nickname": "江南大学鼋GO战队",
+    "school": "江南大学",
+    "uid": 3493265651272483
+  },
+  {
+    "group": "RM",
+    "nickname": "江南大学SHARK战队",
+    "school": "江南大学（霞客湾校区）",
+    "uid": 3546774071413188
+  },
+  {
+    "group": "RM",
+    "nickname": "JSU-RM-Aurora战队",
+    "school": "江苏大学",
+    "uid": 690755074
+  },
+  {
+    "group": "RM",
+    "nickname": "FIVEPINES-23赛季",
+    "school": "江苏大学",
+    "uid": 1453155959
+  },
+  {
+    "group": "RM",
+    "nickname": "江苏航院飞凡创新战队",
+    "school": "江苏航空职业技术学院",
+    "uid": 3546745474648723
+  },
+  {
+    "group": "RM",
+    "nickname": "JUST-HLL机器人战队",
+    "school": "江苏科技大学",
+    "uid": 303496033
+  },
+  {
+    "group": "RM",
+    "nickname": "江工天启机器人战队",
+    "school": "江西工程学院",
+    "uid": 3546787488991647
+  },
+  {
+    "group": "RM",
+    "nickname": "机电168",
+    "school": "江西机电职业技术学院",
+    "uid": 1680373294
+  },
+  {
+    "group": "RM",
+    "nickname": "江理乘风",
+    "school": "江西理工大学",
+    "uid": 1817789132
+  },
+  {
+    "group": "RM",
+    "nickname": "津桥Courage战队",
+    "school": "昆明理工大学津桥学院",
+    "uid": 1614878100
+  },
+  {
+    "group": "RM",
+    "nickname": "LUT红柳猎人机甲工作室",
+    "school": "兰州理工大学",
+    "uid": 583837408
+  },
+  {
+    "group": "RM",
+    "nickname": "辽科大COD机器人战队",
+    "school": "辽宁科技大学",
+    "uid": 691466100
+  },
+  {
+    "group": "RM",
+    "nickname": "TCN机器人实验室",
+    "school": "辽宁石油化工大学",
+    "uid": 387003936
+  },
+  {
+    "group": "RM",
+    "nickname": "鹿人甲机器人战队",
+    "school": "柳州工学院",
+    "uid": 3546559075584646
+  },
+  {
+    "group": "RM",
+    "nickname": "MacFalcons",
+    "school": "麦克马斯特大学",
+    "uid": 1799310293
+  },
+  {
+    "group": "RM",
+    "nickname": "MTI机器人战队",
+    "school": "茅台学院",
+    "uid": 2064448484
+  },
+  {
+    "group": "RM",
+    "nickname": "MJU机器人战队",
+    "school": "闽江学院",
+    "uid": 1199505603
+  },
+  {
+    "group": "RM",
+    "nickname": "赤源机甲战队",
+    "school": "闽江学院",
+    "uid": 3546781700851847
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "南昌大学机器人队",
+    "school": "南昌大学",
+    "uid": 480643172
+  },
+  {
+    "group": "RM",
+    "nickname": "南昌航空大学洪鹰战队",
+    "school": "南昌航空大学",
+    "uid": 3461574310234959
+  },
+  {
+    "group": "RM",
+    "nickname": "南科大ARTINX战队",
+    "school": "南方科技大学",
+    "uid": 645940972
+  },
+  {
+    "group": "RM",
+    "nickname": "南华大学MA战队",
+    "school": "南华大学",
+    "uid": 1471305072
+  },
+  {
+    "group": "RM",
+    "nickname": "南京工业大学Bluespace",
+    "school": "南京工业大学",
+    "uid": 699961383
+  },
+  {
+    "group": "RM",
+    "nickname": "南航长空御风",
+    "school": "南京航空航天大学",
+    "uid": 22993364
+  },
+  {
+    "group": "RM",
+    "nickname": "南航长空御风战队",
+    "school": "南京航空航天大学",
+    "uid": 1743304417
+  },
+  {
+    "group": "RM",
+    "nickname": "巡天御风机甲战队",
+    "school": "南京航空航天大学（天目湖校区）",
+    "uid": 3546764411930963
+  },
+  {
+    "group": "RM",
+    "nickname": "南航金城BOF战队",
+    "school": "南京航空航天大学金城学院",
+    "uid": 1968803090
+  },
+  {
+    "group": "RM",
+    "nickname": "AIR机器人创意工作室",
+    "school": "南京理工大学",
+    "uid": 2098269124
+  },
+  {
+    "group": "RM",
+    "nickname": "南京理工Alliance战队",
+    "school": "南京理工大学",
+    "uid": 3493111762258202
+  },
+  {
+    "group": "RM",
+    "nickname": "南京理工Combat战队",
+    "school": "南京理工大学江阴校区",
+    "uid": 3546890614344273
+  },
+  {
+    "group": "RM",
+    "nickname": "南邮Potential战队",
+    "school": "南京邮电大学",
+    "uid": 3546863781283927
+  },
+  {
+    "group": "RM",
+    "nickname": "南开robomaster伯苓战队",
+    "school": "南开大学",
+    "uid": 3493278888495446
+  },
+  {
+    "group": "RM",
+    "nickname": "通理工紫琅战队",
+    "school": "南通理工学院",
+    "uid": 3494353592912731
+  },
+  {
+    "group": "RM",
+    "nickname": "内大KeepRunning战队",
+    "school": "内蒙古大学",
+    "uid": 3546828884675158
+  },
+  {
+    "group": "RM",
+    "nickname": "IMUST雷霆战队",
+    "school": "内蒙古科技大学",
+    "uid": 1029500998
+  },
+  {
+    "group": "RM",
+    "nickname": "内师RAIIEC战队",
+    "school": "内蒙古师范大学",
+    "uid": 3546650146507637
+  },
+  {
+    "group": "RM",
+    "nickname": "New_Legends战队",
+    "school": "宁波工程学院",
+    "uid": 1024956317
+  },
+  {
+    "group": "RM",
+    "nickname": "诺丁汉大学AIM战队",
+    "school": "宁波诺丁汉大学",
+    "uid": 1746428006
+  },
+  {
+    "group": "RM",
+    "nickname": "齐鲁工业大学Adam战队",
+    "school": "齐鲁工业大学",
+    "uid": 1475529374
+  },
+  {
+    "group": "RM",
+    "nickname": "QDU未来战队",
+    "school": "青岛大学",
+    "uid": 1309383975
+  },
+  {
+    "group": "RM",
+    "nickname": "青岛科大YKTKEMIAO战队",
+    "school": "青岛科技大学",
+    "uid": 3546788998941154
+  },
+  {
+    "group": "RM",
+    "nickname": "RoboMaster河湟谷人_",
+    "school": "青海大学",
+    "uid": 1338869163
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "厦门大学RCS机器人队",
+    "school": "厦门大学",
+    "uid": 1008703584
+  },
+  {
+    "group": "RM",
+    "nickname": "厦大嘉庚TCR战队",
+    "school": "厦门大学嘉庚学院",
+    "uid": 1432664257
+  },
+  {
+    "group": "RM",
+    "nickname": "厦门理工PFA战队",
+    "school": "厦门理工学院",
+    "uid": 1206555737
+  },
+  {
+    "group": "RM",
+    "nickname": "山东大学齐鲁战队",
+    "school": "山东大学",
+    "uid": 1968397648
+  },
+  {
+    "group": "RM",
+    "nickname": "山东华宇工学院Perserve",
+    "school": "山东华宇工学院",
+    "uid": 651450521
+  },
+  {
+    "group": "RM",
+    "nickname": "山科大SmartRobot",
+    "school": "山东科技大学",
+    "uid": 1236342541
+  },
+  {
+    "group": "RM",
+    "nickname": "山东理工大学齐奇战队",
+    "school": "山东理工大学",
+    "uid": 510329063
+  },
+  {
+    "group": "RM",
+    "nickname": "未来社-未来之翼",
+    "school": "山东石油化工学院",
+    "uid": 430574374
+  },
+  {
+    "group": "RM",
+    "nickname": "陕科大BattleSwanX",
+    "school": "陕西科技大学",
+    "uid": 550712314
+  },
+  {
+    "group": "RM",
+    "nickname": "上海大学SRM战队",
+    "school": "上海大学",
+    "uid": 471633037
+  },
+  {
+    "group": "RM",
+    "nickname": "上海电力大学灵晔战队",
+    "school": "上海电力大学",
+    "uid": 3546689117883244
+  },
+  {
+    "group": "RM",
+    "nickname": "SUES木鸢机甲工作室",
+    "school": "上海工程技术大学",
+    "uid": 238784652
+  },
+  {
+    "group": "RM",
+    "nickname": "RM云汉交龙战队",
+    "school": "上海交通大学",
+    "uid": 550225216
+  },
+  {
+    "group": "RM",
+    "nickname": "Magician战队",
+    "school": "上海科技大学",
+    "uid": 593851823
+  },
+  {
+    "group": "RM",
+    "nickname": "上科大-MAGICIAN战队",
+    "school": "上海科技大学",
+    "uid": 1187155259
+  },
+  {
+    "group": "RM",
+    "nickname": "上海理工RoboVigor战队",
+    "school": "上海理工大学",
+    "uid": 476776250
+  },
+  {
+    "group": "RM",
+    "nickname": "住在实验室的北极熊",
+    "school": "深圳北理莫斯科大学",
+    "uid": 3546375214074353
+  },
+  {
+    "group": "RM",
+    "nickname": "深大RobotPilots",
+    "school": "深圳大学",
+    "uid": 628590740
+  },
+  {
+    "group": "RM",
+    "nickname": "悍小酱RoboMaster",
+    "school": "深圳技术大学",
+    "uid": 1198181004
+  },
+  {
+    "group": "RM",
+    "nickname": "深信息撼龙战队",
+    "school": "深圳信息职业技术大学（原深圳信息职业技术学院）",
+    "uid": 3546747072678645
+  },
+  {
+    "group": "RM",
+    "nickname": "RCIA战队",
+    "school": "深圳职业技术大学",
+    "uid": 327308867
+  },
+  {
+    "group": "RM",
+    "nickname": "沈阳工业大学DTS战队",
+    "school": "沈阳工业大学",
+    "uid": 3546738902174415
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "沈工大MEIC机器人战队",
+    "school": "沈阳工业大学",
+    "uid": 3461581950158871
+  },
+  {
+    "group": "RM",
+    "nickname": "SUT赫兹矩阵创新实验室",
+    "school": "沈阳工业大学（辽阳分校）",
+    "uid": 3546768377646010
+  },
+  {
+    "group": "RM",
+    "nickname": "TUP战队",
+    "school": "沈阳航空航天大学",
+    "uid": 286752024
+  },
+  {
+    "group": "RM",
+    "nickname": "沈化TBM机器人战队",
+    "school": "沈阳化工大学",
+    "uid": 3546666533652549
+  },
+  {
+    "group": "RM",
+    "nickname": "JianfengRobotics",
+    "school": "沈阳建筑大学",
+    "uid": 388263042
+  },
+  {
+    "group": "RM",
+    "nickname": "沈理Ambition战队",
+    "school": "沈阳理工大学",
+    "uid": 702190823
+  },
+  {
+    "group": "RM",
+    "nickname": "石大戈壁明珠战队",
+    "school": "石河子大学",
+    "uid": 3494362845546660
+  },
+  {
+    "group": "RM",
+    "nickname": "石铁大_铁道兵战队",
+    "school": "石家庄铁道大学",
+    "uid": 1708564216
+  },
+  {
+    "group": "RM",
+    "nickname": "WPIE学生创新实验室",
+    "school": "首都师范大学",
+    "uid": 424286546
+  },
+  {
+    "group": "RM",
+    "nickname": "川大RM火锅战队",
+    "school": "四川大学",
+    "uid": 495153187
+  },
+  {
+    "group": "RM",
+    "nickname": "苏鸾战队机器人实验室",
+    "school": "苏州大学应用技术学院",
+    "uid": 3546592665668577
+  },
+  {
+    "group": "RM",
+    "nickname": "苏工院机甲大师RA战队",
+    "school": "苏州工学院（原常熟理工学院）",
+    "uid": 3494349631392617
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "太工机器人队",
+    "school": "太原工业学院",
+    "uid": 1571262260
+  },
+  {
+    "group": "RM",
+    "nickname": "太科NewMaker战队",
+    "school": "太原科技大学",
+    "uid": 1997999390
+  },
+  {
+    "group": "RM",
+    "nickname": "太原理工智能交通基地",
+    "school": "太原理工大学",
+    "uid": 438549485
+  },
+  {
+    "group": "RM",
+    "nickname": "北洋机甲",
+    "school": "天津大学",
+    "uid": 520634089
+  },
+  {
+    "group": "RM",
+    "nickname": "TGU电控联合实验室",
+    "school": "天津工业大学",
+    "uid": 439792156
+  },
+  {
+    "group": "RM",
+    "nickname": "LIF-LAB",
+    "school": "天津理工大学",
+    "uid": 3461578091399672
+  },
+  {
+    "group": "RM",
+    "nickname": "TJ-SuperPower战队",
+    "school": "同济大学",
+    "uid": 651837546
+  },
+  {
+    "group": "RM",
+    "nickname": "Robomaster-天禄战队",
+    "school": "同济大学浙江学院",
+    "uid": 1852368791
+  },
+  {
+    "group": "RM",
+    "nickname": "潍科AIC战队",
+    "school": "潍坊科技学院",
+    "uid": 3546602962684338
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "温职院INSIST机器人战队",
+    "school": "温州职业技术学院",
+    "uid": 3493259124935135
+  },
+  {
+    "group": "RM",
+    "nickname": "文华学院MSE-STAR",
+    "school": "文华学院",
+    "uid": 1413211104
+  },
+  {
+    "group": "RM",
+    "nickname": "ALPHA实验室",
+    "school": "文山学院",
+    "uid": 500642240
+  },
+  {
+    "group": "RM",
+    "nickname": "五邑大学IMCA战队",
+    "school": "五邑大学",
+    "uid": 1912256477
+  },
+  {
+    "group": "RM",
+    "nickname": "RM珞珈狐",
+    "school": "武汉大学",
+    "uid": 3546645455178611
+  },
+  {
+    "group": "RM",
+    "nickname": "武汉工程大学Nautilus",
+    "school": "武汉工程大学",
+    "uid": 497541103
+  },
+  {
+    "group": "RM",
+    "nickname": "WHHXIT京喜战队",
+    "school": "武汉华夏理工学院",
+    "uid": 3546873331714048
+  },
+  {
+    "group": "RM",
+    "nickname": "武汉科技大学崇实战队",
+    "school": "武汉科技大学",
+    "uid": 1932601494
+  },
+  {
+    "group": "RM",
+    "nickname": "WHUT机甲大师PRIME战队",
+    "school": "武汉理工大学",
+    "uid": 3546776657201887
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "武生智擎机器人实验室",
+    "school": "武汉生物工程学院",
+    "uid": 3546888137607701
+  },
+  {
+    "group": "RM",
+    "nickname": "西电IRobot机器人战队",
+    "school": "西安电子科技大学",
+    "uid": 436391821
+  },
+  {
+    "group": "RM",
+    "nickname": "西安交通大学笃行战队",
+    "school": "西安交通大学",
+    "uid": 3546801699293936
+  },
+  {
+    "group": "RM",
+    "nickname": "RM秦风战队",
+    "school": "西安科技大学",
+    "uid": 3493283934243236
+  },
+  {
+    "group": "RM",
+    "nickname": "西理工NEXT-E",
+    "school": "西安理工大学",
+    "uid": 1289802205
+  },
+  {
+    "group": "RM",
+    "nickname": "西工大WMJ战队",
+    "school": "西北工业大学",
+    "uid": 454165986
+  },
+  {
+    "group": "RM",
+    "nickname": "猎隼战队",
+    "school": "西北农林科技大学",
+    "uid": 3546582861482060
+  },
+  {
+    "group": "RM",
+    "nickname": "西浦GMaster",
+    "school": "西交利物浦大学",
+    "uid": 499586580
+  },
+  {
+    "group": "RM",
+    "nickname": "西浦OmniX",
+    "school": "西交利物浦大学创业家学院（太仓）",
+    "uid": 3546761413004092
+  },
+  {
+    "group": "RM",
+    "nickname": "西南大学GKD机器人队",
+    "school": "西南大学",
+    "uid": 316407854
+  },
+  {
+    "group": "RM",
+    "nickname": "西南交通大学HELIOS战队",
+    "school": "西南交通大学",
+    "uid": 1432889717
+  },
+  {
+    "group": "RM",
+    "nickname": "SMU新竹战队",
+    "school": "西南民族大学",
+    "uid": 232333210
+  },
+  {
+    "group": "RM",
+    "nickname": "IST铁人战队",
+    "school": "西南石油大学",
+    "uid": 2138265818
+  },
+  {
+    "group": "RM",
+    "nickname": "泓龙RM战队",
+    "school": "西南石油大学南充校区",
+    "uid": 3546586187565501
+  },
+  {
+    "group": "RM",
+    "nickname": "港大HerKules战队",
+    "school": "香港大学",
+    "uid": 3546388946225255
+  },
+  {
+    "group": "RM",
+    "nickname": "港科大ENTERPRIZE战队",
+    "school": "香港科技大学",
+    "uid": 634988052
+  },
+  {
+    "group": "RM",
+    "nickname": "港科广PnX战队",
+    "school": "香港科技大学（广州）",
+    "uid": 3546679787653687
+  },
+  {
+    "group": "RM",
+    "nickname": "湘大RM逐曦战队",
+    "school": "湘潭大学",
+    "uid": 1244535822
+  },
+  {
+    "group": "RM",
+    "nickname": "小白杨战队",
+    "school": "新疆大学",
+    "uid": 3546775497476325
+  },
+  {
+    "group": "RM",
+    "nickname": "金胡杨战队",
+    "school": "新疆工程学院",
+    "uid": 3546755463383730
+  },
+  {
+    "group": "RM",
+    "nickname": "巨人机器人战队",
+    "school": "新疆铁道职业技术学院",
+    "uid": 564547664
+  },
+  {
+    "group": "RM",
+    "nickname": "RoboMaster盐鹤战队",
+    "school": "盐城师范学院",
+    "uid": 3546655682988694
+  },
+  {
+    "group": "RM",
+    "nickname": "YSU-Eagle战队",
+    "school": "燕山大学",
+    "uid": 690095204
+  },
+  {
+    "group": "RM",
+    "nickname": "香槟IlliniRM",
+    "school": "伊利诺伊大学香槟分校",
+    "uid": 313126472
+  },
+  {
+    "group": "RM",
+    "nickname": "YiBinU机器人俱乐部",
+    "school": "宜宾学院",
+    "uid": 1158859501
+  },
+  {
+    "group": "RM",
+    "nickname": "Future机器人战队",
+    "school": "云南大学",
+    "uid": 596271766
+  },
+  {
+    "group": "RM",
+    "nickname": "长安大学VGD战队",
+    "school": "长安大学",
+    "uid": 1091878846
+  },
+  {
+    "group": "RM",
+    "nickname": "长理CVIR战队",
+    "school": "长春理工大学",
+    "uid": 701947816
+  },
+  {
+    "group": "RM",
+    "nickname": "云嵌战队",
+    "school": "长沙理工大学",
+    "uid": 3546686683089883
+  },
+  {
+    "group": "RM",
+    "nickname": "浙江大学HelloWorld战队",
+    "school": "浙江大学",
+    "uid": 1882602720
+  },
+  {
+    "group": "RM",
+    "nickname": "浙江大学ZJUI-Meta战队",
+    "school": "浙江大学伊利诺伊大学厄巴纳香槟校区联合学院",
+    "uid": 1761990693
+  },
+  {
+    "group": "RM",
+    "nickname": "RoboFuture战队",
+    "school": "浙江纺织服装职业技术学院",
+    "uid": 39551564
+  },
+  {
+    "group": "RM",
+    "nickname": "浙工大机器人队ZJUTDeus",
+    "school": "浙江工业大学",
+    "uid": 3494376349108696
+  },
+  {
+    "group": "RM",
+    "nickname": "浙理钱塘蛟战队",
+    "school": "浙江理工大学",
+    "uid": 1085023682
+  },
+  {
+    "group": "RM",
+    "nickname": "浙狮战队",
+    "school": "浙江师范大学",
+    "uid": 3546588284717401
+  },
+  {
+    "group": "RM",
+    "nickname": "RM中州烛龙实验室",
+    "school": "郑州大学",
+    "uid": 471030934
+  },
+  {
+    "group": "RM",
+    "nickname": "郑大RM中州烛龙战队",
+    "school": "郑州大学",
+    "uid": 1779257476
+  },
+  {
+    "group": "RM",
+    "nickname": "中北大学卓创工作室",
+    "school": "中北大学",
+    "uid": 347067917
+  },
+  {
+    "group": "RM",
+    "nickname": "中科大RoboWalker战队",
+    "school": "中国科学技术大学",
+    "uid": 1095888833
+  },
+  {
+    "group": "RM",
+    "nickname": "USTC机器人俱乐部",
+    "school": "中国科学技术大学",
+    "uid": 1630993717
+  },
+  {
+    "group": "RM",
+    "nickname": "UCAS-SAS战队",
+    "school": "中国科学院大学",
+    "uid": 3546890259925351
+  },
+  {
+    "group": "RM",
+    "nickname": "中国矿业大学CUBOT战队",
+    "school": "中国矿业大学",
+    "uid": 1881632138
+  },
+  {
+    "group": "RM",
+    "nickname": "中国民航大学ITL战队",
+    "school": "中国民航大学",
+    "uid": 2075522539
+  },
+  {
+    "group": "RM\u0026RC",
+    "nickname": "SPR机器人队",
+    "school": "中国石油大学（北京）",
+    "uid": 1489728412
+  },
+  {
+    "group": "RM",
+    "nickname": "戈壁之魂机器人",
+    "school": "中国石油大学（北京）克拉玛依校区",
+    "uid": 3461573483956757
+  },
+  {
+    "group": "RM",
+    "nickname": "UPC-RPS战队",
+    "school": "中国石油大学（华东）",
+    "uid": 2006124402
+  },
+  {
+    "group": "RM",
+    "nickname": "中南大学FYT机器人战队",
+    "school": "中南大学",
+    "uid": 1937262957
+  },
+  {
+    "group": "RM",
+    "nickname": "MUC参北斗战队",
+    "school": "中央民族大学",
+    "uid": 12239416
+  },
+  {
+    "group": "RM",
+    "nickname": "TFD战队",
+    "school": "中原工学院",
+    "uid": 3493278687169078
+  },
+  {
+    "group": "RM",
+    "nickname": "仲恺奇点战队",
+    "school": "仲恺农业工程学院",
+    "uid": 699190511
+  },
+  {
+    "group": "RM",
+    "nickname": "珠海科技学院征途战队",
+    "school": "珠海科技学院（原吉林大学珠海学院）",
+    "uid": 3546564937124514
+  },
+  {
+    "group": "RM",
+    "nickname": "TigersDirector",
+    "school": "广西师范大学",
+    "uid": 3546889957935885
+  },
+  {
+    "group": "RM",
+    "nickname": "SimbaRobotics",
+    "school": "黑龙江大学",
+    "uid": 3546892996708560
+  }
+]

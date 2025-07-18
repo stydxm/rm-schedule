@@ -17,6 +17,7 @@ func Router(r *iris.Application, frontend string) {
 	api.Get("/schedule", handler.RedirectRouteHandlerFactory(RedirectParams[common.UpstreamNameSchedule]))
 	api.Get("/match_id_to_video", handler.MatchIDHandler)
 	api.Get("/match_order_to_video", handler.MatchOrderHandler)
+	api.Get("/team_info", handler.TeamInfoHandler)
 
 	r.HandleDir("/", iris.Dir(frontend), iris.DirOptions{
 		IndexName: "index.html",
