@@ -22,6 +22,9 @@ var GroupRankInfoBytes []byte
 //go:embed robot_data.json
 var RobotDataBytes []byte
 
+//go:embed bilibili_official.json
+var BilibiliOfficialBytes []byte
+
 // 2024 赛季的静态文件
 
 //go:embed season_2024/complete_form.json
