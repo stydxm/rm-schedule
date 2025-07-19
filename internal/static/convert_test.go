@@ -11,32 +11,42 @@ import (
 
 func TestCompleteForm(t *testing.T) {
 	var err error
-	err = convertAndSaveToJSON("./complete_form.tsv", "./complete_form.json")
+	err = convertAndSaveToJSON("./complete_form.tsv", "./complete_form.json", []string{"team"})
 	if err != nil {
 		t.Fatal(err)
 	}
-	err = convertAndSaveToJSON("./complete_form_rank.tsv", "./complete_form_rank.json")
+	err = convertAndSaveToJSON("./complete_form_rank.tsv", "./complete_form_rank.json", []string{"team"})
 	if err != nil {
 		t.Fatal(err)
 	}
-	err = convertAndSaveToJSON("./rank_score.tsv", "./rank_score.json")
+	err = convertAndSaveToJSON("./rank_score.tsv", "./rank_score.json", nil)
 	if err != nil {
 		t.Fatal(err)
 	}
-	err = convertAndSaveToJSON("./bilibili_official.tsv", "./bilibili_official.json")
+	err = convertAndSaveToJSON("./bilibili_official.tsv", "./bilibili_official.json", nil)
+	if err != nil {
+		t.Fatal(err)
+	}
+	err = convertAndSaveToJSON("./history_match.tsv", "./history_match.json", []string{"group", "redTeamName", "blueTeamName"})
 	if err != nil {
 		t.Fatal(err)
 	}
 }
 
 // convertAndSaveToJSON 将 TSV 文件转换为 JSON 格式并保存
-func convertAndSaveToJSON(inputFile, outputFile string) error {
+// stringColumns 是需要以字符串形式存储的列名列表
+func convertAndSaveToJSON(inputFile, outputFile string, stringColumns []string) error {
 	// 打开 TSV 文件
 	file, err := os.Open(inputFile)
 	if err != nil {
 		return fmt.Errorf("打开文件失败: %v", err)
 	}
-	defer file.Close()
+	defer func() {
+		if closeErr := file.Close(); closeErr != nil {
+			// 可以选择记录日志，这里简单打印错误
+			fmt.Printf("关闭文件 %s 失败: %v\n", inputFile, closeErr)
+		}
+	}()
 
 	// 创建 CSV 读取器，设置分隔符为制表符
 	reader := csv.NewReader(file)
@@ -59,8 +69,20 @@ func convertAndSaveToJSON(inputFile, outputFile string) error {
 	for _, row := range rows {
 		item := make(map[string]interface{})
 		for i, header := range headers {
-			// 尝试转换为整数
-			item[header] = convertToNumber(row[i])
+			// 检查是否需要保持字符串格式
+			isStringColumn := false
+			for _, col := range stringColumns {
+				if col == header {
+					isStringColumn = true
+					break
+				}
+			}
+			if isStringColumn {
+				item[header] = row[i]
+			} else {
+				// 尝试转换为数字
+				item[header] = convertToNumber(row[i])
+			}
 		}
 		data = append(data, item)
 	}
