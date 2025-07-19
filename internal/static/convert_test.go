@@ -27,7 +27,7 @@ func TestCompleteForm(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	err = convertAndSaveToJSON("./history_match.tsv", "./history_match.json", []string{"redTeamName", "blueTeamName"})
+	err = convertAndSaveToJSON("./history_match.tsv", "./history_match.json", []string{"group", "redTeamName", "blueTeamName"})
 	if err != nil {
 		t.Fatal(err)
 	}
