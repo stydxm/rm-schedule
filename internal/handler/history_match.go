@@ -7,6 +7,7 @@ import (
 	"github.com/scutrobotlab/rm-schedule/internal/static"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 	"github.com/sirupsen/logrus"
+	"sort"
 	"strconv"
 )
 
@@ -93,6 +94,10 @@ func HistoryMatchHandler(c iris.Context) {
 			}
 		}
 	}
+	// 按照 Order 字段对匹配的比赛进行排序
+	sort.Slice(hits, func(i, j int) bool {
+		return hits[i].Order < hits[j].Order
+	})
 
 	c.Header("Cache-Control", "public, max-age=600")
 	c.JSON(iris.Map{
