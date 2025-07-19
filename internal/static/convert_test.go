@@ -27,6 +27,10 @@ func TestCompleteForm(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
+	err = convertAndSaveToJSON("./history_match.tsv", "./history_match.json", []string{"redTeamName", "blueTeamName"})
+	if err != nil {
+		t.Fatal(err)
+	}
 }
 
 // convertAndSaveToJSON 将 TSV 文件转换为 JSON 格式并保存
