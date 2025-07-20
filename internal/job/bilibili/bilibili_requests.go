@@ -8,8 +8,8 @@ import (
 	"github.com/scutrobotlab/rm-schedule/internal/static"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 	"github.com/scutrobotlab/rm-schedule/internal/types"
+	"github.com/sirupsen/logrus"
 	"io"
-	"log"
 	"net/http"
 )
 
@@ -137,7 +137,7 @@ func FetchBiliBiliReplayVideos() {
 		matchOrderToVideoSingleSeason := make(map[string]map[int]types.BiliBiliVideoMetaData)
 		collectionList, err := getCollectionList()
 		if err != nil {
-			log.Println(err)
+			logrus.Error(err)
 			collectionList = []types.BiliBiliCollectionMetaData{}
 		}
 		var staticDataRaw map[string]map[string]types.BiliBiliVideoMetaData
@@ -172,11 +172,13 @@ func FetchBiliBiliReplayVideos() {
 			if ok {
 				collectionInfo, err := getCollectionInfo(targetCollection.CollectionId)
 				if err != nil {
+					logrus.Error(err)
 					continue
 				}
 				for _, match := range matches {
 					correspondingVideo, ok := findMatchVideo(&match, &collectionInfo)
 					if !ok {
+						logrus.Errorf("video for match %d not found", match.ID)
 						continue
 					}
 					matchIDToVideo[match.ID] = correspondingVideo
@@ -195,5 +197,5 @@ func FetchBiliBiliReplayVideos() {
 	if len(matchOrderToVideoAll) > 0 {
 		svc.Cache.Set("match_order_to_video", matchOrderToVideoAll, cache.NoExpiration)
 	}
-	log.Printf("Bilibili collections updated")
+	logrus.Info("Bilibili collections updated")
 }

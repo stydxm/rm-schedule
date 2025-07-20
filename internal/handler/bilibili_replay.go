@@ -2,10 +2,10 @@ package handler
 
 import (
 	"encoding/json"
-	"fmt"
 	"github.com/kataras/iris/v12"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 	"github.com/scutrobotlab/rm-schedule/internal/types"
+	"github.com/sirupsen/logrus"
 	"strconv"
 )
 
@@ -16,7 +16,7 @@ func MatchIDHandler(c iris.Context) {
 		ret := _ret.(map[string]types.BiliBiliVideoMetaData)
 		jsonData, err := json.Marshal(ret)
 		if err != nil {
-			fmt.Println(err)
+			logrus.Error(err)
 		} else {
 			c.JSON(string(jsonData))
 			return
@@ -55,7 +55,7 @@ func MatchOrderHandler(c iris.Context) {
 		ret := _ret.(types.MatchOrderToVideoType)
 		jsonData, err := json.Marshal(ret)
 		if err != nil {
-			fmt.Println(err)
+			logrus.Error(err)
 		} else {
 			c.JSON(string(jsonData))
 			return

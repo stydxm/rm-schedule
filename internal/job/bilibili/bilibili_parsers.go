@@ -8,7 +8,7 @@ import (
 	"github.com/scutrobotlab/rm-schedule/internal/static"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 	"github.com/scutrobotlab/rm-schedule/internal/types"
-	"log"
+	"github.com/sirupsen/logrus"
 	"strconv"
 	"strings"
 )
@@ -35,7 +35,7 @@ func getMatches() Matches {
 		var scheduleData types.ScheduleResp
 		err := json.Unmarshal(scheduleBytes, &scheduleData)
 		if err != nil {
-			log.Printf("failed to unmarshal schedule: %v\n", err)
+			logrus.Errorf("failed to unmarshal schedule: %v\n", err)
 			return nil
 		}
 
