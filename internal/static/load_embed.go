@@ -28,6 +28,9 @@ var BilibiliOfficialBytes []byte
 //go:embed history_match.json
 var HistoryMatchBytes []byte
 
+//go:embed bilibili_videos.json
+var BilibiliVideosBytes []byte
+
 // 2024 赛季的静态文件
 
 //go:embed season_2024/complete_form.json
@@ -41,3 +44,6 @@ var ScheduleBytes2024 []byte
 
 //go:embed season_2024/group_rank_info.json
 var GroupRankInfoBytes2024 []byte
+
+//go:embed season_2024/bilibili_videos.json
+var BilibiliVideosBytes2024 []byte

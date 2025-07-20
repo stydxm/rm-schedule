@@ -1,0 +1,3760 @@
+{
+  "东部赛区": {
+    "1": {
+      "aid": 114588922284756,
+      "bvid": "BV1DJjyzKEtV",
+      "ctime": 1748488557,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bdc413223484f303c5d8e444c55869ea690a5ffa.jpg",
+      "pubdate": 1748488557,
+      "stat": {
+        "view": 22621,
+        "vt": 0
+      },
+      "title": "东部赛区 第1场 北京理工大学 追梦 战队 vs 大连理工大学 凌BUG 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "10": {
+      "aid": 114590096556158,
+      "bvid": "BV1yN7VzMEwR",
+      "ctime": 1748506403,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6e601826c5f15518b81e1043a142ceeb894231fa.jpg",
+      "pubdate": 1748506403,
+      "stat": {
+        "view": 1345,
+        "vt": 0
+      },
+      "title": "东部赛区 第10场 中国矿业大学 CUBOT 战队 vs 青岛大学 未来 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "11": {
+      "aid": 114590834753889,
+      "bvid": "BV1rV7Lz6Emz",
+      "ctime": 1748517506,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/59f94e35da64e591ab976978c6c84ac81fa0324c.jpg",
+      "pubdate": 1748517506,
+      "stat": {
+        "view": 2122,
+        "vt": 0
+      },
+      "title": "东部赛区 第11场 同济大学 SuperPower 战队 vs 太原工业学院 火线 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "12": {
+      "aid": 114590851531251,
+      "bvid": "BV1kG7Lz3Etm",
+      "ctime": 1748517926,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/bd09f13ef271b162f7dcc1696bb9815d9daf1539.jpg",
+      "pubdate": 1748517926,
+      "stat": {
+        "view": 906,
+        "vt": 0
+      },
+      "title": "东部赛区 第12场 西安理工大学 NEXT E 战队 vs 首都师范大学 PIE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "13": {
+      "aid": 114590868309631,
+      "bvid": "BV11P7Lz2EQZ",
+      "ctime": 1748518270,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bc61c1d5d19904455bddc2d331cc5a20a2dc2c76.jpg",
+      "pubdate": 1748518270,
+      "stat": {
+        "view": 1105,
+        "vt": 0
+      },
+      "title": "东部赛区 第13场 上海工程技术大学 木鸢Birdiebot 战队 vs 上海科技大学 Magician 战队 RoboMaster 2025 超级对抗赛 区域"
+    },
+    "14": {
+      "aid": 114591052859942,
+      "bvid": "BV1zE7LzTETo",
+      "ctime": 1748521071,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/549b32d03950b08ee046a168e5feb64e8feb56eb.jpg",
+      "pubdate": 1748521070,
+      "stat": {
+        "view": 3715,
+        "vt": 0
+      },
+      "title": "东部赛区 第14场 浙江纺织服装职业技术学院 RoboFuture 战队 vs 南京理工大学 Alliance 战队 RoboMaster 2025 超级对抗赛"
+    },
+    "15": {
+      "aid": 114591052860078,
+      "bvid": "BV1zE7LzTENi",
+      "ctime": 1748521144,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/eaa71505257dbae6a50a95449663e9f3964b058c.jpg",
+      "pubdate": 1748521144,
+      "stat": {
+        "view": 2414,
+        "vt": 0
+      },
+      "title": "东部赛区 第15场 天津大学 北洋机甲 战队 vs 南京航空航天大学 长空御风 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "16": {
+      "aid": 114591069635937,
+      "bvid": "BV1R175zfEsm",
+      "ctime": 1748521267,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2fd76db81c8a4b29f649244eb8069ea4646d19fc.jpg",
+      "pubdate": 1748521266,
+      "stat": {
+        "view": 1027,
+        "vt": 0
+      },
+      "title": "东部赛区 第16场 河北工业大学 山海机甲 战队 vs 江苏大学 Aurora 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "17": {
+      "aid": 114591304584705,
+      "bvid": "BV1gR75z9EP4",
+      "ctime": 1748524754,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/96db54eff5d140d08772b015fec90ae2cc527c2b.jpg",
+      "pubdate": 1748524754,
+      "stat": {
+        "view": 1299,
+        "vt": 0
+      },
+      "title": "东部赛区 第17场 山东科技大学 SmartRobot 战队 vs 大连理工大学 凌BUG 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "18": {
+      "aid": 114591421958789,
+      "bvid": "BV1gV75zQE5C",
+      "ctime": 1748526844,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2c8672f9d226ff19a7c6eb85d26ef39e184caad4.jpg",
+      "pubdate": 1748526844,
+      "stat": {
+        "view": 1020,
+        "vt": 0
+      },
+      "title": "东部赛区 第18场 山东理工大学 齐奇 战队 vs 华中科技大学 狼牙 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "19": {
+      "aid": 114591807835820,
+      "bvid": "BV15A75zbEfN",
+      "ctime": 1748532727,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0ba28adf48a94bbeed7dee3292495b84cd932930.jpg",
+      "pubdate": 1748532727,
+      "stat": {
+        "view": 1940,
+        "vt": 0
+      },
+      "title": "东部赛区 第19场 辽宁科技大学 COD 战队 vs 吉林大学 TARS_Go 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "2": {
+      "aid": 114589123543338,
+      "bvid": "BV1txjyzwEkt",
+      "ctime": 1748491556,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0a464dbde6ee4e560115263f024b35e31c116870.jpg",
+      "pubdate": 1748491556,
+      "stat": {
+        "view": 1876,
+        "vt": 0
+      },
+      "title": "东部赛区 第2场 中北大学 606 战队 vs 山东理工大学 齐奇 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "20": {
+      "aid": 114591690588258,
+      "bvid": "BV1pS7VzuE6A",
+      "ctime": 1748530960,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/550e73386f55b0f99cbaa4785626f84660fbe7dd.jpg",
+      "pubdate": 1748530960,
+      "stat": {
+        "view": 3251,
+        "vt": 0
+      },
+      "title": "东部赛区 第20场 东北大学 TDT 战队 vs 齐鲁工业大学 Adam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "21": {
+      "aid": 114594425212780,
+      "bvid": "BV1KX7JzhE7N",
+      "ctime": 1748572385,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0f9c0ade440cc7540fb0a43f841cc7319827120a.jpg",
+      "pubdate": 1748572385,
+      "stat": {
+        "view": 994,
+        "vt": 0
+      },
+      "title": "东部赛区 第21场 中国石油大学（北京） SPR 战队 vs 东南大学 3SE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "22": {
+      "aid": 114594441924101,
+      "bvid": "BV12Q7JzcEtP",
+      "ctime": 1748572678,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2c9e4cc8353e7b56e7116a47219e5b35373d4b13.jpg",
+      "pubdate": 1748572677,
+      "stat": {
+        "view": 650,
+        "vt": 0
+      },
+      "title": "东部赛区 第22场 东华大学 DIODE 战队 vs 宁波工程学院 New Legends 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "23": {
+      "aid": 114594441858962,
+      "bvid": "BV14Q7JzcEFf",
+      "ctime": 1748572808,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/16554c3b4abbe21d8f3ee463d8673e8e33c7f266.jpg",
+      "pubdate": 1748572808,
+      "stat": {
+        "view": 827,
+        "vt": 0
+      },
+      "title": "东部赛区 第23场 中北大学 606 战队 vs 浙江理工大学 钱塘蛟 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "24": {
+      "aid": 114595230384412,
+      "bvid": "BV14d7HzKEBV",
+      "ctime": 1748584798,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b8614fa4eec57498cf0e025c6d5680f18f97e123.jpg",
+      "pubdate": 1748584798,
+      "stat": {
+        "view": 879,
+        "vt": 0
+      },
+      "title": "东部赛区 第24场 北京科技大学 Reborn 战队 vs 北京理工大学 追梦 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "25": {
+      "aid": 114595297496715,
+      "bvid": "BV1bS7HzgEB5",
+      "ctime": 1748585852,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/9f44799e0f49551298fcb778c4b57f5c05a60862.jpg",
+      "pubdate": 1748585851,
+      "stat": {
+        "view": 882,
+        "vt": 0
+      },
+      "title": "东部赛区 第25场 中国矿业大学 CUBOT 战队 vs 浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2025 超级对抗赛 区域"
+    },
+    "26": {
+      "aid": 114595683372044,
+      "bvid": "BV1Rd7nzjEz6",
+      "ctime": 1748593578,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/8c48e40d52fcc15e4bf9eb6f1d4681aeee8aa22b.jpg",
+      "pubdate": 1748593577,
+      "stat": {
+        "view": 1107,
+        "vt": 0
+      },
+      "title": "东部赛区 第26场 哈尔滨工业大学（威海） HERO 战队 vs 太原工业学院 火线 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "27": {
+      "aid": 114595700146533,
+      "bvid": "BV1Fm7nzXEV9",
+      "ctime": 1748591966,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/eb4dba8e484180915fc952fcc400a532656b99c1.jpg",
+      "pubdate": 1748591966,
+      "stat": {
+        "view": 1788,
+        "vt": 0
+      },
+      "title": "东部赛区 第27场 南京航空航天大学 长空御风 战队 vs 上海工程技术大学 木鸢Birdiebot 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "28": {
+      "aid": 114595834365618,
+      "bvid": "BV19F7HzCEVo",
+      "ctime": 1748594298,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/da0da62ed410219f217ec832957513e3544bb692.jpg",
+      "pubdate": 1748594297,
+      "stat": {
+        "view": 1689,
+        "vt": 0
+      },
+      "title": "东部赛区 第28场 首都师范大学 PIE 战队 vs 河北工业大学 山海机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "29": {
+      "aid": 114595851141467,
+      "bvid": "BV1Rf7nz5E35",
+      "ctime": 1748594256,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/08c499acd5285c670955c8c26f911a9fbbb8caa3.jpg",
+      "pubdate": 1748594256,
+      "stat": {
+        "view": 451,
+        "vt": 0
+      },
+      "title": "东部赛区 第29场 西安理工大学 NEXT E 战队 vs 江苏大学 Aurora 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "3": {
+      "aid": 114589240921133,
+      "bvid": "BV1ndjCzQEXr",
+      "ctime": 1748493291,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/eff8ccc0480e6ef2a81d19dc94d58b1a7b48f7f5.jpg",
+      "pubdate": 1748493291,
+      "stat": {
+        "view": 1768,
+        "vt": 0
+      },
+      "title": "东部赛区 第3场 齐鲁工业大学 Adam 战队 vs 东南大学 3SE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "30": {
+      "aid": 114595851142902,
+      "bvid": "BV19f7nz5Ede",
+      "ctime": 1748594539,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/12deebd1450fd587b08d2ba1e562dbbf05061e54.jpg",
+      "pubdate": 1748594538,
+      "stat": {
+        "view": 829,
+        "vt": 0
+      },
+      "title": "东部赛区 第30场 天津大学 北洋机甲 战队 vs 上海科技大学 Magician 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "31": {
+      "aid": 114595867919786,
+      "bvid": "BV1QA7HzrECH",
+      "ctime": 1748594875,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/9b1cb4d6958cb3ca3bb64cc42d6ccd179c078552.jpg",
+      "pubdate": 1748594874,
+      "stat": {
+        "view": 884,
+        "vt": 0
+      },
+      "title": "东部赛区 第31场 燕山大学 燕鹰 战队 vs 同济大学 SuperPower 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "32": {
+      "aid": 114596220242979,
+      "bvid": "BV1Cp7WziECn",
+      "ctime": 1748599839,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/f7fccad573aa49ed9d5260099473734d4a7caacf.jpg",
+      "pubdate": 1748599839,
+      "stat": {
+        "view": 843,
+        "vt": 0
+      },
+      "title": "东部赛区 第32场 青岛大学 未来 战队 vs 南京理工大学 Alliance 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "33": {
+      "aid": 114596455121194,
+      "bvid": "BV1ZR7pzREBW",
+      "ctime": 1748603306,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/fdeceafa0795a92788f960c8c2e97b2e4419c6ad.jpg",
+      "pubdate": 1748603306,
+      "stat": {
+        "view": 3241,
+        "vt": 0
+      },
+      "title": "【飞镖命中！山科极限换家】东部赛区 第33场 吉林大学 TARS_Go 战队 vs 山东科技大学 SmartRobot 战队 RMUC 2025"
+    },
+    "34": {
+      "aid": 114596455124162,
+      "bvid": "BV1oR7pzREv7",
+      "ctime": 1748603658,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7b9b5513905842eee0679686afeae31f604569ae.jpg",
+      "pubdate": 1748603658,
+      "stat": {
+        "view": 3541,
+        "vt": 0
+      },
+      "title": "东部赛区 第34场 华中科技大学 狼牙 战队 vs 东北大学 TDT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "35": {
+      "aid": 114596656516913,
+      "bvid": "BV15c7WzQEb4",
+      "ctime": 1748606605,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/7ede16a3fea4b5b91c02483a23e809b61b5b483e.jpg",
+      "pubdate": 1748606605,
+      "stat": {
+        "view": 792,
+        "vt": 0
+      },
+      "title": "东部赛区 第35场 大连理工大学 凌BUG 战队 vs 齐鲁工业大学 Adam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "36": {
+      "aid": 114596690070128,
+      "bvid": "BV1VP7WzSEL7",
+      "ctime": 1748607217,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e3838f81187069cf24ddb9ba467bb9b0a66afcfb.jpg",
+      "pubdate": 1748607217,
+      "stat": {
+        "view": 685,
+        "vt": 0
+      },
+      "title": "东部赛区 第36场 辽宁科技大学 COD 战队 vs 山东理工大学 齐奇 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "37": {
+      "aid": 114596924951796,
+      "bvid": "BV1xq7pzMErt",
+      "ctime": 1748610756,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/14e163424abf7e7d3c2f0bfa763dce2e3968710a.jpg",
+      "pubdate": 1748610755,
+      "stat": {
+        "view": 499,
+        "vt": 0
+      },
+      "title": "东部赛区 第37场 宁波工程学院 New Legends 战队 vs 中北大学 606 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "38": {
+      "aid": 114597042327291,
+      "bvid": "BV1pw7pzwEXg",
+      "ctime": 1748612676,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b6f34183510efbb3bd3788a095dc3bf059c89d14.jpg",
+      "pubdate": 1748612675,
+      "stat": {
+        "view": 1139,
+        "vt": 0
+      },
+      "title": "东部赛区 第38场 北京理工大学 追梦 战队 vs 东南大学 3SE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "39": {
+      "aid": 114597008769278,
+      "bvid": "BV1Jg7pzdEJt",
+      "ctime": 1748612198,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/993465930c2989998dafbb4ead7227de60d60aca.jpg",
+      "pubdate": 1748612198,
+      "stat": {
+        "view": 582,
+        "vt": 0
+      },
+      "title": "东部赛区 第39场 浙江理工大学 钱塘蛟 战队 vs 中国石油大学（北京） SPR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "4": {
+      "aid": 114589308030632,
+      "bvid": "BV1WSjCzdEQX",
+      "ctime": 1748494392,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c6f6fcaa5b28e47fe85acb7fc5d26bd764e790fd.jpg",
+      "pubdate": 1748494391,
+      "stat": {
+        "view": 1513,
+        "vt": 0
+      },
+      "title": "东部赛区 第4场 北京科技大学 Reborn 战队 vs 山东科技大学 SmartRobot 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "40": {
+      "aid": 114597143055475,
+      "bvid": "BV1Yp7pzmE34",
+      "ctime": 1748614107,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/6d12409e44f7d4b0d39fd2299527cadd0a1dc788.jpg",
+      "pubdate": 1748614106,
+      "stat": {
+        "view": 646,
+        "vt": 0
+      },
+      "title": "东部赛区 第40场 东华大学 DIODE 战队 vs 北京科技大学 Reborn 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "41": {
+      "aid": 114600196443378,
+      "bvid": "BV1BQ7FzbEpf",
+      "ctime": 1748660769,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/78b05984ad0f39a2dee837e97b00558fddc73c95.jpg",
+      "pubdate": 1748660768,
+      "stat": {
+        "view": 1675,
+        "vt": 0
+      },
+      "title": "东部赛区 第41场 太原工业学院 火线 战队 vs 南京航空航天大学 长空御风 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "42": {
+      "aid": 114600213221246,
+      "bvid": "BV1zD7FzFEpc",
+      "ctime": 1748660842,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/eafd96861b5a8ff9f68f7712bb3de04ef230dd18.jpg",
+      "pubdate": 1748660842,
+      "stat": {
+        "view": 1500,
+        "vt": 0
+      },
+      "title": "东部赛区 第42场 首都师范大学 PIE 战队 vs 中国矿业大学 CUBOT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "43": {
+      "aid": 114600229996032,
+      "bvid": "BV1qR7Fz4E1X",
+      "ctime": 1748660947,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/5196617559678ed16d907bb485079f1a7e4d71f3.jpg",
+      "pubdate": 1748660947,
+      "stat": {
+        "view": 512,
+        "vt": 0
+      },
+      "title": "东部赛区 第43场 河北工业大学 山海机甲 战队 vs 浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "44": {
+      "aid": 114600313883179,
+      "bvid": "BV1rm7FzwEAQ",
+      "ctime": 1748662199,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f8a65567b7a653cd0d870b88d30546f4a9a7e0ed.jpg",
+      "pubdate": 1748662198,
+      "stat": {
+        "view": 1217,
+        "vt": 0
+      },
+      "title": "东部赛区 第44场 同济大学 SuperPower 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "45": {
+      "aid": 114600465009357,
+      "bvid": "BV1dC7AzaEHq",
+      "ctime": 1748664603,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5d165c47e64423ffd13ce8311ee3ae2ab8168772.jpg",
+      "pubdate": 1748664602,
+      "stat": {
+        "view": 1055,
+        "vt": 0
+      },
+      "title": "东部赛区 第45场 哈尔滨工业大学（威海） HERO 战队 vs 上海工程技术大学 木鸢Birdiebot 战队 RoboMaster 2025 超级对抗赛 区"
+    },
+    "46": {
+      "aid": 114600766869278,
+      "bvid": "BV1xH7Az2Ejk",
+      "ctime": 1748669296,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/5229e7fb56aba31875a0cbdc0414ac19da83cf3f.jpg",
+      "pubdate": 1748669296,
+      "stat": {
+        "view": 806,
+        "vt": 0
+      },
+      "title": "东部赛区 第46场 江苏大学 Aurora 战队 vs 南京理工大学 Alliance 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "47": {
+      "aid": 114601186296203,
+      "bvid": "BV1YM7AzxEtC",
+      "ctime": 1748675725,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e4fc4342ca98f9d36ca85c7096d3eccd63315f43.jpg",
+      "pubdate": 1748675724,
+      "stat": {
+        "view": 491,
+        "vt": 0
+      },
+      "title": "东部赛区 第47场 西安理工大学 NEXT E 战队 vs 青岛大学 未来 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "48": {
+      "aid": 114601203076279,
+      "bvid": "BV1ic7AzcENK",
+      "ctime": 1748676065,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2eacd235e6bc86283976f00024d6da8feabfb2ac.jpg",
+      "pubdate": 1748676064,
+      "stat": {
+        "view": 1134,
+        "vt": 0
+      },
+      "title": "东部赛区 第48场 燕山大学 燕鹰 战队 vs 上海科技大学 Magician 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "49": {
+      "aid": 114601370845422,
+      "bvid": "BV1X47wzWE2a",
+      "ctime": 1748678483,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/219ded6e54c200143e617eabfdfb9f930cd2d6aa.jpg",
+      "pubdate": 1748678482,
+      "stat": {
+        "view": 1151,
+        "vt": 0
+      },
+      "title": "东部赛区 第49场 大连理工大学 凌BUG 战队 vs 吉林大学 TARS_Go 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "5": {
+      "aid": 114589341582851,
+      "bvid": "BV17Njyz1EJp",
+      "ctime": 1748494824,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/70f78428ff74eacc3a47e2bb567fdc49822bc164.jpg",
+      "pubdate": 1748494823,
+      "stat": {
+        "view": 5364,
+        "vt": 0
+      },
+      "title": "东部赛区 第5场 东北大学 TDT 战队 vs 中国石油大学（北京） SPR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "50": {
+      "aid": 114601454735163,
+      "bvid": "BV1yC7wzkE5Y",
+      "ctime": 1748679586,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/242019fb342c3a69ca7d8520ccbab03738b78d7b.jpg",
+      "pubdate": 1748679585,
+      "stat": {
+        "view": 1076,
+        "vt": 0
+      },
+      "title": "东部赛区 第50场 华中科技大学 狼牙 战队 vs 辽宁科技大学 COD 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "51": {
+      "aid": 114602243262045,
+      "bvid": "BV1ym7PzmEeS",
+      "ctime": 1748691596,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0e9582c7bbf767515806f7e79e5836ee8e00cd6e.jpg",
+      "pubdate": 1748691595,
+      "stat": {
+        "view": 676,
+        "vt": 0
+      },
+      "title": "东部赛区 第51场 东南大学 3SE 战队 vs 中北大学 606 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "52": {
+      "aid": 114602327146863,
+      "bvid": "BV1U67PzpEsM",
+      "ctime": 1748692914,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/77d857018127c6e13721abd515f3a57f05fa0062.jpg",
+      "pubdate": 1748692914,
+      "stat": {
+        "view": 569,
+        "vt": 0
+      },
+      "title": "东部赛区 第52场 山东理工大学 齐奇 战队 vs 齐鲁工业大学 Adam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "53": {
+      "aid": 114602394258502,
+      "bvid": "BV1wu7PzyE2t",
+      "ctime": 1748694146,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/552504651be1f139bb974e95adf07935160572ca.jpg",
+      "pubdate": 1748694145,
+      "stat": {
+        "view": 707,
+        "vt": 0
+      },
+      "title": "东部赛区 第53场 中国石油大学（北京） SPR 战队 vs 北京理工大学 追梦 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "54": {
+      "aid": 114602427813040,
+      "bvid": "BV1TF7PzDEPa",
+      "ctime": 1748694817,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/31c611887b82912c2961ce761167b9e6b9beb47a.jpg",
+      "pubdate": 1748694817,
+      "stat": {
+        "view": 302,
+        "vt": 0
+      },
+      "title": "东部赛区 第54场 宁波工程学院 New Legends 战队 vs 北京科技大学 Reborn 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "55": {
+      "aid": 114602444587169,
+      "bvid": "BV1NN7Pz7ESm",
+      "ctime": 1748694970,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/6eb66cf93548018fb62a5a2c708742dfe233fa0a.jpg",
+      "pubdate": 1748694970,
+      "stat": {
+        "view": 585,
+        "vt": 0
+      },
+      "title": "东部赛区 第55场 中国矿业大学 CUBOT 战队 vs 浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2025 超级对抗赛 区域"
+    },
+    "56": {
+      "aid": 114602461365567,
+      "bvid": "BV1KA7PzUEHw",
+      "ctime": 1748695148,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/299132b69219ea11d122f3e6ee1950cb48ca6d68.jpg",
+      "pubdate": 1748695148,
+      "stat": {
+        "view": 1628,
+        "vt": 0
+      },
+      "title": "东部赛区 第56场 南京航空航天大学 长空御风 战队 vs 同济大学 SuperPower 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "57": {
+      "aid": 114602679469798,
+      "bvid": "BV1C97KzHEzD",
+      "ctime": 1748698641,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ea0fa85da6c768070d130c03fd3ff3a6c84448a9.jpg",
+      "pubdate": 1748698641,
+      "stat": {
+        "view": 1095,
+        "vt": 0
+      },
+      "title": "东部赛区 第57场 哈尔滨工业大学（威海） HERO 战队 vs 南京理工大学 Alliance 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "58": {
+      "aid": 114602780131445,
+      "bvid": "BV1YL7TzTEm4",
+      "ctime": 1748700163,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/cafbe7a28210f7b84e4104bccc15fc22ae9bd4fd.jpg",
+      "pubdate": 1748700163,
+      "stat": {
+        "view": 657,
+        "vt": 0
+      },
+      "title": "东部赛区 第58场 天津大学 北洋机甲 战队 vs 河北工业大学 山海机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "59": {
+      "aid": 114602796911837,
+      "bvid": "BV1YV7TzBEY5",
+      "ctime": 1748700367,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/296d8445ff599acde00eb23b4b7ed693bfb064d3.jpg",
+      "pubdate": 1748700367,
+      "stat": {
+        "view": 441,
+        "vt": 0
+      },
+      "title": "东部赛区 第59场 西安理工大学 NEXT E 战队 vs 上海工程技术大学 木鸢Birdiebot 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "6": {
+      "aid": 114589358362213,
+      "bvid": "BV15gjyzGEYz",
+      "ctime": 1748495157,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0d6a9db49365737cfb0699686b93472a2b1c8454.jpg",
+      "pubdate": 1748495156,
+      "stat": {
+        "view": 1155,
+        "vt": 0
+      },
+      "title": "东部赛区 第6场 辽宁科技大学 COD 战队 vs 东华大学 DIODE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "60": {
+      "aid": 114602931129582,
+      "bvid": "BV1Dq7KzAEm2",
+      "ctime": 1748702477,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2814a3061b4d5e54d24278d9ad8ba11e521e7677.jpg",
+      "pubdate": 1748702476,
+      "stat": {
+        "view": 956,
+        "vt": 0
+      },
+      "title": "东部赛区 第60场 燕山大学 燕鹰 战队 vs 江苏大学 Aurora 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "61": {
+      "aid": 114606185974315,
+      "bvid": "BV19H73zUEGY",
+      "ctime": 1748751735,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/be854ce81a345529912d9d34a28c887449349b01.jpg",
+      "pubdate": 1748751735,
+      "stat": {
+        "view": 633,
+        "vt": 0
+      },
+      "title": "东部赛区 第61场 齐鲁工业大学 Adam 战队 vs 大连理工大学 凌BUG 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "62": {
+      "aid": 114606185907666,
+      "bvid": "BV1YH73zUEXX",
+      "ctime": 1748752144,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/440043e07652d19cdd4020cb9ed069ed06d61b92.jpg",
+      "pubdate": 1748752144,
+      "stat": {
+        "view": 536,
+        "vt": 0
+      },
+      "title": "东部赛区 第62场 中国石油大学（北京） SPR 战队 vs 辽宁科技大学 COD 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "63": {
+      "aid": 114606269795898,
+      "bvid": "BV1H173zAEBX",
+      "ctime": 1748753207,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4d30ecc080a337686ac0b3e853c195745ee82ea4.jpg",
+      "pubdate": 1748753206,
+      "stat": {
+        "view": 612,
+        "vt": 0
+      },
+      "title": "东部赛区 第63场 中北大学 606 战队 vs 北京科技大学 Reborn 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "64": {
+      "aid": 114606353682319,
+      "bvid": "BV1xq73zBEjM",
+      "ctime": 1748754570,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ce8833b55fa226e4f2e8a79f6dc2ebfefa54e79f.jpg",
+      "pubdate": 1748754570,
+      "stat": {
+        "view": 816,
+        "vt": 0
+      },
+      "title": "东部赛区 第64场 南京航空航天大学 长空御风 战队 vs 浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2025 超级对抗赛 区"
+    },
+    "65": {
+      "aid": 114606689226416,
+      "bvid": "BV1Xk7gzLEAk",
+      "ctime": 1748759603,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/df6b912a151ca87a633d577ff3056bc7627758ee.jpg",
+      "pubdate": 1748759603,
+      "stat": {
+        "view": 477,
+        "vt": 0
+      },
+      "title": "东部赛区 第65场 燕山大学 燕鹰 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "66": {
+      "aid": 114606706003940,
+      "bvid": "BV1de7gzDEkB",
+      "ctime": 1748759876,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/a3fe17a5a2086bfbcb38350bdb3512b3f9fc32ab.jpg",
+      "pubdate": 1748759875,
+      "stat": {
+        "view": 712,
+        "vt": 0
+      },
+      "title": "东部赛区 第66场 上海工程技术大学 木鸢Birdiebot 战队 vs 南京理工大学 Alliance 战队 RoboMaster 2025 超级对抗赛 区域"
+    },
+    "67": {
+      "aid": 114607242937819,
+      "bvid": "BV1sG76zEELg",
+      "ctime": 1748768239,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1a9a6b8fcf128e54b3ac1986892e002851771e1f.jpg",
+      "pubdate": 1748768239,
+      "stat": {
+        "view": 728,
+        "vt": 0
+      },
+      "title": "东部赛区 第67场 太原工业学院 火线 战队 vs 北京科技大学 Reborn 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "68": {
+      "aid": 114607293204216,
+      "bvid": "BV1PV76zmEMi",
+      "ctime": 1748769078,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/33524d1f7c270764f0bac7a2db777a5c39030f5e.jpg",
+      "pubdate": 1748769077,
+      "stat": {
+        "view": 1201,
+        "vt": 0
+      },
+      "title": "东部赛区 第68场 中国矿业大学 CUBOT 战队 vs 华中科技大学 狼牙 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "69": {
+      "aid": 114607326758595,
+      "bvid": "BV1db76ziEoQ",
+      "ctime": 1748769544,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/9b69efdaaa5c1516b1152a6aec8709eb0b657119.jpg",
+      "pubdate": 1748769544,
+      "stat": {
+        "view": 707,
+        "vt": 0
+      },
+      "title": "东部赛区 第69场 中国石油大学（北京） SPR 战队 vs 首都师范大学 PIE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "7": {
+      "aid": 114589861741928,
+      "bvid": "BV1yy7VzrEqU",
+      "ctime": 1748502701,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/5a62c75d67c85bc0b33dc5ebd15a35a171f91215.jpg",
+      "pubdate": 1748502700,
+      "stat": {
+        "view": 1379,
+        "vt": 0
+      },
+      "title": "东部赛区 第7场 浙江理工大学 钱塘蛟 战队 vs 华中科技大学 狼牙 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "70": {
+      "aid": 114607343534532,
+      "bvid": "BV1Re76zAEwL",
+      "ctime": 1748769769,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3cdf858051e29c499fc4b76ff5eb3bd32e631af0.jpg",
+      "pubdate": 1748769769,
+      "stat": {
+        "view": 834,
+        "vt": 0
+      },
+      "title": "东部赛区 第70场 吉林大学 TARS_Go 战队 vs 南京航空航天大学 长空御风 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "71": {
+      "aid": 114607578417699,
+      "bvid": "BV1TK76zpEb9",
+      "ctime": 1748773068,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2a1cce7b9fab4db6a0b853865a5525b86f2ecd55.jpg",
+      "pubdate": 1748773067,
+      "stat": {
+        "view": 1065,
+        "vt": 0
+      },
+      "title": "东部赛区 第71场 大连理工大学 凌BUG 战队 vs 同济大学 SuperPower 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "72": {
+      "aid": 114607611972139,
+      "bvid": "BV1Ku76znEA4",
+      "ctime": 1748773737,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/84ed0c973df8ddf2658a60b3396414d879528c41.jpg",
+      "pubdate": 1748773737,
+      "stat": {
+        "view": 2615,
+        "vt": 0
+      },
+      "title": "东部赛区 第72场 东北大学 TDT 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "73": {
+      "aid": 114608333393869,
+      "bvid": "BV17U7rzkEPQ",
+      "ctime": 1748785038,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f0bdf09f5d75084f3ce4af65e9d6dfe8bb40a001.jpg",
+      "pubdate": 1748785038,
+      "stat": {
+        "view": 959,
+        "vt": 0
+      },
+      "title": "东部赛区 第73场 哈尔滨工业大学（威海） HERO 战队 vs 东南大学 3SE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "74": {
+      "aid": 114608350169782,
+      "bvid": "BV1L97rzuEgB",
+      "ctime": 1748785277,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/851cd2313d1ece022b533ee6c8ac5f71cd55569a.jpg",
+      "pubdate": 1748785277,
+      "stat": {
+        "view": 629,
+        "vt": 0
+      },
+      "title": "东部赛区 第74场 南京理工大学 Alliance 战队 vs 山东科技大学 SmartRobot 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "75": {
+      "aid": 114608383788714,
+      "bvid": "BV1tM7kzfE2y",
+      "ctime": 1748785529,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/125dad746b388830b20920e4d7be3b70d5c9ed08.jpg",
+      "pubdate": 1748785529,
+      "stat": {
+        "view": 1168,
+        "vt": 0
+      },
+      "title": "东部赛区 第75场 太原工业学院 火线 战队 vs 中国矿业大学 CUBOT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "76": {
+      "aid": 114608434122490,
+      "bvid": "BV14g7kztExW",
+      "ctime": 1748786243,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3be3a222ddb5514c57b857a31d7a0093aa15ee3c.jpg",
+      "pubdate": 1748786243,
+      "stat": {
+        "view": 1147,
+        "vt": 0
+      },
+      "title": "东部赛区 第76场 南京航空航天大学 长空御风 战队 vs 中国石油大学（北京)  SPR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "77": {
+      "aid": 114608517939536,
+      "bvid": "BV1xa7rzWE2V",
+      "ctime": 1748787379,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3f0c41a60ef460c13ca7bc1cc52945764046e05c.jpg",
+      "pubdate": 1748787379,
+      "stat": {
+        "view": 17280,
+        "vt": 0
+      },
+      "title": "【同济大学极具统治力的地面作战！】东部赛区 第77场 同济大学 SuperPower 战队 vs 东北大学 TDT战队 RMUC 2025"
+    },
+    "78": {
+      "aid": 114608601828426,
+      "bvid": "BV1bW7rzfEpV",
+      "ctime": 1748788766,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/07e7c5d422f9ac3824daa60c501d2b78ed6c4a4a.jpg",
+      "pubdate": 1748788766,
+      "stat": {
+        "view": 1504,
+        "vt": 0
+      },
+      "title": "东部赛区 第78场 山东科技大学 SmartRobot 战队 vs 哈尔滨工业大学（威海)  HERO战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "79": {
+      "aid": 114611286182454,
+      "bvid": "BV1kM7mzPEfa",
+      "ctime": 1748829803,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/956043f97d034ac8adc67b70b336cefa227a0a4e.jpg",
+      "pubdate": 1748829803,
+      "stat": {
+        "view": 941,
+        "vt": 0
+      },
+      "title": "东部赛区 第79场 北京科技大学 Reborn 战队 vs 华中科技大学 狼牙 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "8": {
+      "aid": 114589895231211,
+      "bvid": "BV1pm7VzzEyC",
+      "ctime": 1748503545,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b1881ef7eaf57c44ec27706f4fadc89259b24514.jpg",
+      "pubdate": 1748503544,
+      "stat": {
+        "view": 971,
+        "vt": 0
+      },
+      "title": "东部赛区 第8场 宁波工程学院 New Legends 战队 vs 吉林大学 TARS_Go 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "80": {
+      "aid": 114611705613546,
+      "bvid": "BV12F7mzzEPN",
+      "ctime": 1748836289,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/389e88f44330fa4143120a5e713cbf4855dc1530.jpg",
+      "pubdate": 1748836289,
+      "stat": {
+        "view": 907,
+        "vt": 0
+      },
+      "title": "东部赛区 第80场 吉林大学 TARS_Go 战队 vs 首都师范大学 PIE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "81": {
+      "aid": 114611907004117,
+      "bvid": "BV1Lr72zXERs",
+      "ctime": 1748839322,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/986b2d179b19f07b1309ec65445ebd66c364e6a3.jpg",
+      "pubdate": 1748839321,
+      "stat": {
+        "view": 976,
+        "vt": 0
+      },
+      "title": "东部赛区 第81场 大连理工大学 凌BUG 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "82": {
+      "aid": 114612108265174,
+      "bvid": "BV1jf71zHEaU",
+      "ctime": 1748842406,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/d6018a000dd21d200bcdcf42013123ec7d0bf1b9.jpg",
+      "pubdate": 1748842406,
+      "stat": {
+        "view": 2855,
+        "vt": 0
+      },
+      "title": "【东南大学飞镖 4-4！】东部赛区 第82场 南京理工大学 Alliance 战队 vs 东南大学 3SE 战队 RMUC 2025"
+    },
+    "83": {
+      "aid": 114612192149679,
+      "bvid": "BV1ML72z6ESG",
+      "ctime": 1748843506,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/664b10afd6e879ac9ae4eaeeb3347f92768e6527.jpg",
+      "pubdate": 1748843506,
+      "stat": {
+        "view": 4046,
+        "vt": 0
+      },
+      "title": "【极致吊射！红蓝双方相互换家！】东部赛区 第83场 太原工业学院 火线 战队 vs 同济大学 SuperPower 战队 RMUC 2025"
+    },
+    "84": {
+      "aid": 114612393607653,
+      "bvid": "BV1vU7UzdEww",
+      "ctime": 1748846603,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/a7cfb1f9edb76100b65de7a22f7141846e5d81c8.jpg",
+      "pubdate": 1748846602,
+      "stat": {
+        "view": 1796,
+        "vt": 0
+      },
+      "title": "东部赛区 第84场 南京航空航天大学 长空御风 战队 vs 哈尔滨工业大学（威海） HERO 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "85": {
+      "aid": 114612578027191,
+      "bvid": "BV1wa7UzqEyd",
+      "ctime": 1748849461,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/9500debf04b4dcdd48b93e1828127920c87b2a63.jpg",
+      "pubdate": 1748849460,
+      "stat": {
+        "view": 839,
+        "vt": 0
+      },
+      "title": "东部赛区 第85场 华中科技大学 狼牙 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "86": {
+      "aid": 114612594806437,
+      "bvid": "BV1wh7UzMEQv",
+      "ctime": 1748849920,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/0d9d83f79848001989f0f3e8bd2ea267396b4707.jpg",
+      "pubdate": 1748849919,
+      "stat": {
+        "view": 915,
+        "vt": 0
+      },
+      "title": "东部赛区 第86场 吉林大学 TARS_Go 战队 vs 东南大学 3SE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "87": {
+      "aid": 114612695467285,
+      "bvid": "BV1f67UzcEKd",
+      "ctime": 1748851240,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/50dafd433b1361adaf006039298a16261b4273c4.jpg",
+      "pubdate": 1748851240,
+      "stat": {
+        "view": 827,
+        "vt": 0
+      },
+      "title": "东部赛区 第87场 北京科技大学 Reborn 战队 vs 大连理工大学 凌BUG 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "88": {
+      "aid": 114623298666595,
+      "bvid": "BV1SB7BzQEQq",
+      "ctime": 1749013110,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d13e7072ec04817aa167d2d6e266853e9b15f93f.jpg",
+      "pubdate": 1749013109,
+      "stat": {
+        "view": 3525,
+        "vt": 0
+      },
+      "title": "东部赛区 第88场 首都师范大学 PIE 战队 vs 南京理工大学 Alliance 战队 RMUC 2025"
+    },
+    "89": {
+      "aid": 114612980678944,
+      "bvid": "BV1MJ7Uz1E1X",
+      "ctime": 1748855673,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/a4b4d2b06fb1e885b775b48e66469b83a7de1e95.jpg",
+      "pubdate": 1748855672,
+      "stat": {
+        "view": 1850,
+        "vt": 0
+      },
+      "title": "东部赛区 第89场 太原工业学院 火线 战队 vs 南京航空航天大学 长空御风 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "9": {
+      "aid": 114590079782668,
+      "bvid": "BV11F7VzrEac",
+      "ctime": 1748506087,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/044120b320ebe7fa3e22f1cd52ea2e19a7bc9e11.jpg",
+      "pubdate": 1748506087,
+      "stat": {
+        "view": 1874,
+        "vt": 0
+      },
+      "title": "东部赛区 第9场 哈尔滨工业大学（威海） HERO 战队 vs 燕山大学 燕鹰 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "90": {
+      "aid": 114613282672429,
+      "bvid": "BV1W27mzMEUP",
+      "ctime": 1748860364,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/7e2792a734984da8ada355299427974ecafafd38.jpg",
+      "pubdate": 1748860364,
+      "stat": {
+        "view": 1322,
+        "vt": 0
+      },
+      "title": "东部赛区 第90场 天津大学 北洋机甲 战队 vs 吉林大学 TARS_Go 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "91": {
+      "aid": 114613500772669,
+      "bvid": "BV1fk7DzqEZv",
+      "ctime": 1748863610,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/a317e8dc77b0c83323e259b568ed05d60ef1acd8.jpg",
+      "pubdate": 1748863610,
+      "stat": {
+        "view": 7228,
+        "vt": 0
+      },
+      "title": "东部赛区 第91场 同济大学 SuperPower 战队 vs 哈尔滨工业大学（威海） HERO 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    }
+  },
+  "中部赛区": {
+    "1": {
+      "aid": 114543321679127,
+      "bvid": "BV182JezmEdb",
+      "ctime": 1747792616,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ac5cf24b179bcf47cbeee93d3fc6d1487d84764b.jpg",
+      "pubdate": 1747792615,
+      "stat": {
+        "view": 25458,
+        "vt": 0
+      },
+      "title": "中部赛区 第1场 哈尔滨工业大学 I Hiter 战队 vs 武汉工程大学 Nautilus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "10": {
+      "aid": 114544932292667,
+      "bvid": "BV1hXJBzFEBd",
+      "ctime": 1747817355,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/4159fc04dc1890e6d4b57703c7a4f62c095e9338.jpg",
+      "pubdate": 1747817355,
+      "stat": {
+        "view": 1173,
+        "vt": 0
+      },
+      "title": "中部赛区 第10场 华东理工大学 起源 战队 vs 重庆理工大学 士继DREAMER 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "11": {
+      "aid": 114545016180715,
+      "bvid": "BV1vyJBzvEK1",
+      "ctime": 1747818669,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/134462c20c3bc3ecae9c2c94e15c5dc290a410b8.jpg",
+      "pubdate": 1747818669,
+      "stat": {
+        "view": 7231,
+        "vt": 0
+      },
+      "title": "中部赛区 第11场 西北工业大学 WMJ 战队 vs 上海交通大学 交龙 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "12": {
+      "aid": 114545100196427,
+      "bvid": "BV1gRJBzfE7d",
+      "ctime": 1747820195,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c440bddb0c7504343eca1ba71beb357b44e578ce.jpg",
+      "pubdate": 1747820195,
+      "stat": {
+        "view": 1584,
+        "vt": 0
+      },
+      "title": "中部赛区 第12场 四川大学 火锅 战队 vs 河北科技大学 Actor\u0026Thinker 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "13": {
+      "aid": 114546039718277,
+      "bvid": "BV1bHJ6zFEij",
+      "ctime": 1747834112,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/04f1b81a77d3e3b79b167a9702fea0883be91fa3.jpg",
+      "pubdate": 1747834112,
+      "stat": {
+        "view": 1150,
+        "vt": 0
+      },
+      "title": "中部赛区 第13场 西安电子科技大学 IRobot 战队 vs 西南交通大学 Helios 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "14": {
+      "aid": 114546408818024,
+      "bvid": "BV18EJ6zwE1W",
+      "ctime": 1747840240,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b77bf4b3af156a61c67034ecc33f96e19a32a339.jpg",
+      "pubdate": 1747840240,
+      "stat": {
+        "view": 574,
+        "vt": 0
+      },
+      "title": "中部赛区 第14场 长安大学 VGD 战队 vs 安徽信息工程学院 Artisans 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "15": {
+      "aid": 114546442240063,
+      "bvid": "BV1RuJ6zTEnY",
+      "ctime": 1747840314,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6268005e39b1996a3c38c4a3997ba3a67872880f.jpg",
+      "pubdate": 1747840313,
+      "stat": {
+        "view": 1004,
+        "vt": 0
+      },
+      "title": "中部赛区 第15场 重庆大学 千里 战队 vs 中南大学 FYT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "16": {
+      "aid": 114546442241529,
+      "bvid": "BV1RuJ6zTEAZ",
+      "ctime": 1747840575,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/902bceada6159337b8f56700101cfd76301abd95.jpg",
+      "pubdate": 1747840574,
+      "stat": {
+        "view": 1222,
+        "vt": 0
+      },
+      "title": "中部赛区 第16场 南京航空航天大学金城学院 Born of Fire 战队 vs 沈阳航空航天大学 TUP 战队 RoboMaster 2025 超级对抗赛"
+    },
+    "17": {
+      "aid": 114546475862593,
+      "bvid": "BV1GGJ6zKERs",
+      "ctime": 1747840860,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/548cf2a521b5146a698f51f484acd1afbbc5b373.jpg",
+      "pubdate": 1747840860,
+      "stat": {
+        "view": 607,
+        "vt": 0
+      },
+      "title": "中部赛区 第17场 沈阳理工大学 Ambition 战队 vs 武汉工程大学 Nautilus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "18": {
+      "aid": 114546509414707,
+      "bvid": "BV18BJzzbEjP",
+      "ctime": 1747841371,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5f3dc13d02bd6d16a551e8a8de63897ef465a05f.jpg",
+      "pubdate": 1747841370,
+      "stat": {
+        "view": 1313,
+        "vt": 0
+      },
+      "title": "中部赛区 第18场 西安交通大学 笃行 战队 vs 合肥工业大学(宣城校区） WDR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "19": {
+      "aid": 114546526127704,
+      "bvid": "BV1gqJzzFE5U",
+      "ctime": 1747841671,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/da37c7b80a6ba74cb48eb13e18d22162923753fe.jpg",
+      "pubdate": 1747841671,
+      "stat": {
+        "view": 1975,
+        "vt": 0
+      },
+      "title": "中部赛区 第19场 国防科技大学 军临 战队 vs 浙江大学 Hello World 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "2": {
+      "aid": 114543908880607,
+      "bvid": "BV1sAJqzyEgZ",
+      "ctime": 1747801700,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/8a9d888e2d72c121652ede7168d2a94d118878d5.jpg",
+      "pubdate": 1747801700,
+      "stat": {
+        "view": 1983,
+        "vt": 0
+      },
+      "title": "中部赛区 第2场 沈阳理工大学 Ambition 战队 vs 成都大学 Ultra 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "20": {
+      "aid": 114546526127585,
+      "bvid": "BV1gqJzzFEuM",
+      "ctime": 1747841839,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6bfc97198b11c3b695518d65b6ec95f955f7cf82.jpg",
+      "pubdate": 1747841839,
+      "stat": {
+        "view": 1214,
+        "vt": 0
+      },
+      "title": "中部赛区 第20场 合肥工业大学 苍穹 战队 vs 哈尔滨工程大学 创梦之翼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "21": {
+      "aid": 114549227260446,
+      "bvid": "BV1w5JEzsEHt",
+      "ctime": 1747882900,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1062a601cb53b67bb20c62fd5920f25f69ea35e8.jpg",
+      "pubdate": 1747882900,
+      "stat": {
+        "view": 756,
+        "vt": 0
+      },
+      "title": "中部赛区 第21场 湘潭大学 逐曦 战队 vs 南华大学 MA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "22": {
+      "aid": 114549227258348,
+      "bvid": "BV1w5JEzsEDR",
+      "ctime": 1747883126,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b95c4cea14ba7b8ba9194c371ad2670f4a8161c2.jpg",
+      "pubdate": 1747883125,
+      "stat": {
+        "view": 735,
+        "vt": 0
+      },
+      "title": "中部赛区 第22场 湖南大学 跃鹿 战队 vs 西南石油大学 铁人 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "23": {
+      "aid": 114549428588368,
+      "bvid": "BV1fnJEzJE5i",
+      "ctime": 1747886016,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/fff50b00eaf01ebfc0a619291f7286994aa4432d.jpg",
+      "pubdate": 1747886016,
+      "stat": {
+        "view": 698,
+        "vt": 0
+      },
+      "title": "中部赛区 第23场 东北林业大学 Ares 战队 vs 长沙理工大学 云嵌 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "24": {
+      "aid": 114549478920025,
+      "bvid": "BV1L1J7z5E1h",
+      "ctime": 1747886458,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0f541870ae6e4751b540c793c99ec19f4c615988.jpg",
+      "pubdate": 1747886458,
+      "stat": {
+        "view": 1335,
+        "vt": 0
+      },
+      "title": "中部赛区 第24场 成都大学 Ultra 战队 vs 哈尔滨工业大学 I Hiter 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "25": {
+      "aid": 114549797683711,
+      "bvid": "BV1hjJ7zPEMb",
+      "ctime": 1747891531,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/8870c3073df753f4e032996d360a3a40db55ea4b.jpg",
+      "pubdate": 1747891531,
+      "stat": {
+        "view": 1536,
+        "vt": 0
+      },
+      "title": "【南航金城精准吊射！逆风翻盘】中部赛区 第25场 西安电子科技大学 IRobot 战队 vs 南京航空航天大学金城学院 Born of Fire 战队 2025"
+    },
+    "26": {
+      "aid": 114549831241222,
+      "bvid": "BV1tJJ7zwERU",
+      "ctime": 1747891883,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/840f58821a367b423b4d3ca55cc7c421fe90b18c.jpg",
+      "pubdate": 1747891883,
+      "stat": {
+        "view": 9613,
+        "vt": 0
+      },
+      "title": "【交龙英雄关键飞坡，扭转战局！】中部赛区 第26场 上海交通大学 交龙 战队 vs 华东理工大学 起源 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "27": {
+      "aid": 114550502329063,
+      "bvid": "BV13fJJzVEbY",
+      "ctime": 1747902557,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b3533ace5479e393f21d7411c52d07c84d381898.jpg",
+      "pubdate": 1747902556,
+      "stat": {
+        "view": 891,
+        "vt": 0
+      },
+      "title": "中部赛区 第27场 安徽信息工程学院 Artisans 战队 vs 中南大学 FYT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "28": {
+      "aid": 114550602992211,
+      "bvid": "BV1hEJJz6Eg9",
+      "ctime": 1747904133,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/a96fb6ba5bc0915c56e09b7458ff69b5cbc9de8b.jpg",
+      "pubdate": 1747904132,
+      "stat": {
+        "view": 1125,
+        "vt": 0
+      },
+      "title": "中部赛区 第28场 中国科学技术大学 RoboWalker 战队 vs 河北科技大学 Actor\u0026Thinker 战队 RoboMaster 2025 超级对抗"
+    },
+    "29": {
+      "aid": 114550703718757,
+      "bvid": "BV1r6JJzxEub",
+      "ctime": 1747905318,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d3f01bafba7b3cc772b0b98b9d4dc02c71928c9b.jpg",
+      "pubdate": 1747905318,
+      "stat": {
+        "view": 844,
+        "vt": 0
+      },
+      "title": "中部赛区 第29场 南昌大学 Passion 战队 vs 四川大学 火锅 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "3": {
+      "aid": 114544395419771,
+      "bvid": "BV1CsJiz6E3w",
+      "ctime": 1747808968,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3dfd6464b94146bacdb2b999ff5b428e342c4a09.jpg",
+      "pubdate": 1747808968,
+      "stat": {
+        "view": 1541,
+        "vt": 0
+      },
+      "title": "中部赛区 第3场 东北林业大学 Ares 战队 vs 西安交通大学 笃行 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "30": {
+      "aid": 114551274079931,
+      "bvid": "BV1VZJHzQE2C",
+      "ctime": 1747914430,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2896c67b216e8e40ea42035afbc49b6113a2a763.jpg",
+      "pubdate": 1747914429,
+      "stat": {
+        "view": 657,
+        "vt": 0
+      },
+      "title": "中部赛区 第30场 长安大学 VGD 战队 vs 重庆大学 千里 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "31": {
+      "aid": 114551290859145,
+      "bvid": "BV1VoJHzpEXS",
+      "ctime": 1747914322,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/25284e37d3e40556a13b2c51304720d5d169dcec.jpg",
+      "pubdate": 1747914322,
+      "stat": {
+        "view": 2993,
+        "vt": 0
+      },
+      "title": "【西工大无人机9秒速推前哨站！】中部赛区 第31场 西北工业大学 WMJ 战队 vs 重庆理工大学 士继DREAMER 战队 RMUC 2025"
+    },
+    "32": {
+      "aid": 114551307632831,
+      "bvid": "BV1GcJpzSE8E",
+      "ctime": 1747914821,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/c9d1d34afe80999b18b7d099e997dbfa3a7d4bbc.jpg",
+      "pubdate": 1747914821,
+      "stat": {
+        "view": 622,
+        "vt": 0
+      },
+      "title": "中部赛区 第32场 西南交通大学 Helios 战队 vs 沈阳航空航天大学 TUP 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "33": {
+      "aid": 114551458762418,
+      "bvid": "BV1gpJHz2Ez8",
+      "ctime": 1747916798,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/92a0edb9b34b98ca2c1789f8656ef771e8373be6.jpg",
+      "pubdate": 1747916798,
+      "stat": {
+        "view": 1555,
+        "vt": 0
+      },
+      "title": "中部赛区 第33场 哈尔滨工程大学 创梦之翼 战队 vs 武汉工程大学 Nautilus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "34": {
+      "aid": 114551559359019,
+      "bvid": "BV12aJHzzEGq",
+      "ctime": 1747918408,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2dea6237d3a3ff16ee9c42230462d3a745d75c02.jpg",
+      "pubdate": 1747918408,
+      "stat": {
+        "view": 1058,
+        "vt": 0
+      },
+      "title": "中部赛区 第34场 合肥工业大学(宣城校区)  WDR 战队 vs 浙江大学 Hello World 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "35": {
+      "aid": 114551626401518,
+      "bvid": "BV1rwJHzFEnV",
+      "ctime": 1747919408,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b82e7a60aa91f9f346bc46b2c566179ecf337919.jpg",
+      "pubdate": 1747919408,
+      "stat": {
+        "view": 1381,
+        "vt": 0
+      },
+      "title": "【随机固定靶4-4！来自西交大】中部赛区 第35场 国防科技大学 军临 战队 vs 西安交通大学 笃行 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "36": {
+      "aid": 114551676734632,
+      "bvid": "BV1koJnzYE1T",
+      "ctime": 1747920112,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/8547b9ca78f1f442331e415462cf24d642a40747.jpg",
+      "pubdate": 1747920112,
+      "stat": {
+        "view": 1157,
+        "vt": 0
+      },
+      "title": "中部赛区 第36场 南华大学 MA 战队 vs 哈尔滨工业大学 I Hiter 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "37": {
+      "aid": 114551727064469,
+      "bvid": "BV1kfJnzwEkY",
+      "ctime": 1747921128,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/f4fb9390868e00eb5e00f97b74f657d3b17a919c.jpg",
+      "pubdate": 1747921128,
+      "stat": {
+        "view": 460,
+        "vt": 0
+      },
+      "title": "中部赛区 第37场 沈阳理工大学 Ambition 战队 vs 合肥工业大学 苍穹 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "38": {
+      "aid": 114551743843541,
+      "bvid": "BV1eLJHznEKh",
+      "ctime": 1747921427,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/531dc624f90aaa18b95a48dfdf26152ed5bfede8.jpg",
+      "pubdate": 1747921427,
+      "stat": {
+        "view": 830,
+        "vt": 0
+      },
+      "title": "中部赛区 第38场 湖南大学 跃鹿 战队 vs 东北林业大学 Ares 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "39": {
+      "aid": 114551911615624,
+      "bvid": "BV1SrJnzCEdT",
+      "ctime": 1747923962,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/d3763aa2ad57f25d5c389b3ca7053038a66baaec.jpg",
+      "pubdate": 1747923961,
+      "stat": {
+        "view": 724,
+        "vt": 0
+      },
+      "title": "中部赛区 第39场 长沙理工大学 云嵌 战队 vs 西南石油大学 铁人 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "4": {
+      "aid": 114544412197154,
+      "bvid": "BV1yWJiz3EFB",
+      "ctime": 1747809344,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d8d26b97929099bb5d2accaf38f7b477a2c9e009.jpg",
+      "pubdate": 1747809343,
+      "stat": {
+        "view": 1334,
+        "vt": 0
+      },
+      "title": "中部赛区 第4场 合肥工业大学(宣城校区) WDR 战队 vs 长沙理工大学 云嵌 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "40": {
+      "aid": 114551928458495,
+      "bvid": "BV136JnzLEK9",
+      "ctime": 1747924245,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d6fa2780e539fe6ad0c8bfccbb2eccb3b9e3218b.jpg",
+      "pubdate": 1747924245,
+      "stat": {
+        "view": 660,
+        "vt": 0
+      },
+      "title": "中部赛区 第40场 成都大学 Ultra 战队 vs 湘潭大学 逐曦 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "41": {
+      "aid": 114554981846589,
+      "bvid": "BV1GMJ4zhEMd",
+      "ctime": 1747970623,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/4bb5ebb7a38000b81b9b49f02e1a68e6434058d0.jpg",
+      "pubdate": 1747970623,
+      "stat": {
+        "view": 7162,
+        "vt": 0
+      },
+      "title": "【上交关键飞镖极限逆转！】中部赛区 第41场 中国科学技术大学 RoboWalker 战队 vs 上海交通大学 交龙 战队 RMUC 2025"
+    },
+    "42": {
+      "aid": 114555015398913,
+      "bvid": "BV133J4zbEEC",
+      "ctime": 1747970987,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/9b90edce4f736c20a90cc5f48d9c58da666cf8e7.jpg",
+      "pubdate": 1747970986,
+      "stat": {
+        "view": 1222,
+        "vt": 0
+      },
+      "title": "中部赛区 第42场 中南大学 FYT 战队 vs 南京航空航天大学金城学院 Born of Fire 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "43": {
+      "aid": 114555065794797,
+      "bvid": "BV1eTJ4zwEAq",
+      "ctime": 1747971887,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e22f977a4bf83ea300dde9b561b674d9bd337f0a.jpg",
+      "pubdate": 1747971887,
+      "stat": {
+        "view": 518,
+        "vt": 0
+      },
+      "title": "中部赛区 第43场 安徽信息工程学院 Artisans 战队 vs 西安电子科技大学 IRobot 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "44": {
+      "aid": 114555132841826,
+      "bvid": "BV1tiJxzpE7J",
+      "ctime": 1747972855,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/67bf09346c5b89f52b1c9cca5d0eebc9e4b3c61f.jpg",
+      "pubdate": 1747972855,
+      "stat": {
+        "view": 1223,
+        "vt": 0
+      },
+      "title": "中部赛区 第44场 华东理工大学 起源 战队 vs 西北工业大学 WMJ 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "45": {
+      "aid": 114555149619125,
+      "bvid": "BV1teJxz9Efr",
+      "ctime": 1747973233,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/a9555be068d1085521e9b5eede3bdb925d52ac47.jpg",
+      "pubdate": 1747973232,
+      "stat": {
+        "view": 608,
+        "vt": 0
+      },
+      "title": "中部赛区 第45场 南昌大学 Passion 战队 vs 河北科技大学 Actor\u0026Thinker 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "46": {
+      "aid": 114555552268668,
+      "bvid": "BV11sjJzREvt",
+      "ctime": 1747979231,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/53645d17238a60872e038d28754abf7efa60d19a.jpg",
+      "pubdate": 1747979231,
+      "stat": {
+        "view": 547,
+        "vt": 0
+      },
+      "title": "中部赛区 第46场 长安大学 VGD 战队 vs 西南交通大学 Helios 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "47": {
+      "aid": 114555904593740,
+      "bvid": "BV1LpjEzMELR",
+      "ctime": 1747984730,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/672bfdcfdeb6179ecf867a8926d3fa980fa6f3dd.jpg",
+      "pubdate": 1747984730,
+      "stat": {
+        "view": 461,
+        "vt": 0
+      },
+      "title": "中部赛区 第47场 重庆大学 千里 战队 vs 沈阳航空航天大学 TUP 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "48": {
+      "aid": 114555938209992,
+      "bvid": "BV1exjEzKEof",
+      "ctime": 1747985169,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f11e8472ac66e560a17bb2a53963eb943b9dcb2f.jpg",
+      "pubdate": 1747985169,
+      "stat": {
+        "view": 551,
+        "vt": 0
+      },
+      "title": "中部赛区 第48场 重庆理工大学 士继DREAMER 战队 vs 四川大学 火锅 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "49": {
+      "aid": 114556038807825,
+      "bvid": "BV1gvjEzFE7r",
+      "ctime": 1747986642,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3ba19777e3ee10c7bde1650f650ab5ec1e5e52ae.jpg",
+      "pubdate": 1747986642,
+      "stat": {
+        "view": 1225,
+        "vt": 0
+      },
+      "title": "中部赛区 第49场 西安交通大学 笃行 战队 vs 武汉工程大学 Nautilus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "5": {
+      "aid": 114544412199601,
+      "bvid": "BV1CWJiz3Exj",
+      "ctime": 1747809695,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/fdb0dbc935c7c05747d8651df4ec158aa4005072.jpg",
+      "pubdate": 1747809695,
+      "stat": {
+        "view": 2419,
+        "vt": 0
+      },
+      "title": "中部赛区 第5场 浙江大学 Hello World 战队 vs 西南石油大学 铁人 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "50": {
+      "aid": 114556156317425,
+      "bvid": "BV1a8jEzYEAj",
+      "ctime": 1747988817,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b85690d976d5069385efeb0b489c4ad834345e8d.jpg",
+      "pubdate": 1747988816,
+      "stat": {
+        "view": 1315,
+        "vt": 0
+      },
+      "title": "中部赛区 第50场 合肥工业大学(宣城校区） WDR 战队 vs 哈尔滨工业大学 I Hiter 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "51": {
+      "aid": 114556290600031,
+      "bvid": "BV1uXj7zfEBz",
+      "ctime": 1747990629,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/34f3ded7a44ab97d5c3f02d6a58da13d4964343d.jpg",
+      "pubdate": 1747990628,
+      "stat": {
+        "view": 679,
+        "vt": 0
+      },
+      "title": "中部赛区 第51场 合肥工业大学 苍穹 战队 vs 东北林业大学 Ares 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "52": {
+      "aid": 114556558968213,
+      "bvid": "BV141jnzcEWM",
+      "ctime": 1747994629,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/abdc9f87cb7f5dacc47c52e0052577ccad41e5e0.jpg",
+      "pubdate": 1747994629,
+      "stat": {
+        "view": 819,
+        "vt": 0
+      },
+      "title": "中部赛区 第52场 沈阳理工大学 Ambition 战队 vs 国防科技大学 军临 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "53": {
+      "aid": 114556861024820,
+      "bvid": "BV1QijnzTEFa",
+      "ctime": 1747999079,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1f803898184c3ea72f4fa0c0d966c53ec5edbf08.jpg",
+      "pubdate": 1747999078,
+      "stat": {
+        "view": 593,
+        "vt": 0
+      },
+      "title": "中部赛区 第53场 西南石油大学 铁人 战队 vs 南华大学 MA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "54": {
+      "aid": 114557347433097,
+      "bvid": "BV1rYjJzJExS",
+      "ctime": 1748006614,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/82adf333a49e00a27769a33648f4459f523d8914.jpg",
+      "pubdate": 1748006614,
+      "stat": {
+        "view": 662,
+        "vt": 0
+      },
+      "title": "中部赛区 第54场 湖南大学 跃鹿 战队 vs 成都大学 Ultra 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "55": {
+      "aid": 114557380984834,
+      "bvid": "BV1eUjJzuE1N",
+      "ctime": 1748007114,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/9ea76902887dd9de91f6c966a8f639dbf95ae8fc.jpg",
+      "pubdate": 1748007113,
+      "stat": {
+        "view": 1692,
+        "vt": 0
+      },
+      "title": "中部赛区 第55场 中国科学技术大学 RoboWalker 战队 vs 西安电子科技大学 IRobot 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "56": {
+      "aid": 114557397765741,
+      "bvid": "BV1e2jJz6EkF",
+      "ctime": 1748007524,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0841e6ffa5b1731587e60ef7f3e3aba7b7b24850.jpg",
+      "pubdate": 1748007524,
+      "stat": {
+        "view": 619,
+        "vt": 0
+      },
+      "title": "中部赛区 第56场 中南大学 FYT 战队 vs 南昌大学 Passion 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "57": {
+      "aid": 114557481649531,
+      "bvid": "BV1v1jJz3Eog",
+      "ctime": 1748008768,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/facd67164a6bfe868657669f5a134c86b02f856b.jpg",
+      "pubdate": 1748008767,
+      "stat": {
+        "view": 820,
+        "vt": 0
+      },
+      "title": "中部赛区 第57场 西北工业大学 WMJ 战队 vs 西南交通大学 Helios 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "58": {
+      "aid": 114557498494079,
+      "bvid": "BV1dCjJzkEtK",
+      "ctime": 1748009114,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1773ed9b9d9ccf6c0de7b0b1bb7f9dd6ec36e9a5.jpg",
+      "pubdate": 1748009114,
+      "stat": {
+        "view": 442,
+        "vt": 0
+      },
+      "title": "中部赛区 第58场 河北科技大学 Actor\u0026Thinker 战队 vs 华东理工大学 起源 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "59": {
+      "aid": 114557531981126,
+      "bvid": "BV17xjpzQEaJ",
+      "ctime": 1748009390,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d663b27cddf5ce5c7c441bfbc6af13d91866faf9.jpg",
+      "pubdate": 1748009390,
+      "stat": {
+        "view": 321,
+        "vt": 0
+      },
+      "title": "中部赛区 第59场 长安大学 VGD 战队 vs 安徽信息工程学院 Artisans 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "6": {
+      "aid": 114544429043588,
+      "bvid": "BV1TLJizmEjA",
+      "ctime": 1747809700,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2492ddf266836f1d8dfeadeb1c0c1eca85f6f8a6.jpg",
+      "pubdate": 1747809699,
+      "stat": {
+        "view": 1663,
+        "vt": 0
+      },
+      "title": "中部赛区 第6场 国防科技大学 军临 战队 vs 湖南大学 跃鹿 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "60": {
+      "aid": 114557582445078,
+      "bvid": "BV1FHjpzxExy",
+      "ctime": 1748010351,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/489ceab84f019f52b515043414133fe7904749e4.jpg",
+      "pubdate": 1748010350,
+      "stat": {
+        "view": 1335,
+        "vt": 0
+      },
+      "title": "中部赛区 第60场 四川大学 火锅 战队 vs 重庆大学 千里 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "61": {
+      "aid": 114561172705139,
+      "bvid": "BV1EVjtzKEL4",
+      "ctime": 1748064953,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/a8d22a35d415a4d88aa425ef9d58b62ce3ee7094.jpg",
+      "pubdate": 1748064953,
+      "stat": {
+        "view": 593,
+        "vt": 0
+      },
+      "title": "中部赛区 第61场 西安交通大学 笃行 战队 vs 合肥工业大学（宣城校区） WDR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "62": {
+      "aid": 114561189546525,
+      "bvid": "BV1z3jtzqErm",
+      "ctime": 1748065293,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b34402f79e62b7d685c1b587b02a9fbfab55930c.jpg",
+      "pubdate": 1748065293,
+      "stat": {
+        "view": 494,
+        "vt": 0
+      },
+      "title": "中部赛区 第62场 沈阳理工大学 Ambition 战队 vs 合肥工业大学 苍穹 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "63": {
+      "aid": 114561206259705,
+      "bvid": "BV1pPjtzGEaP",
+      "ctime": 1748065611,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b0e3c0486b46ec9d56cbd7f02456bddf9ee58989.jpg",
+      "pubdate": 1748065611,
+      "stat": {
+        "view": 447,
+        "vt": 0
+      },
+      "title": "中部赛区 第63场 成都大学 Ultra 战队 vs 西南石油大学 铁人 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "64": {
+      "aid": 114561306855043,
+      "bvid": "BV1jij4zhEh1",
+      "ctime": 1748067183,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/7c28b24d00cba580c4c61cd8876aba64af475814.jpg",
+      "pubdate": 1748067183,
+      "stat": {
+        "view": 1188,
+        "vt": 0
+      },
+      "title": "中部赛区 第64场 西安电子科技大学 IRobot 战队 vs 中南大学 FYT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "65": {
+      "aid": 114561323632148,
+      "bvid": "BV17vj4zwEjt",
+      "ctime": 1748067352,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1c3e06b61cecb9b8cebe2c2482e013df1829ebf3.jpg",
+      "pubdate": 1748067351,
+      "stat": {
+        "view": 447,
+        "vt": 0
+      },
+      "title": "中部赛区 第65场 华东理工大学 起源 战队 vs 安徽信息工程学院 Artisans 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "66": {
+      "aid": 114561340473397,
+      "bvid": "BV1r4j4zqEhw",
+      "ctime": 1748067716,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/c0f58965538f59663b55b0e80598aead0aa4e979.jpg",
+      "pubdate": 1748067716,
+      "stat": {
+        "view": 930,
+        "vt": 0
+      },
+      "title": "中部赛区 第66场 四川大学 火锅 战队 vs 西南交通大学 Helios 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "67": {
+      "aid": 114561625624432,
+      "bvid": "BV1Ycj4zsEaH",
+      "ctime": 1748071962,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6b5c7d8b09b3cd5566331004a344840e34054d43.jpg",
+      "pubdate": 1748071962,
+      "stat": {
+        "view": 3100,
+        "vt": 0
+      },
+      "title": "中部赛区 第67场 上海交通大学 交龙 战队 vs 西南石油大学 铁人 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "68": {
+      "aid": 114561894057276,
+      "bvid": "BV1gXjbztEe8",
+      "ctime": 1748076122,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e57d108f1e7909b64fa08556f67e2c506de7fdda.jpg",
+      "pubdate": 1748076122,
+      "stat": {
+        "view": 1613,
+        "vt": 0
+      },
+      "title": "中部赛区 第68场 南昌大学 Passion 战队 vs 哈尔滨工业大学 I Hiter 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "69": {
+      "aid": 114561894056346,
+      "bvid": "BV1gXjbztES7",
+      "ctime": 1748076099,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e741ca6fddde8eca966479f0caf8a4f2728fcee1.jpg",
+      "pubdate": 1748076099,
+      "stat": {
+        "view": 668,
+        "vt": 0
+      },
+      "title": "中部赛区 第69场 沈阳理工大学 Ambition 战队 vs 南京航空航天大学金城学院 Born of Fire 战队 RoboMaster 2025 超级对"
+    },
+    "7": {
+      "aid": 114544479309554,
+      "bvid": "BV117JizLEfT",
+      "ctime": 1747810816,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6b7aa2f72c1bc45bfb70bcb8ae428ebfb3227a45.jpg",
+      "pubdate": 1747810815,
+      "stat": {
+        "view": 1558,
+        "vt": 0
+      },
+      "title": "中部赛区 第7场 南华大学 MA 战队 vs 哈尔滨工程大学 创梦之翼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "70": {
+      "aid": 114562279935210,
+      "bvid": "BV15kjbzNEQV",
+      "ctime": 1748082127,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/5810d0b8c806def251405336f7c89454ba148d88.jpg",
+      "pubdate": 1748082127,
+      "stat": {
+        "view": 1248,
+        "vt": 0
+      },
+      "title": "【超视距英雄吊射换家！】中部赛区 第70场 武汉工程大学 Nautilus 战队 vs 中南大学 FYT 战队 RMUC 2025"
+    },
+    "71": {
+      "aid": 114562430927098,
+      "bvid": "BV1ePjbzcEC7",
+      "ctime": 1748084790,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/721228edc8b73e5119f37ac898ce0e35202816b9.jpg",
+      "pubdate": 1748084790,
+      "stat": {
+        "view": 1532,
+        "vt": 0
+      },
+      "title": "中部赛区 第71场 西安交通大学 笃行 战队 vs 中国科学技术大学 RoboWalker 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "72": {
+      "aid": 114562447771277,
+      "bvid": "BV1QMjbztERn",
+      "ctime": 1748084668,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/07ded1bcecf95f2713ebe47fa3f4a15042e3fe61.jpg",
+      "pubdate": 1748084668,
+      "stat": {
+        "view": 1181,
+        "vt": 0
+      },
+      "title": "中部赛区 第72场 哈尔滨工程大学 创梦之翼 战队 vs 华东理工大学 起源 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "73": {
+      "aid": 114562481258804,
+      "bvid": "BV1sWjbz7Ehy",
+      "ctime": 1748085295,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/9602f8ecb6a3c3343b1df28845cc2682d742f207.jpg",
+      "pubdate": 1748085295,
+      "stat": {
+        "view": 963,
+        "vt": 0
+      },
+      "title": "中部赛区 第73场 西北工业大学 WMJ 战队 vs 东北林业大学 Ares 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "74": {
+      "aid": 114562632254860,
+      "bvid": "BV1C1jtzVETD",
+      "ctime": 1748087415,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/536d9aedaa9aae935ec31d47b1b2e05ee1f5416b.jpg",
+      "pubdate": 1748087415,
+      "stat": {
+        "view": 1217,
+        "vt": 0
+      },
+      "title": "中部赛区 第74场 四川大学 火锅 战队 vs 浙江大学 Hello World 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "75": {
+      "aid": 114563001355504,
+      "bvid": "BV1nejhzEEx7",
+      "ctime": 1748093395,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d8ef017235a3d250d7e5b53064fb4cd4658ad956.jpg",
+      "pubdate": 1748093395,
+      "stat": {
+        "view": 24610,
+        "vt": 0
+      },
+      "title": "【顶级战术！哈工大空地协同 一击制胜！】中部赛区 第75场 上海交通大学 交龙 战队 vs 哈尔滨工业大学 I Hiter 战队 RMUC 2025"
+    },
+    "76": {
+      "aid": 114563303345320,
+      "bvid": "BV1ssjhzsE1t",
+      "ctime": 1748097827,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/5f9d8e840b599784cd4f51862a6fda554dfb62bb.jpg",
+      "pubdate": 1748097827,
+      "stat": {
+        "view": 3716,
+        "vt": 0
+      },
+      "title": "中部赛区 第76场 中南大学 FYT 战队 vs 南京航空航天大学金城学院 Born of Fire 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "77": {
+      "aid": 114563404071321,
+      "bvid": "BV1mHjhz4Ez5",
+      "ctime": 1748099274,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/180ec508c310e5ecccdb8ac77da2f584054166c8.jpg",
+      "pubdate": 1748099274,
+      "stat": {
+        "view": 2826,
+        "vt": 0
+      },
+      "title": "中部赛区 第77场 中国科学技术大学 RoboWalker 战队 vs 哈尔滨工程大学 创梦之翼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "78": {
+      "aid": 114563471117046,
+      "bvid": "BV1kDj8zmEFu",
+      "ctime": 1748100216,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c96525b66653afe662e7996160d9af8711dad894.jpg",
+      "pubdate": 1748100216,
+      "stat": {
+        "view": 16725,
+        "vt": 0
+      },
+      "title": "【4051血量差！西工大极限翻盘！】 第78场 浙江大学 Hello World 战队 vs 西北工业大学 WMJ 战队 RMUC 2025"
+    },
+    "79": {
+      "aid": 114566205804514,
+      "bvid": "BV1BJjuzEEbV",
+      "ctime": 1748141913,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ccef6d2d330db1a44b1430db36338ca0b5e44035.jpg",
+      "pubdate": 1748141913,
+      "stat": {
+        "view": 914,
+        "vt": 0
+      },
+      "title": "中部赛区 第79场 西南石油大学 铁人 战队 vs 南昌大学 Passion 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "8": {
+      "aid": 114544865248830,
+      "bvid": "BV1qpJzzzEVJ",
+      "ctime": 1747816256,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5d17c054aae51f598bef9e111288f7114d8ef468.jpg",
+      "pubdate": 1747816256,
+      "stat": {
+        "view": 835,
+        "vt": 0
+      },
+      "title": "中部赛区 第8场 合肥工业大学 苍穹 战队 vs 湘潭大学 逐曦 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "80": {
+      "aid": 114566222579440,
+      "bvid": "BV1z7juzSECa",
+      "ctime": 1748142281,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/aee7ed5eac84cc48b3fe810071303cbe956dbe4f.jpg",
+      "pubdate": 1748142281,
+      "stat": {
+        "view": 759,
+        "vt": 0
+      },
+      "title": "中部赛区 第80场 武汉工程大学 Nautilus 战队 vs 沈阳理工大学 Ambition 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "81": {
+      "aid": 114566356861339,
+      "bvid": "BV198juzrErS",
+      "ctime": 1748144107,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/647696ee0125cbc35c3d1b4f1492d1485ec83116.jpg",
+      "pubdate": 1748144106,
+      "stat": {
+        "view": 1235,
+        "vt": 0
+      },
+      "title": "中部赛区 第81场 西安交通大学 笃行 战队 vs 华东理工大学 起源 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "82": {
+      "aid": 114566423904617,
+      "bvid": "BV1UFjuzwEiZ",
+      "ctime": 1748145033,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3df402681e91b909e6add9fab7561d6fc11d231b.jpg",
+      "pubdate": 1748145033,
+      "stat": {
+        "view": 2022,
+        "vt": 0
+      },
+      "title": "中部赛区 第82场 四川大学 火锅 战队 vs 东北林业大学 Ares 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "83": {
+      "aid": 114566608454107,
+      "bvid": "BV1yTjuz4EZq",
+      "ctime": 1748148205,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/8040d8ed37bcc2d77afbe47b4705311d87d963bf.jpg",
+      "pubdate": 1748148204,
+      "stat": {
+        "view": 3289,
+        "vt": 0
+      },
+      "title": "中部赛区 第83场 哈尔滨工业大学 I Hiter 战队 vs 中国科学技术大学 RoboWalker 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "84": {
+      "aid": 114567145328510,
+      "bvid": "BV1MEjMzcE57",
+      "ctime": 1748156291,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ac5855542efe2e975296aaf6f9cdc90969f85db6.jpg",
+      "pubdate": 1748156291,
+      "stat": {
+        "view": 2095,
+        "vt": 0
+      },
+      "title": "中部赛区 第84场 南京航空航天大学金城学院 Born of Fire 战队 vs 西北工业大学 WMJ 战队 RoboMaster 2025 超级对抗赛 区域"
+    },
+    "85": {
+      "aid": 114566944000632,
+      "bvid": "BV13GjMzNEnT",
+      "ctime": 1748153065,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4f9d2b6ed470bc5de0034266430b0fd460244780.jpg",
+      "pubdate": 1748153065,
+      "stat": {
+        "view": 914,
+        "vt": 0
+      },
+      "title": "中部赛区 第85场 西南石油大学 铁人 战队 vs 华东理工大学 起源 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "86": {
+      "aid": 114567061440246,
+      "bvid": "BV1MJjMz8Ect",
+      "ctime": 1748155053,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3f9067ffb64d4506e7fe3a26176d52e4326b55f6.jpg",
+      "pubdate": 1748155053,
+      "stat": {
+        "view": 1510,
+        "vt": 0
+      },
+      "title": "中部赛区 第86场 沈阳理工大学 Ambition 战队 vs 东北林业大学 Ares 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "87": {
+      "aid": 114567430538670,
+      "bvid": "BV11Mj3zeEZV",
+      "ctime": 1748160525,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/710eafa85025c8d7404b4fed064b779c9ab60cb8.jpg",
+      "pubdate": 1748160525,
+      "stat": {
+        "view": 4786,
+        "vt": 0
+      },
+      "title": "【季军争夺赛】第87场 哈尔滨工业大学 I Hiter 战队 vs 南京航空航天大学金城学院 Born of Fire 战队 RoboMaster 2025"
+    },
+    "88": {
+      "aid": 114567766147497,
+      "bvid": "BV1YVjgzGEin",
+      "ctime": 1748166035,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bf61e9964f3f5fa48abefe80941821082cc290be.jpg",
+      "pubdate": 1748166035,
+      "stat": {
+        "view": 11002,
+        "vt": 0
+      },
+      "title": "【冠军争夺赛】中部赛区 第88场 中国科学技术大学 RoboWalker 战队 vs 西北工业大学 WMJ 战队 RMUC 2025 超级对抗赛 区域赛"
+    },
+    "9": {
+      "aid": 114544898737747,
+      "bvid": "BV1YSJBzwEhG",
+      "ctime": 1747816703,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/f7c014e1e888710035833f27ef31ed21c96f8b6a.jpg",
+      "pubdate": 1747816703,
+      "stat": {
+        "view": 1604,
+        "vt": 0
+      },
+      "title": "中部赛区 第9场 南昌大学 Passion 战队 vs 中国科学技术大学 RoboWalker 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    }
+  },
+  "南部赛区": {
+    "1": {
+      "aid": 114498258077895,
+      "bvid": "BV1ay7dzrEyE",
+      "ctime": 1747105316,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/46fd7cd3f3536f71b71cc88ae23c10d0e83cdbe4.jpg",
+      "pubdate": 1747105315,
+      "stat": {
+        "view": 27028,
+        "vt": 0
+      },
+      "title": "南部赛区 第1场 华南理工大学 华南虎 战队 vs 桂林理工大学 群星 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "10": {
+      "aid": 114500103569627,
+      "bvid": "BV1rvEFzPEiQ",
+      "ctime": 1747133443,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5d9019f3da76bae101fab71809d4d2ddef9cbfe3.jpg",
+      "pubdate": 1747133443,
+      "stat": {
+        "view": 2538,
+        "vt": 0
+      },
+      "title": "南部赛区 第10场 电子科技大学中山学院 RoboBraver 战队 vs 成都信息工程大学 风信子战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "11": {
+      "aid": 114500120348884,
+      "bvid": "BV1rYEFzvECt",
+      "ctime": 1747133771,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d037ad149b5e11e625f8bcbacf6a96a6069271af.jpg",
+      "pubdate": 1747133771,
+      "stat": {
+        "view": 1775,
+        "vt": 0
+      },
+      "title": "南部赛区 第11场 五邑大学 IMCA 战队 vs 华南农业大学 Taurus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "12": {
+      "aid": 114500153901154,
+      "bvid": "BV12WEFzrErB",
+      "ctime": 1747133859,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/d1be59cd9e831a49d45cd09707469dfefb25fefb.jpg",
+      "pubdate": 1747133858,
+      "stat": {
+        "view": 1551,
+        "vt": 0
+      },
+      "title": "南部赛区 第12场 北京工业大学 PIP 战队 vs 广西大学 ROBOTZ 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "13": {
+      "aid": 114500153904867,
+      "bvid": "BV11WEFzrE9j",
+      "ctime": 1747134229,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/429e294832160d6d28f589ece6da13f16a6f5e83.jpg",
+      "pubdate": 1747134229,
+      "stat": {
+        "view": 2521,
+        "vt": 0
+      },
+      "title": "南部赛区 第13场 哈尔滨工业大学（深圳） 南工骁鹰 战队 vs 香港科技大学（广州） PnX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "14": {
+      "aid": 114500506226647,
+      "bvid": "BV12pEFzGE6v",
+      "ctime": 1747139630,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/08d013af8194abdaac44888b9ea510d913bfc07a.jpg",
+      "pubdate": 1747139630,
+      "stat": {
+        "view": 2668,
+        "vt": 0
+      },
+      "title": "南部赛区 第14场 东莞理工学院 ACE 战队 vs 北京理工大学（珠海） 毅恒 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "15": {
+      "aid": 114500690774133,
+      "bvid": "BV1vQEwzcEM5",
+      "ctime": 1747142095,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1cde8dfa81afce74ef3d8ec152bc1275771a24f1.jpg",
+      "pubdate": 1747142094,
+      "stat": {
+        "view": 1633,
+        "vt": 0
+      },
+      "title": "南部赛区 第15场 东北大学秦皇岛分校 征龙凌沧 战队 vs 深圳大学 RobotPilots 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "16": {
+      "aid": 114500741107210,
+      "bvid": "BV1s3EAz7Ez8",
+      "ctime": 1747142979,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b6fdfc855223cd960cb5f8bd0169523259a28d08.jpg",
+      "pubdate": 1747142979,
+      "stat": {
+        "view": 1189,
+        "vt": 0
+      },
+      "title": "南部赛区 第16场 华北理工大学 Horizon 战队 vs 福建理工大学 苍侠 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "17": {
+      "aid": 114501479301223,
+      "bvid": "BV1gzEcznE8v",
+      "ctime": 1747154252,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/edbed74f8229545c09071a5ef60cb9d48c036194.jpg",
+      "pubdate": 1747154252,
+      "stat": {
+        "view": 1015,
+        "vt": 0
+      },
+      "title": "南部赛区 第17场 桂林信息科技学院 GIRT 战队 vs 中国石油大学（华东） RPS 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "18": {
+      "aid": 114501512858302,
+      "bvid": "BV1MkEczEEv7",
+      "ctime": 1747154895,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e8c1d2f5a9f4026880d2627def62f5d573b5e7b6.jpg",
+      "pubdate": 1747154894,
+      "stat": {
+        "view": 2142,
+        "vt": 0
+      },
+      "title": "南部赛区 第18场 华南理工大学 华南虎 战队 vs  北方工业大学 DreamTeam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "19": {
+      "aid": 114501529701894,
+      "bvid": "BV1b6EczSEh7",
+      "ctime": 1747154976,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/927c0177ae5076f6cb789bbff170c41bbf708a75.jpg",
+      "pubdate": 1747154975,
+      "stat": {
+        "view": 1330,
+        "vt": 0
+      },
+      "title": "南部赛区 第19场 广东工业大学 DynamicX 战队 vs 广州城市理工学院 野狼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "2": {
+      "aid": 114498627178339,
+      "bvid": "BV1fZ7fzbEVw",
+      "ctime": 1747110749,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/81b007156d56b83bf29ad64b40b7e7ccb568413a.jpg",
+      "pubdate": 1747110749,
+      "stat": {
+        "view": 3572,
+        "vt": 0
+      },
+      "title": "南部赛区 第2场 深圳技术大学 悍匠 战队 vs 广州城市理工学院 野狼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "20": {
+      "aid": 114501529699648,
+      "bvid": "BV186EczSEwA",
+      "ctime": 1747155046,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f4a7ede89cae13c0966bcc0c51604153a4681fce.jpg",
+      "pubdate": 1747155046,
+      "stat": {
+        "view": 1252,
+        "vt": 0
+      },
+      "title": "南部赛区 第20场  华北科技学院 风暴 战队 vs  桂林电子科技大学 Evolution 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "21": {
+      "aid": 114503861666199,
+      "bvid": "BV14TEvzgE4F",
+      "ctime": 1747190992,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b5c7de630e49ade7702d3ca9a7df64092ed9dd1a.jpg",
+      "pubdate": 1747190992,
+      "stat": {
+        "view": 769,
+        "vt": 0
+      },
+      "title": "南部赛区 第21场 深圳职业技术大学 RCIA 战队 vs  厦门大学嘉庚学院 TCR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "22": {
+      "aid": 114503895223821,
+      "bvid": "BV18ZEezjEo1",
+      "ctime": 1747191093,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/da8714f80abfd9052ded82d88ce2d2c030e556ec.jpg",
+      "pubdate": 1747191093,
+      "stat": {
+        "view": 710,
+        "vt": 0
+      },
+      "title": "南部赛区 第22场 云南大学 Future 战队 vs  深圳技术大学 悍匠 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "23": {
+      "aid": 114504029438045,
+      "bvid": "BV1sgEvzMEoj",
+      "ctime": 1747193334,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/edbac0b13cf24b987fb9c8823d16b11473f7cd32.jpg",
+      "pubdate": 1747193334,
+      "stat": {
+        "view": 757,
+        "vt": 0
+      },
+      "title": "南部赛区 第23场 桂林理工大学 群星 战队 vs 北京信息科技大学 星辰 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "24": {
+      "aid": 114504213989457,
+      "bvid": "BV1rvEezwEQK",
+      "ctime": 1747195818,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/504d5141e661bde9d2e5b20fb08317a04ce00f25.jpg",
+      "pubdate": 1747195818,
+      "stat": {
+        "view": 773,
+        "vt": 0
+      },
+      "title": "南部赛区 第24场 佛山大学 醒狮 战队 vs 仲恺农业工程学院 奇点 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "25": {
+      "aid": 114504247543497,
+      "bvid": "BV1vSEezQENZ",
+      "ctime": 1747196550,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4c24be98c768325132df27803c3cf36700dfc1fd.jpg",
+      "pubdate": 1747196550,
+      "stat": {
+        "view": 2758,
+        "vt": 0
+      },
+      "title": "南部赛区 第25场 电子科技大学中山学院 RoboBraver 战队 vs  太原理工大学 TRoMaC 战队 RoboMaster 2025 超级对抗赛 区域"
+    },
+    "26": {
+      "aid": 114504482424416,
+      "bvid": "BV19gEezEEUR",
+      "ctime": 1747200057,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/a84b10aae700546808b63731dd68dbbb0a96d3a3.jpg",
+      "pubdate": 1747200057,
+      "stat": {
+        "view": 3639,
+        "vt": 0
+      },
+      "title": "南部赛区 第26场 华南农业大学 Taurus 战队 vs 深圳大学 RobotPilots 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "27": {
+      "aid": 114505388392513,
+      "bvid": "BV1DHEizUE3S",
+      "ctime": 1747213979,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6bde6c5775ee101d49636d229266b6c2809495c5.jpg",
+      "pubdate": 1747213979,
+      "stat": {
+        "view": 860,
+        "vt": 0
+      },
+      "title": "南部赛区 第27场 东莞理工学院 ACE 战队 vs 福建理工大学 苍侠 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "28": {
+      "aid": 114505405170987,
+      "bvid": "BV1m4EizLEDK",
+      "ctime": 1747214329,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4ca3659ff020ba09180a9197e08ae7a39db3e53e.jpg",
+      "pubdate": 1747214329,
+      "stat": {
+        "view": 1357,
+        "vt": 0
+      },
+      "title": "南部赛区 第28场 哈尔滨工业大学（深圳） 南工骁鹰 战队 vs  广西大学 ROBOTZ 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "29": {
+      "aid": 114505556165066,
+      "bvid": "BV1TUEvzGEw7",
+      "ctime": 1747216610,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2a550b801c7b0c7ae23734ac08185cb333a9545d.jpg",
+      "pubdate": 1747216609,
+      "stat": {
+        "view": 859,
+        "vt": 0
+      },
+      "title": "南部赛区 第29场 香港科技大学（广州） PnX 战队 vs 北京工业大学 PIP 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "3": {
+      "aid": 114499247932683,
+      "bvid": "BV14c7fzBELg",
+      "ctime": 1747120270,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/53ae9bdec7283ccd8f0c26fe1bc47cf596b36133.jpg",
+      "pubdate": 1747120270,
+      "stat": {
+        "view": 2477,
+        "vt": 0
+      },
+      "title": "南部赛区 第3场 仲恺农业工程学院 奇点 战队 vs 中国石油大学（华东） RPS 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "30": {
+      "aid": 114505656830048,
+      "bvid": "BV1wZEvzKENe",
+      "ctime": 1747218147,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5995bfcf1860f3ffbecb3dfa8fd8090c52e61a62.jpg",
+      "pubdate": 1747218146,
+      "stat": {
+        "view": 870,
+        "vt": 0
+      },
+      "title": "南部赛区 第30场 北京理工大学（珠海） 毅恒 战队 vs  华北理工大学 Horizon 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "31": {
+      "aid": 114505656894935,
+      "bvid": "BV1HZEvzKE9Y",
+      "ctime": 1747218182,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2e34467fe0dfd2521eedfe2a6724cfc00c9c1ac1.jpg",
+      "pubdate": 1747218182,
+      "stat": {
+        "view": 1352,
+        "vt": 0
+      },
+      "title": "南部赛区 第31场 五邑大学 IMCA 战队 vs 东北大学秦皇岛分校 征龙凌沧 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "32": {
+      "aid": 114505673670704,
+      "bvid": "BV1nwEizYEw6",
+      "ctime": 1747218217,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/6cdc6d911e83edec91c8a54b4e075e861fed9d3f.jpg",
+      "pubdate": 1747218217,
+      "stat": {
+        "view": 894,
+        "vt": 0
+      },
+      "title": "南部赛区 第32场 成都信息工程大学 风信子 战队 vs  南方科技大学 ARTINX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "33": {
+      "aid": 114505690449515,
+      "bvid": "BV1ncEizPEvb",
+      "ctime": 1747218671,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/6150a9150349416fce548bab279a875d8ddf8c76.jpg",
+      "pubdate": 1747218671,
+      "stat": {
+        "view": 6219,
+        "vt": 0
+      },
+      "title": "南部赛区 第33场 广东工业大学 DynamicX 战队 vs 华南理工大学 华南虎 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "34": {
+      "aid": 114506025930454,
+      "bvid": "BV1QHEBz4Epu",
+      "ctime": 1747223571,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3c3f6d83e19f1343cc9bf2ab7746b639e1a23045.jpg",
+      "pubdate": 1747223571,
+      "stat": {
+        "view": 1370,
+        "vt": 0
+      },
+      "title": "南部赛区 第34场 华北科技学院 风暴 战队 vs 中国石油大学（华东）  RPS 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "35": {
+      "aid": 114506126593696,
+      "bvid": "BV1mhEBznEKT",
+      "ctime": 1747225059,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/6b770c9ae64e1cb3509388137c959382a437c3ba.jpg",
+      "pubdate": 1747225059,
+      "stat": {
+        "view": 1558,
+        "vt": 0
+      },
+      "title": "南部赛区 第35场 桂林电子科技大学 Evolution 战队 vs 桂林信息科技学院 GIRT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "36": {
+      "aid": 114506797680788,
+      "bvid": "BV1bNEqzJE4X",
+      "ctime": 1747235266,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ffcab6dfd85062c98325b2e0a67c6dea87283d44.jpg",
+      "pubdate": 1747235265,
+      "stat": {
+        "view": 614,
+        "vt": 0
+      },
+      "title": "南部赛区 第36场 桂林理工大学 群星 战队 vs 北方工业大学 DreamTeam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "37": {
+      "aid": 114506965453497,
+      "bvid": "BV1HnEqzuExb",
+      "ctime": 1747238148,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/6735a3ef76f305f29fdbf6c6c47c9953a85ba6b2.jpg",
+      "pubdate": 1747238147,
+      "stat": {
+        "view": 862,
+        "vt": 0
+      },
+      "title": "南部赛区 第37场 云南大学 Future 战队 vs 广州城市理工学院 野狼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "38": {
+      "aid": 114509331040855,
+      "bvid": "BV1W4ECzbEmq",
+      "ctime": 1747274121,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/1b09ab44c9269da6c3629416a9bd5dede31fb892.jpg",
+      "pubdate": 1747274121,
+      "stat": {
+        "view": 492,
+        "vt": 0
+      },
+      "title": "南部赛区 第38场 厦门大学嘉庚学院 TCR 战队 vs 佛山大学 醒狮 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "39": {
+      "aid": 114509331040963,
+      "bvid": "BV1W4ECzbE1q",
+      "ctime": 1747274271,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/fc2a9ccb17ebdd0e1c4becd4f129fc8fe2350779.jpg",
+      "pubdate": 1747274271,
+      "stat": {
+        "view": 488,
+        "vt": 0
+      },
+      "title": "南部赛区 第39场 深圳职业技术大学 RCIA 战队 vs 仲恺农业工程学院 奇点 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "4": {
+      "aid": 114499315041996,
+      "bvid": "BV1r87ZzfEB8",
+      "ctime": 1747121412,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/03542b479ba5bfd6c6fc4b414395e574fb98a79a.jpg",
+      "pubdate": 1747121411,
+      "stat": {
+        "view": 1633,
+        "vt": 0
+      },
+      "title": "南部赛区 第4场 桂林信息科技学院 GIRT 战队 vs 佛山大学 醒狮 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "40": {
+      "aid": 114509347818152,
+      "bvid": "BV1sxECzFE8D",
+      "ctime": 1747274431,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2163921190e75d8270fd06c78a85616faa0547c5.jpg",
+      "pubdate": 1747274431,
+      "stat": {
+        "view": 734,
+        "vt": 0
+      },
+      "title": "南部赛区 第40场 北京信息科技大学 星辰 战队 vs 深圳技术大学 悍匠 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "41": {
+      "aid": 114509398149668,
+      "bvid": "BV14nECzYEkV",
+      "ctime": 1747275030,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/10c0cd8cc4939a98d6fb77630866d916e3f6067c.jpg",
+      "pubdate": 1747275029,
+      "stat": {
+        "view": 2983,
+        "vt": 0
+      },
+      "title": "南部赛区 第41场 太原理工大学 TRoMaC 战队 vs 华南农业大学 Taurus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "42": {
+      "aid": 114509448481408,
+      "bvid": "BV1xpECzwEdy",
+      "ctime": 1747275952,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e4ef9c3652e54ea4e1e1bd48c31a113ff79dc6bf.jpg",
+      "pubdate": 1747275951,
+      "stat": {
+        "view": 1453,
+        "vt": 0
+      },
+      "title": "南部赛区 第42场 哈尔滨工业大学（深圳） 南工骁鹰 战队 vs 东莞理工学院 ACE 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "43": {
+      "aid": 114509565921378,
+      "bvid": "BV1C2EkzdEJi",
+      "ctime": 1747277443,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/25e58b60863beef0a3c527053b863133114dba83.jpg",
+      "pubdate": 1747277442,
+      "stat": {
+        "view": 1251,
+        "vt": 0
+      },
+      "title": "南部赛区 第43场 福建理工大学 苍侠 战队 vs 深圳大学 RobotPilots 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "44": {
+      "aid": 114509750470707,
+      "bvid": "BV1RWEkzrET5",
+      "ctime": 1747280265,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/22cb60c36245ac73c975cef58044ca3d1ec94308.jpg",
+      "pubdate": 1747280264,
+      "stat": {
+        "view": 1066,
+        "vt": 0
+      },
+      "title": "南部赛区 第44场 香港科技大学（广州） PnX 战队 vs 五邑大学 IMCA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "45": {
+      "aid": 114510253786434,
+      "bvid": "BV1wMEkzXEz8",
+      "ctime": 1747288141,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/966664b7d7da914e27ce224104f245ca93468d77.jpg",
+      "pubdate": 1747288141,
+      "stat": {
+        "view": 632,
+        "vt": 0
+      },
+      "title": "南部赛区 第45场 广西大学 ROBOTZ 战队 vs 北京理工大学（珠海） 毅恒 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "46": {
+      "aid": 114510253788856,
+      "bvid": "BV1wMEkzXEK6",
+      "ctime": 1747288231,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fbb6e05c2094b7a816848bf0447f92d4331847c3.jpg",
+      "pubdate": 1747288230,
+      "stat": {
+        "view": 2219,
+        "vt": 0
+      },
+      "title": "南部赛区 第46场 电子科技大学中山学院 RoboBraver 战队 vs 南方科技大学 ARTINX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "47": {
+      "aid": 114511595962697,
+      "bvid": "BV1QBE2zmEYC",
+      "ctime": 1747308403,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/30329ec90abb932bef35e4e6b2f1eda88009b1af.jpg",
+      "pubdate": 1747308402,
+      "stat": {
+        "view": 732,
+        "vt": 0
+      },
+      "title": "南部赛区 第47场 北京工业大学 PIP 战队 vs 成都信息工程大学 风信子 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "48": {
+      "aid": 114511730184008,
+      "bvid": "BV1uwE2zVEwJ",
+      "ctime": 1747310486,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2691c411dfab5c01e6c092f33bbb68d92acfd929.jpg",
+      "pubdate": 1747310486,
+      "stat": {
+        "view": 544,
+        "vt": 0
+      },
+      "title": "南部赛区 第48场 东北大学秦皇岛分校 征龙凌沧 战队 vs 华北理工大学 Horizon 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "49": {
+      "aid": 114511763736071,
+      "bvid": "BV1w7E2zAEWd",
+      "ctime": 1747311158,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/17bc8ae946ef75e7f4a9388e515c364f2607e7cc.jpg",
+      "pubdate": 1747311158,
+      "stat": {
+        "view": 1788,
+        "vt": 0
+      },
+      "title": "南部赛区 第49场 华南理工大学 华南虎 战队 vs 桂林信息科技学院 GIRT 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "5": {
+      "aid": 114499331819630,
+      "bvid": "BV1yp7ZzeESc",
+      "ctime": 1747121628,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/01a2fca8246e645ed8071d46f857977226e959ef.jpg",
+      "pubdate": 1747121628,
+      "stat": {
+        "view": 2655,
+        "vt": 0
+      },
+      "title": "南部赛区 第5场 桂林电子科技大学 Evolution 战队 vs 厦门大学嘉庚学院 TCR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "50": {
+      "aid": 114511881242096,
+      "bvid": "BV1zrE1zoEjt",
+      "ctime": 1747312958,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/756b1423aafef6ffb070ce633b0e70bfa8465943.jpg",
+      "pubdate": 1747312958,
+      "stat": {
+        "view": 842,
+        "vt": 0
+      },
+      "title": "南部赛区 第50场 广州城市理工学院 野狼 战队 vs 华北科技学院 风暴 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "51": {
+      "aid": 114512753592905,
+      "bvid": "BV1AtEnz8E4g",
+      "ctime": 1747326178,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/6337eec47d9dcdb71b7e961c67efed97df753b5c.jpg",
+      "pubdate": 1747326178,
+      "stat": {
+        "view": 651,
+        "vt": 0
+      },
+      "title": "南部赛区 第51场 佛山大学 醒狮 战队 vs 北方工业大学 DreamTeam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "52": {
+      "aid": 114512871099994,
+      "bvid": "BV1VmEnz2EjB",
+      "ctime": 1747328186,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0df702052f8808fb2fa5ae83a4d0d5b0d50189ee.jpg",
+      "pubdate": 1747328186,
+      "stat": {
+        "view": 366,
+        "vt": 0
+      },
+      "title": "南部赛区 第52场 仲恺农业工程学院 奇点 战队 vs 云南大学 Future 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "53": {
+      "aid": 114512887939242,
+      "bvid": "BV1B6EnzHEKk",
+      "ctime": 1747328496,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0791121c2e145eb260c6f207390044e5d2627c32.jpg",
+      "pubdate": 1747328496,
+      "stat": {
+        "view": 503,
+        "vt": 0
+      },
+      "title": "南部赛区 第53场 桂林理工大学 群星 战队 vs 桂林电子科技大学 Evolution 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "54": {
+      "aid": 114512921430626,
+      "bvid": "BV1LCEnzJE1V",
+      "ctime": 1747329247,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/80bc4a49a378cb918ba411364249460ca6c8877d.jpg",
+      "pubdate": 1747329247,
+      "stat": {
+        "view": 342,
+        "vt": 0
+      },
+      "title": "南部赛区 第54场 厦门大学嘉庚学院 TCR 战队 vs 深圳技术大学 悍匠 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "55": {
+      "aid": 114512938141889,
+      "bvid": "BV1drEnzSEmp",
+      "ctime": 1747329252,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/abf7154a8db3074871e03bbaff5b5a9343441fde.jpg",
+      "pubdate": 1747329252,
+      "stat": {
+        "view": 643,
+        "vt": 0
+      },
+      "title": "南部赛区 第55场 东莞理工学院 ACE 战队 vs 华南农业大学 Taurus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "56": {
+      "aid": 114512971694109,
+      "bvid": "BV1VMEnzVELP",
+      "ctime": 1747329628,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/f19e3557e703cafda5f168c1e3906922f7fef490.jpg",
+      "pubdate": 1747329627,
+      "stat": {
+        "view": 1143,
+        "vt": 0
+      },
+      "title": "南部赛区 第56场 南方科技大学 ARTINX 战队 vs 五邑大学 IMCA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "57": {
+      "aid": 114512971695782,
+      "bvid": "BV1VMEnzVEPf",
+      "ctime": 1747329705,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/bfd141c062424576230979bc32508d4331fe1a01.jpg",
+      "pubdate": 1747329704,
+      "stat": {
+        "view": 1088,
+        "vt": 0
+      },
+      "title": "南部赛区 第57场 深圳大学 RobotPilots 战队 vs 北京理工大学（珠海） 毅恒 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "58": {
+      "aid": 114512988471425,
+      "bvid": "BV13GEnz6EP5",
+      "ctime": 1747329833,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fd5f3e8040913c284b091deb3ecac9cbed2d9eff.jpg",
+      "pubdate": 1747329833,
+      "stat": {
+        "view": 468,
+        "vt": 0
+      },
+      "title": "南部赛区 第58场 广西大学 ROBOTZ 战队 vs 电子科技大学中山学院 RoboBraver 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "59": {
+      "aid": 114513005315435,
+      "bvid": "BV1a3Enz3EPP",
+      "ctime": 1747330207,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c02b99d193fe00d20b8158857dd8fa38a019c616.jpg",
+      "pubdate": 1747330207,
+      "stat": {
+        "view": 604,
+        "vt": 0
+      },
+      "title": "南部赛区 第59场 福建理工大学 苍侠 战队 vs 香港科技大学（广州） PnX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "6": {
+      "aid": 114499835136249,
+      "bvid": "BV1bfEFzmEhz",
+      "ctime": 1747129537,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/72e90d536ea51e70d11fbd99d942cd6cf525ab95.jpg",
+      "pubdate": 1747129537,
+      "stat": {
+        "view": 1852,
+        "vt": 0
+      },
+      "title": "南部赛区 第6场 北方工业大学 DreamTeam 战队 vs 北京信息科技大学 星辰 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "60": {
+      "aid": 114513022029549,
+      "bvid": "BV15AEnz2Eis",
+      "ctime": 1747330423,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/bc0e750b95d30ea30339f2ca5c513d2bf3a29a98.jpg",
+      "pubdate": 1747330423,
+      "stat": {
+        "view": 601,
+        "vt": 0
+      },
+      "title": "南部赛区 第60场 东北大学秦皇岛分校 征龙凌沧 战队 vs 成都信息工程大学 风信子 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "61": {
+      "aid": 114515102401851,
+      "bvid": "BV1qxEWztEp1",
+      "ctime": 1747362131,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/85a8c99331b0d8959a232f6bffa5614daa3d05c9.jpg",
+      "pubdate": 1747362131,
+      "stat": {
+        "view": 571,
+        "vt": 0
+      },
+      "title": "南部赛区 第61场 桂林信息科技学院 GIRT 战队 vs 广州城市理工学院 野狼 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "62": {
+      "aid": 114515286952110,
+      "bvid": "BV18zEWzUE8o",
+      "ctime": 1747364887,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/8b3097b771bcdc3dc706a763604acd75bc4f2427.jpg",
+      "pubdate": 1747364887,
+      "stat": {
+        "view": 499,
+        "vt": 0
+      },
+      "title": "南部赛区 第62场 佛山大学 醒狮 战队 vs 仲恺农业工程学院 奇点 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "63": {
+      "aid": 114515521834592,
+      "bvid": "BV1CGEWzTEET",
+      "ctime": 1747368387,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/bfcc73e7044656db9a442a28ef6863dac7f705e6.jpg",
+      "pubdate": 1747368387,
+      "stat": {
+        "view": 1514,
+        "vt": 0
+      },
+      "title": "南部赛区 第63场 厦门大学嘉庚学院 TCR 战队 vs 桂林电子科技大学 Evolution 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "64": {
+      "aid": 114515555385614,
+      "bvid": "BV1kLEWzNEkU",
+      "ctime": 1747368798,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ec8c453c68bd111918689ace88ab4b9f5fdd1c92.jpg",
+      "pubdate": 1747368798,
+      "stat": {
+        "view": 1007,
+        "vt": 0
+      },
+      "title": "南部赛区 第64场 东莞理工学院 ACE 战队 vs 五邑大学 IMCA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "65": {
+      "aid": 114515773556875,
+      "bvid": "BV1zNE4zzE1F",
+      "ctime": 1747372468,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/d88ee92520a84f5e5de24b5e657095b4c252549f.jpg",
+      "pubdate": 1747372467,
+      "stat": {
+        "view": 900,
+        "vt": 0
+      },
+      "title": "南部赛区 第65场 电子科技大学中山学院 RoboBraver 战队 vs 福建理工大学 苍侠 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "66": {
+      "aid": 114515840665147,
+      "bvid": "BV1CfExzCETv",
+      "ctime": 1747373330,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/f0732b7250febc0dee0c69c2d194f7ed6db44d63.jpg",
+      "pubdate": 1747373329,
+      "stat": {
+        "view": 929,
+        "vt": 0
+      },
+      "title": "南部赛区 第66场 北京理工大学（珠海） 毅恒 战队 vs 东北大学秦皇岛分校 征龙凌沧 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "67": {
+      "aid": 114516612351598,
+      "bvid": "BV19REsz4Emx",
+      "ctime": 1747385262,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c34ec53452de030ffcbedd8194ffce5e93b2e500.jpg",
+      "pubdate": 1747385262,
+      "stat": {
+        "view": 979,
+        "vt": 0
+      },
+      "title": "南部赛区 第67场 太原理工大学 TRoMaC 战队 vs 厦门大学嘉庚学院 TCR 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "68": {
+      "aid": 114518273428213,
+      "bvid": "BV16SEbz7EaP",
+      "ctime": 1747410682,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fc65d542d964c71d61a44e9b8b5c4d957e3d9d45.jpg",
+      "pubdate": 1747410682,
+      "stat": {
+        "view": 804,
+        "vt": 0
+      },
+      "title": "南部赛区 第68场 深圳大学 RobotPilots 战队 vs 北方工业大学 DreamTeam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "69": {
+      "aid": 114516696238228,
+      "bvid": "BV1omEszwE9t",
+      "ctime": 1747386561,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ae62650377b3254c4416061180ce372ce415009c.jpg",
+      "pubdate": 1747386560,
+      "stat": {
+        "view": 4873,
+        "vt": 0
+      },
+      "title": "【醒狮战队时隔七年重返国赛】南部赛区 第69场 佛山大学 醒狮 战队 vs 哈尔滨工业大学（深圳） 南工骁鹰 战队 RoboMaster 2025 超级对抗赛"
+    },
+    "7": {
+      "aid": 114499851913818,
+      "bvid": "BV18ZEFzEEs2",
+      "ctime": 1747129353,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d868ab6b7cdf24909adef3e7334198014520622b.jpg",
+      "pubdate": 1747129353,
+      "stat": {
+        "view": 2161,
+        "vt": 0
+      },
+      "title": "南部赛区 第7场 云南大学 Future 战队 vs 广东工业大学 DynamicX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "70": {
+      "aid": 114516830457776,
+      "bvid": "BV164EtzVEMW",
+      "ctime": 1747388718,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ad5e82899a801a5187dbbc17f2e4814964534de1.jpg",
+      "pubdate": 1747388718,
+      "stat": {
+        "view": 9776,
+        "vt": 0
+      },
+      "title": "【华南虎战队绝境逆转】南部赛区 第70场 华南理工大学 华南虎 战队 vs 五邑大学 IMCA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "71": {
+      "aid": 114516914342638,
+      "bvid": "BV1vqEtziEJT",
+      "ctime": 1747390029,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0794d5aa3c314608c125e32d6a48e2a3fb26058d.jpg",
+      "pubdate": 1747390028,
+      "stat": {
+        "view": 1565,
+        "vt": 0
+      },
+      "title": "南部赛区 第71场 桂林信息科技学院 GIRT 战队 vs 华南农业大学 Taurus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "72": {
+      "aid": 114518457843990,
+      "bvid": "BV1uaEbzfEAA",
+      "ctime": 1747413327,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b4665a77e093c3ed928aa8c905a829c7198be741.jpg",
+      "pubdate": 1747413326,
+      "stat": {
+        "view": 4628,
+        "vt": 0
+      },
+      "title": "【强大的心脏！电科中山极限决策】南部赛区 第72场 广东工业大学 DynamicX 战队 vs 电子科技大学中山学院 RoboBraver 战队 RM25"
+    },
+    "73": {
+      "aid": 114518726282879,
+      "bvid": "BV1JMEbzLErj",
+      "ctime": 1747417504,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2db6ef2f5068efb74ec43e9e1fe1d0327b413cd9.jpg",
+      "pubdate": 1747417504,
+      "stat": {
+        "view": 764,
+        "vt": 0
+      },
+      "title": "南部赛区 第73场 南方科技大学 ARTINX 战队 vs 华北科技学院 风暴 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "74": {
+      "aid": 114518793392043,
+      "bvid": "BV1pwEbzJEqs",
+      "ctime": 1747418467,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c83bf1a2a428c95530ce0702d9970b08a42dccad.jpg",
+      "pubdate": 1747418467,
+      "stat": {
+        "view": 625,
+        "vt": 0
+      },
+      "title": "南部赛区 第74场 北京理工大学（珠海） 毅恒 战队 vs 中国石油大学（华东） RPS 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "75": {
+      "aid": 114520202674427,
+      "bvid": "BV1tcEYziE5Y",
+      "ctime": 1747440124,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/61558190e547885afad1037abc31a96f94886d60.jpg",
+      "pubdate": 1747440124,
+      "stat": {
+        "view": 3069,
+        "vt": 0
+      },
+      "title": "【RP时刻 关键点吊射力挽狂澜！】南部赛区 第75场 太原理工大学 TRoMaC 战队 vs 深圳大学 RobotPilots 战队 RMUC 2025"
+    },
+    "76": {
+      "aid": 114518910831117,
+      "bvid": "BV1wUEhzdEiF",
+      "ctime": 1747420125,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/59a887defdaea131cc0c712f08323aaf6d9e0b76.jpg",
+      "pubdate": 1747420124,
+      "stat": {
+        "view": 8747,
+        "vt": 0
+      },
+      "title": "【25赛季首个8-8飞镖来自华南虎！】南部赛区 第76场 华南理工大学 华南虎 战队 vs 佛山大学 醒狮 战队 RMUC 2025"
+    },
+    "77": {
+      "aid": 114519078604288,
+      "bvid": "BV1FQEhz9EQT",
+      "ctime": 1747422754,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/a6d4355b678db5d5108047134cf4d7fabb29cfbf.jpg",
+      "pubdate": 1747422754,
+      "stat": {
+        "view": 3296,
+        "vt": 0
+      },
+      "title": "【华农空地协同精彩对局！】南部赛区 第77场 华南农业大学 Taurus 战队 vs 电子科技大学中山学院 RoboBraver 战队 RMUC 2025"
+    },
+    "78": {
+      "aid": 114520437620799,
+      "bvid": "BV1CgEYz8Etd",
+      "ctime": 1747443578,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/fbaa58248d8bd276a5b9395058a74a301f677b03.jpg",
+      "pubdate": 1747443578,
+      "stat": {
+        "view": 3171,
+        "vt": 0
+      },
+      "title": "【南科旋风冲锋锁定胜局】南部赛区 第78场 中国石油大学（华东） RPS 战队 vs 南方科技大学 ARTINX 战队 RMUC 2025"
+    },
+    "79": {
+      "aid": 114520789876999,
+      "bvid": "BV1DVEazBEBh",
+      "ctime": 1747448881,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1d2fc4d48637e77aa149a81cadd016d7875c3831.jpg",
+      "pubdate": 1747448880,
+      "stat": {
+        "view": 1537,
+        "vt": 0
+      },
+      "title": "南部赛区 第79场 厦门大学嘉庚学院 TCR 战队 vs 北方工业大学 DreamTeam 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "8": {
+      "aid": 114499986262555,
+      "bvid": "BV1PgEcz3Ezb",
+      "ctime": 1747131512,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bfd9646e6ad3ff424117c90d2c44748feb517a91.jpg",
+      "pubdate": 1747131512,
+      "stat": {
+        "view": 1511,
+        "vt": 0
+      },
+      "title": "南部赛区 第8场 华北科技学院 风暴 战队 vs 深圳职业技术大学 RCIA 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "80": {
+      "aid": 114523373569503,
+      "bvid": "BV1gvJNzYEwr",
+      "ctime": 1747488255,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/82317fd023d17c780be22c039977c2096e5bfcfa.jpg",
+      "pubdate": 1747488255,
+      "stat": {
+        "view": 1176,
+        "vt": 0
+      },
+      "title": "南部赛区 第80场 五邑大学 IMCA 战队 vs 哈尔滨工业大学（深圳） 南工骁鹰 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "81": {
+      "aid": 114523440679511,
+      "bvid": "BV1sPJNz9EG9",
+      "ctime": 1747489179,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fce18d7e0fe7e51445214e284ee796b3c26e1572.jpg",
+      "pubdate": 1747489179,
+      "stat": {
+        "view": 878,
+        "vt": 0
+      },
+      "title": "南部赛区 第81场 桂林信息科技学院 GIRT 战队 vs 广东工业大学 DynamicX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "82": {
+      "aid": 114523658781010,
+      "bvid": "BV1JLJNzjECu",
+      "ctime": 1747492559,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/21c600b923bec5b9e17bb2df50630e50581015a3.jpg",
+      "pubdate": 1747492559,
+      "stat": {
+        "view": 533,
+        "vt": 0
+      },
+      "title": "南部赛区 第82场 北京理工大学（珠海） 毅恒 战队 vs 华北科技学院 风暴 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "83": {
+      "aid": 114523742670784,
+      "bvid": "BV1vCJPzMEFX",
+      "ctime": 1747494196,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/67de5b0b7634999a1056a46e1f6aefc9f453e335.jpg",
+      "pubdate": 1747494195,
+      "stat": {
+        "view": 1237,
+        "vt": 0
+      },
+      "title": "南部赛区 第83场 深圳大学 RobotPilots 战队 vs 华南农业大学 Taurus 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "84": {
+      "aid": 114523759444419,
+      "bvid": "BV1zvJPzCEH5",
+      "ctime": 1747494444,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3113e98827ad75cde413649d2b4a730673355458.jpg",
+      "pubdate": 1747494444,
+      "stat": {
+        "view": 1150,
+        "vt": 0
+      },
+      "title": "南部赛区 第84场 华南理工大学 华南虎 战队 vs 南方科技大学 ARTINX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "85": {
+      "aid": 114523793066186,
+      "bvid": "BV1oBJPzrECc",
+      "ctime": 1747494722,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c805b8433cf9ed076e318b8073cc3137ca0dee91.jpg",
+      "pubdate": 1747494721,
+      "stat": {
+        "view": 834,
+        "vt": 0
+      },
+      "title": "南部赛区 第85场 北方工业大学 DreamTeam 战队 vs 广东工业大学 DynamicX 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "86": {
+      "aid": 114523893661969,
+      "bvid": "BV1YmJPzvE6P",
+      "ctime": 1747496105,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/865068f98ab31f6997a91c85a3ff9a26472827c1.jpg",
+      "pubdate": 1747496105,
+      "stat": {
+        "view": 809,
+        "vt": 0
+      },
+      "title": "南部赛区 第86场 五邑大学 IMCA 战队 vs 华北科技学院 风暴 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "87": {
+      "aid": 114524027881211,
+      "bvid": "BV1D3JPzFEqq",
+      "ctime": 1747498594,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ea84f236662b2447c83c6e2239c6c40d13c21a97.jpg",
+      "pubdate": 1747498594,
+      "stat": {
+        "view": 3642,
+        "vt": 0
+      },
+      "title": "【季军争夺赛】南部赛区 第87场 深圳大学 RobotPilots 战队 vs 南方科技大学 ARTINX 战队 RMUC 2025"
+    },
+    "88": {
+      "aid": 114524128546447,
+      "bvid": "BV1zaJPz1Efw",
+      "ctime": 1747499972,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/793ef689b61f719722acced1d167a6a4fd21a15a.jpg",
+      "pubdate": 1747499972,
+      "stat": {
+        "view": 1362,
+        "vt": 0
+      },
+      "title": "南部赛区 第88场 北方工业大学 DreamTeam 战队 vs 华北科技学院 风暴 战队RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "89": {
+      "aid": 114524564752540,
+      "bvid": "BV1zBJKzJEVR",
+      "ctime": 1747507016,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1fd173e4ff55e796bdefff9e5bf3168b3afd86e1.jpg",
+      "pubdate": 1747507016,
+      "stat": {
+        "view": 12190,
+        "vt": 0
+      },
+      "title": "【冠军争夺赛】南部赛区 第89场 华南农业大学 Taurus 战队 vs 华南理工大学 华南虎 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    },
+    "9": {
+      "aid": 114500036460589,
+      "bvid": "BV14NEczCEJF",
+      "ctime": 1747132285,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/a1beb779370ccdd86c8a320ad10799490a840ef5.jpg",
+      "pubdate": 1747132284,
+      "stat": {
+        "view": 3046,
+        "vt": 0
+      },
+      "title": "南部赛区 第9场 南方科技大学 ARTINX 战队 vs 太原理工大学 TRoMaC 战队 RoboMaster 2025 超级对抗赛 区域赛"
+    }
+  }
+}

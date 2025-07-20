@@ -1,13 +1,28 @@
 package handler
 
 import (
+	"encoding/json"
 	"github.com/kataras/iris/v12"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 	"github.com/scutrobotlab/rm-schedule/internal/types"
+	"github.com/sirupsen/logrus"
 	"strconv"
 )
 
 func MatchIDHandler(c iris.Context) {
+	all := c.URLParam("all")
+	if all != "" {
+		_ret, _ := svc.Cache.Get("match_id_to_video")
+		ret := _ret.(map[string]types.BiliBiliVideoMetaData)
+		jsonData, err := json.Marshal(ret)
+		if err != nil {
+			logrus.Error(err)
+		} else {
+			c.JSON(string(jsonData))
+			return
+		}
+	}
+
 	matchId := c.URLParam("match_id")
 	if matchId == "" {
 		c.StatusCode(400)
@@ -34,6 +49,19 @@ func MatchIDHandler(c iris.Context) {
 }
 
 func MatchOrderHandler(c iris.Context) {
+	all := c.URLParam("all")
+	if all != "" {
+		_ret, _ := svc.Cache.Get("match_order_to_video")
+		ret := _ret.(types.MatchOrderToVideoType)
+		jsonData, err := json.Marshal(ret)
+		if err != nil {
+			logrus.Error(err)
+		} else {
+			c.JSON(string(jsonData))
+			return
+		}
+	}
+
 	season := c.URLParam("season")
 	zone := c.URLParam("zone")
 	_orderNumber := c.URLParam("order_number")
