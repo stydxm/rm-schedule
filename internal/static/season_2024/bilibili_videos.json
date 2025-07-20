@@ -1,0 +1,4690 @@
+{
+  "东部赛区": {
+    "1": {
+      "aid": 1354647680,
+      "bvid": "BV1Fz42127dW",
+      "ctime": 1715781495,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/bf54d0d340b888f9b470b0c1c695655da0b938b9.png",
+      "pubdate": 1715781495,
+      "stat": {
+        "view": 12806,
+        "vt": 0
+      },
+      "title": "第1场 太原理工大学 TRoMaC战队 vs 华北理工大学 Horizon战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "10": {
+      "aid": 1454639409,
+      "bvid": "BV1Mi421D75z",
+      "ctime": 1715790815,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/78d1c1597c67914eb87fb89ebf53f703bc7c8da4.png",
+      "pubdate": 1715790815,
+      "stat": {
+        "view": 3628,
+        "vt": 0
+      },
+      "title": "第10场 西北工业大学 WMJ 战队 vs 吉林大学 TARS_Go 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "11": {
+      "aid": 1354679592,
+      "bvid": "BV13z42127KA",
+      "ctime": 1715790595,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/48915d9be3411db7e65feb2c07704526006db9cc.png",
+      "pubdate": 1715790595,
+      "stat": {
+        "view": 3080,
+        "vt": 0
+      },
+      "title": "第11场 广东工业大学 DynamicX 战队 vs 东华大学 DIODE 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "12": {
+      "aid": 1504603672,
+      "bvid": "BV1vD421A7hT",
+      "ctime": 1715790015,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/de6bbeed2633b47d4a59ec50959ff8461e2a6c9d.png",
+      "pubdate": 1715790015,
+      "stat": {
+        "view": 1481,
+        "vt": 0
+      },
+      "title": "第12场 东南大学 3SE 战队 vs 华东理工大学 起源 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "13": {
+      "aid": 1304721017,
+      "bvid": "BV1yM4m1r73s",
+      "ctime": 1715789211,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/7e44d0d94e2fd69cfe675b28d0d2a608db583a0c.png",
+      "pubdate": 1715789211,
+      "stat": {
+        "view": 4699,
+        "vt": 0
+      },
+      "title": "第13场 哈尔滨工业大学（威海）HERO 战队 vs 中国科学技术大学 RoboWalker 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "14": {
+      "aid": 1154544635,
+      "bvid": "BV1kZ421x7ds",
+      "ctime": 1715789434,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2f0052bf58d112fae0759e1333bdf09b9ee0a6c8.png",
+      "pubdate": 1715789434,
+      "stat": {
+        "view": 3075,
+        "vt": 0
+      },
+      "title": "第14场 沈阳理工大学 Ambition 战队 vs 浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "15": {
+      "aid": 1054579820,
+      "bvid": "BV1JH4y137TV",
+      "ctime": 1715791364,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f944d05e33bb05a655d2ca8cbd6f9375e8dd72ed.png",
+      "pubdate": 1715791364,
+      "stat": {
+        "view": 2260,
+        "vt": 0
+      },
+      "title": "第15场 中国矿业大学 CUBOT 战队 vs 中北大学 606 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "16": {
+      "aid": 1054527938,
+      "bvid": "BV1RH4y1g7kt",
+      "ctime": 1715789268,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0fef96631464db624150c89a9ba3d1802bc77e55.png",
+      "pubdate": 1715789268,
+      "stat": {
+        "view": 2412,
+        "vt": 0
+      },
+      "title": "第16场 常州大学 Climber 战队 vs 杭州电子科技大学 PHOENIX 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "17": {
+      "aid": 1254658668,
+      "bvid": "BV1hJ4m1A7CJ",
+      "ctime": 1715790812,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/20a87328bdda5f7459334e8d0ed5107ddeacd510.png",
+      "pubdate": 1715790812,
+      "stat": {
+        "view": 389553,
+        "vt": 0
+      },
+      "title": "第17场 山东理工大学 齐奇 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "18": {
+      "aid": 1204513658,
+      "bvid": "BV14f421m7ea",
+      "ctime": 1715790291,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/0f79c19bd88414ea30955080f43aef699900d5cc.png",
+      "pubdate": 1715790291,
+      "stat": {
+        "view": 458241,
+        "vt": 0
+      },
+      "title": "第18场 浙江大学 Hello World 战队 vs 上海工程技术大学 木鸢Birdiebot 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "19": {
+      "aid": 1654674253,
+      "bvid": "BV1G7421f7gg",
+      "ctime": 1715791003,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/40c135da6153dcf200d1aa5a3ddf538c2c382c50.png",
+      "pubdate": 1715791003,
+      "stat": {
+        "view": 1643,
+        "vt": 0
+      },
+      "title": "第19场 首都师范大学 PIE战队 VS 太原理工大学 TRoMaC战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "2": {
+      "aid": 1054709603,
+      "bvid": "BV1JH4y1u7PG",
+      "ctime": 1715782288,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/a6317d2c23a1fece959742e08719a1f15b7bf901.png",
+      "pubdate": 1715782288,
+      "stat": {
+        "view": 3075,
+        "vt": 0
+      },
+      "title": "第2场 山东理工大学 齐奇战队 vs 上海科技大学 Magician战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "20": {
+      "aid": 1954656859,
+      "bvid": "BV1Dy411Y7SG",
+      "ctime": 1715857949,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/797837571e4911ecd16ee3f05feb757d2317145f.png",
+      "pubdate": 1715857949,
+      "stat": {
+        "view": 1371,
+        "vt": 0
+      },
+      "title": "第20场 齐鲁工业大学 Adam 战队 vs 南京航空航天大学金城学院 Born of Fire 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "21": {
+      "aid": 1854580066,
+      "bvid": "BV1us421P73o",
+      "ctime": 1715855654,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/2ca132cc050beecf3ebd6270ec306d97a91fbd21.png",
+      "pubdate": 1715855654,
+      "stat": {
+        "view": 1835,
+        "vt": 0
+      },
+      "title": "第21场 辽宁科技大学 COD 战队 vs 中国石油大学（北京）SPR 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "22": {
+      "aid": 1904695382,
+      "bvid": "BV1SU411f792",
+      "ctime": 1715854435,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2ba1c20ae9090887f46e02c0fd89492681cf83d3.png",
+      "pubdate": 1715854435,
+      "stat": {
+        "view": 1308,
+        "vt": 0
+      },
+      "title": "第22场 华北理工大学 Horizon战队 vs 西交利物浦大学\u0026利物浦大学 GMaster 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "23": {
+      "aid": 1204518658,
+      "bvid": "BV1tf421m78t",
+      "ctime": 1715854470,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2f68cdbcd1850916dc21153f8a08fe16f1e86f91.png",
+      "pubdate": 1715854470,
+      "stat": {
+        "view": 1304,
+        "vt": 0
+      },
+      "title": "第23场 东北大学秦皇岛分校 征龙凌沧 战队 vs 同济大学 SuperPower 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "24": {
+      "aid": 1054517667,
+      "bvid": "BV1cH4y137G9",
+      "ctime": 1715854722,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d196d35502e753e0de4b5a3cd2a2dd9ca12e4f7a.png",
+      "pubdate": 1715854722,
+      "stat": {
+        "view": 1306,
+        "vt": 0
+      },
+      "title": "第24场 合肥工业大学(宣城校区) WDR战队 vs 上海科技大学 Magician 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "25": {
+      "aid": 1004535024,
+      "bvid": "BV19x4y1i7YX",
+      "ctime": 1715854654,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6806481e6c689162ff9d023b4f42110951a0b977.png",
+      "pubdate": 1715854654,
+      "stat": {
+        "view": 1524,
+        "vt": 0
+      },
+      "title": "第25场 哈尔滨工业大学（威海）HERO战队 vs 浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "26": {
+      "aid": 1654736394,
+      "bvid": "BV1h7421f7Px",
+      "ctime": 1715854636,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/4acecafe4aee0ce2dc9373332ba53d771d1f13ba.png",
+      "pubdate": 1715854636,
+      "stat": {
+        "view": 2284,
+        "vt": 0
+      },
+      "title": "第26场 广东工业大学 DynamicX战队 vs 中国矿业大学 CUBOT 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "27": {
+      "aid": 1354727849,
+      "bvid": "BV1iz42127k9",
+      "ctime": 1715855865,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/41ceea7e4e3ede84c276e800fbacd5fef328587b.jpg",
+      "pubdate": 1715855865,
+      "stat": {
+        "view": 1115,
+        "vt": 0
+      },
+      "title": "第27场 杭州电子科技大学 PHOENIX战队 vs 吉林大学 TARS_Go 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "28": {
+      "aid": 1554743161,
+      "bvid": "BV1J1421B7HG",
+      "ctime": 1715855861,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/16c5b56abdc42524059d346eb51a95b74ca9c03d.png",
+      "pubdate": 1715855861,
+      "stat": {
+        "view": 7479,
+        "vt": 0
+      },
+      "title": "第28场 上海交通大学 交龙 战队 vs东南大学 3SE 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "29": {
+      "aid": 1004713004,
+      "bvid": "BV1ex4y1W7jy",
+      "ctime": 1715859292,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/0f06f704857d68aa43a5b4295ef576d48eea0fb5.png",
+      "pubdate": 1715859292,
+      "stat": {
+        "view": 1331,
+        "vt": 0
+      },
+      "title": "第29场 中北大学 606 战队 vs东华大学 DIODE战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "3": {
+      "aid": 1054682510,
+      "bvid": "BV1uH4y1u71c",
+      "ctime": 1715781931,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e3f34e076d80d7ac337b8c8d3317405970594e78.png",
+      "pubdate": 1715781931,
+      "stat": {
+        "view": 80923,
+        "vt": 0
+      },
+      "title": "第3场 浙江大学 Hello World 战队 vs 同济大学 SuperPower 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "30": {
+      "aid": 1154748975,
+      "bvid": "BV15Z421s7rG",
+      "ctime": 1715858492,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1c317127783a38e11961eda6d1e73bc1070920fd.png",
+      "pubdate": 1715858492,
+      "stat": {
+        "view": 1686,
+        "vt": 0
+      },
+      "title": "第30场 沈阳理工大学 Ambition 战队 vs中国科学技术大学 RoboWalker 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "31": {
+      "aid": 1954575043,
+      "bvid": "BV1Ly411Y7kw",
+      "ctime": 1715859014,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/826ae06afe0cb33f63fd0cd743665f62877d8425.png",
+      "pubdate": 1715859014,
+      "stat": {
+        "view": 1134,
+        "vt": 0
+      },
+      "title": "第31场 华东理工大学 起源 战队 vs陆军勤务学院 陆擎 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "32": {
+      "aid": 1904680213,
+      "bvid": "BV1RU411f7eM",
+      "ctime": 1715858870,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bf3e5b0e54b00053699d6229c16805739051bc24.png",
+      "pubdate": 1715858870,
+      "stat": {
+        "view": 1665,
+        "vt": 0
+      },
+      "title": "第32场 西北工业大学 WMJ 战队 vs常州大学 Climber战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "33": {
+      "aid": 1704744384,
+      "bvid": "BV1pT421U7w6",
+      "ctime": 1715864517,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2909781f71db06d37c49e23b29e3200c853f22a4.png",
+      "pubdate": 1715864517,
+      "stat": {
+        "view": 1577,
+        "vt": 0
+      },
+      "title": "第33场 南京航空航天大学金城学院 Born of Fire 战队 vs 浙江大学 Hello World 战队 RoboMaster 2024 超级对抗赛 东"
+    },
+    "34": {
+      "aid": 1004587913,
+      "bvid": "BV1yx4y1p76j",
+      "ctime": 1715865039,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/11e0cadf6bcc5846d87d61ddf67ad13cb2dd33f4.png",
+      "pubdate": 1715865039,
+      "stat": {
+        "view": 2590,
+        "vt": 0
+      },
+      "title": "第34场 太原理工大学 TRoMaC 战队 vs 天津大学 北洋机甲 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "35": {
+      "aid": 1254668929,
+      "bvid": "BV1YJ4m1A7hz",
+      "ctime": 1715877277,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/225713d4f7dca01f0146524f84619e6b5f4b758e.jpg",
+      "pubdate": 1715877277,
+      "stat": {
+        "view": 1909,
+        "vt": 0
+      },
+      "title": "第35场 山东理工大学 齐奇战队 vs 首都师范大学 PIE战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "36": {
+      "aid": 1104554543,
+      "bvid": "BV19w4m1Q7Ks",
+      "ctime": 1715908612,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3c5b37d05e87f6cec7c77dbc43af8414cc46110c.jpg",
+      "pubdate": 1715908612,
+      "stat": {
+        "view": 1007,
+        "vt": 0
+      },
+      "title": "第36场 上海工程技术大学 木鸢Birdiebot战队 vs 辽宁科技大学 COD战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "37": {
+      "aid": 1954708141,
+      "bvid": "BV1dy411Y7NG",
+      "ctime": 1715878666,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/16adff5bb54a815c9d598cc00935501d92703ba4.png",
+      "pubdate": 1715878666,
+      "stat": {
+        "view": 1315,
+        "vt": 0
+      },
+      "title": "第37场 同济大学 SuperPower战队 vs 齐鲁工业大学 Adam战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "38": {
+      "aid": 1004676965,
+      "bvid": "BV1px4y1W7as",
+      "ctime": 1715878841,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2c299648cf13fd947df67a65d13311a30eb74a53.png",
+      "pubdate": 1715878841,
+      "stat": {
+        "view": 1331,
+        "vt": 0
+      },
+      "title": "第38场 西交利物浦大学\u0026利物浦大学 GMaster战队 vs 上海科技大学 Magician战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "39": {
+      "aid": 1354648220,
+      "bvid": "BV1cz42127PX",
+      "ctime": 1715878594,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/9161f6c37006d8e23338d0c7a3f440d2695ccd8f.png",
+      "pubdate": 1715878594,
+      "stat": {
+        "view": 2766,
+        "vt": 0
+      },
+      "title": "第39场 吉林大学 TARS_Go战队 vs 哈尔滨工业大学（威海） HERO 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "4": {
+      "aid": 1104545719,
+      "bvid": "BV1Qw4m1Q7F9",
+      "ctime": 1715781844,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ea7b5ac08dd7c8ef1b52a022b0ee33003218a9fe.png",
+      "pubdate": 1715781844,
+      "stat": {
+        "view": 3408,
+        "vt": 0
+      },
+      "title": "第4场 齐鲁工业大学 Adam  战队 vs 中国石油大学（北京）SPR 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "40": {
+      "aid": 1454580522,
+      "bvid": "BV1ai421X7U6",
+      "ctime": 1715879396,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/392cbac0e797086903e0e50011596624a00980b9.jpg",
+      "pubdate": 1715879396,
+      "stat": {
+        "view": 52333,
+        "vt": 0
+      },
+      "title": "第40场 广东工业大学 DynamicX战队 vs 上海交通大学 交龙战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "41": {
+      "aid": 1654558664,
+      "bvid": "BV1gE421G7Ru",
+      "ctime": 1715935891,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/5caeefe39cb1fdf0af5bca8d26154de1f61a9f34.jpg",
+      "pubdate": 1715935891,
+      "stat": {
+        "view": 3056,
+        "vt": 0
+      },
+      "title": "第41场 中国矿业大学 CUBOT  vs  东南大学 3SE 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "42": {
+      "aid": 1354658221,
+      "bvid": "BV1Nz42127j4",
+      "ctime": 1715935887,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6b4dd16fca99b3740fc9dcb5c190898d8c3eadee.jpg",
+      "pubdate": 1715935887,
+      "stat": {
+        "view": 2699,
+        "vt": 0
+      },
+      "title": "第42场 西北工业大学 WMJ  vs  杭州电子科技大学 PHOENIX 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "43": {
+      "aid": 1254556331,
+      "bvid": "BV1rJ4m1N7Tw",
+      "ctime": 1715935655,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/c7ae840c13d6956910587d10a661f3015a2dfb81.jpg",
+      "pubdate": 1715935655,
+      "stat": {
+        "view": 2818,
+        "vt": 0
+      },
+      "title": "第43场 中国科学技术大学 RoboWalker  vs  浙江纺织服装职业技术学院 RoboFuture 战队 RoboMaster 2024 超级对抗赛 东"
+    },
+    "44": {
+      "aid": 1254528856,
+      "bvid": "BV1aJ4m1N7H2",
+      "ctime": 1715948319,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/20941f58dc223d45077f6f5927ffd3b4b8242426.jpg",
+      "pubdate": 1715948319,
+      "stat": {
+        "view": 1506,
+        "vt": 0
+      },
+      "title": "第44场 华东理工大学 起源  vs  中北大学 606 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "45": {
+      "aid": 1904732708,
+      "bvid": "BV1wS411F7Au",
+      "ctime": 1715948313,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bb409d7da27a5051cfcfd9a532adbf806ed50d10.jpg",
+      "pubdate": 1715948312,
+      "stat": {
+        "view": 12098,
+        "vt": 0
+      },
+      "title": "第45场 哈尔滨工业大学（威海）HERO  vs  西交利物浦大学\u0026利物浦大学 GMaster 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "46": {
+      "aid": 1654604783,
+      "bvid": "BV1jE421G7kg",
+      "ctime": 1715948252,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/df72858cf4f21cb1fc2f7bd935cb90d465610deb.jpg",
+      "pubdate": 1715948252,
+      "stat": {
+        "view": 1948,
+        "vt": 0
+      },
+      "title": "第46场 齐鲁工业大学 Adam vs  广东工业大学 DynamicX 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "47": {
+      "aid": 1104602073,
+      "bvid": "BV1fw4m1Q7v4",
+      "ctime": 1715948433,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/9e463a2f8ce25694593c5ebab9096cbf1ea7beef.jpg",
+      "pubdate": 1715948432,
+      "stat": {
+        "view": 2388,
+        "vt": 0
+      },
+      "title": "第47场 南京航空航天大学金城学院 Born of Fire  vs  上海交通大学 交龙 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "48": {
+      "aid": 1004669321,
+      "bvid": "BV1Jx4y1W7iS",
+      "ctime": 1715948335,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3f0ceecdb3c8ed147cda965b56f6772655bc7037.jpg",
+      "pubdate": 1715948335,
+      "stat": {
+        "view": 1973,
+        "vt": 0
+      },
+      "title": "第48场 中国科学技术大学 RoboWalker 战队  vs  首都师范大学 PIE 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "49": {
+      "aid": 1704717070,
+      "bvid": "BV1RT421D7ju",
+      "ctime": 1715948392,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/dc312ee120925b75d73bb00cd721c876dfc7fe5f.jpg",
+      "pubdate": 1715948392,
+      "stat": {
+        "view": 1326,
+        "vt": 0
+      },
+      "title": "第49场 太原理工大学 TRoMaC 战队  vs  杭州电子科技大学 PHOENIX 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "5": {
+      "aid": 1004679860,
+      "bvid": "BV1Wx4y1W7oR",
+      "ctime": 1715781478,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7f84c506eb14b55a88542f237f9890377b9cdd30.png",
+      "pubdate": 1715781478,
+      "stat": {
+        "view": 11627,
+        "vt": 0
+      },
+      "title": "第5场 上海工程技术大学 木鸢Birdiebot 战队 vs 东北大学秦皇岛分校 征龙凌沧 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "50": {
+      "aid": 1804523629,
+      "bvid": "BV1zb421b7zw",
+      "ctime": 1715948320,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f56ac587a1e7fb6ae5de8036acbc2126afeb1559.jpg",
+      "pubdate": 1715948320,
+      "stat": {
+        "view": 1877,
+        "vt": 0
+      },
+      "title": "第50场 吉林大学 TARS_Go 战队  vs  上海工程技术大学 木鸢Birdiebot 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "51": {
+      "aid": 1004620520,
+      "bvid": "BV1Rx4y1p7J7",
+      "ctime": 1715948338,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/79dcde5016266cc33c7a96099d750ca7afc881ad.jpg",
+      "pubdate": 1715948338,
+      "stat": {
+        "view": 1632,
+        "vt": 0
+      },
+      "title": "第51场 华东理工大学 起源  vs  浙江大学 Hello World 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "52": {
+      "aid": 1304572525,
+      "bvid": "BV1DM4m1C7Lb",
+      "ctime": 1715948232,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5cb491976a0b14e7bca808fed2f8d0b3d86975d2.jpg",
+      "pubdate": 1715948232,
+      "stat": {
+        "view": 2077,
+        "vt": 0
+      },
+      "title": "第52场 天津大学 北洋机甲  vs  东南大学 3SE RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "53": {
+      "aid": 1255063000,
+      "bvid": "BV1XJ4m1w7uV",
+      "ctime": 1716693569,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/05ef28e9977e04ad6b5c395a5b56932a37006e39.jpg",
+      "pubdate": 1716693569,
+      "stat": {
+        "view": 8831,
+        "vt": 0
+      },
+      "title": "第53场 上海交通大学 交龙 战队  vs  哈尔滨工业大学（威海）HERO 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "54": {
+      "aid": 1654509807,
+      "bvid": "BV1mE42137tz",
+      "ctime": 1715963994,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f82f3a9669e2dc72888e3335b272e4b44d8dd8e6.jpg",
+      "pubdate": 1715963994,
+      "stat": {
+        "view": 3256,
+        "vt": 0
+      },
+      "title": "第54场  广东工业大学 DynamicX 战队  vs  首都师范大学 PIE 战队 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "55": {
+      "aid": 1404706363,
+      "bvid": "BV14r421j7Tw",
+      "ctime": 1715963571,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d33c5dabc7288a2692efd774cc10cb401fd7f470.jpg",
+      "pubdate": 1715963571,
+      "stat": {
+        "view": 1248,
+        "vt": 0
+      },
+      "title": "第55场 西交利物浦大学\u0026利物浦大学 GMaster 战队  vs  南京航空航天大学金城学院 Born of Fire 战队 RoboMaster 2024"
+    },
+    "56": {
+      "aid": 1504651960,
+      "bvid": "BV1cD421P7Ma",
+      "ctime": 1715963676,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/871218ea7b96905f258df8679969cd130efac5ef.jpg",
+      "pubdate": 1715963676,
+      "stat": {
+        "view": 1734,
+        "vt": 0
+      },
+      "title": "第56场 中国科学技术大学 RoboWalker 战队  vs  齐鲁工业大学 Adam 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "57": {
+      "aid": 1804615482,
+      "bvid": "BV1nb421B76J",
+      "ctime": 1715963614,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b006387cd745d39d52f8ef32c77a67b529976103.jpg",
+      "pubdate": 1715963614,
+      "stat": {
+        "view": 1749,
+        "vt": 0
+      },
+      "title": "第57场 吉林大学 TARS_Go 战队  vs  太原理工大学 TRoMaC 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "58": {
+      "aid": 1954582660,
+      "bvid": "BV1ty411Y7yB",
+      "ctime": 1715963903,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f8ec408a48e9ea92779b918fd70b7e45a2fd24fe.jpg",
+      "pubdate": 1715963903,
+      "stat": {
+        "view": 3525,
+        "vt": 0
+      },
+      "title": "第58场 浙江大学 Hello World 战队  vs  东南大学 3SE 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "59": {
+      "aid": 1754734558,
+      "bvid": "BV1ft421M7sc",
+      "ctime": 1715963588,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/d3796e2d41b6ecd8849b1385eb9a255397cf093f.jpg",
+      "pubdate": 1715963588,
+      "stat": {
+        "view": 1026,
+        "vt": 0
+      },
+      "title": "第59场 杭州电子科技大学 PHOENIX 战队  vs  上海工程技术大学 木鸢 Birdiebot 战队 RoboMaster 2024超级对抗赛 东部赛区"
+    },
+    "6": {
+      "aid": 1504563719,
+      "bvid": "BV1sD421A7td",
+      "ctime": 1715790315,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/cf61b0247ac3189d97f605916b62ab4cdaf63323.png",
+      "pubdate": 1715790315,
+      "stat": {
+        "view": 1815,
+        "vt": 0
+      },
+      "title": "第6场 天津大学 北洋机甲 战队 vs 合肥工业大学(宣城校区)WDR 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "60": {
+      "aid": 1154710256,
+      "bvid": "BV1aZ42147ok",
+      "ctime": 1715962359,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3e788ab0a560c9bb4f6fcc7955ddf52b4c241ed3.jpg",
+      "pubdate": 1715962359,
+      "stat": {
+        "view": 1979,
+        "vt": 0
+      },
+      "title": "第60场 天津大学 北洋机甲 战队  vs  华东理工大学 起源 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "61": {
+      "aid": 1904868053,
+      "bvid": "BV1wU411Z7Ew",
+      "ctime": 1716094282,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/8514ba7e10d22f7e333546e1418ceb0664d7c95f.jpg",
+      "pubdate": 1716094282,
+      "stat": {
+        "view": 712,
+        "vt": 0
+      },
+      "title": "第61场 西交利物浦大学\u0026利物浦大学 GMaster  战队  vs  杭州电子科技大学 PHOENIX 战队 RoboMaster 2024 超级对抗赛 东部"
+    },
+    "62": {
+      "aid": 1204852011,
+      "bvid": "BV1yf421R7LK",
+      "ctime": 1716094374,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/30e20f49424af219c546bb28a75fb1f8cc9b5ba9.jpg",
+      "pubdate": 1716094374,
+      "stat": {
+        "view": 894,
+        "vt": 0
+      },
+      "title": "第62场 齐鲁工业大学 Adam 战队  vs  华东理工大学 起源 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "63": {
+      "aid": 1704835892,
+      "bvid": "BV1FT421S7bT",
+      "ctime": 1716094333,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c740c6656e9c58dcdbe59b2369b65eea63f44ffe.jpg",
+      "pubdate": 1716094333,
+      "stat": {
+        "view": 4353,
+        "vt": 0
+      },
+      "title": "第63场 上海交通大学 交龙 战队  vs  太原理工大学 TRoMaC 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "64": {
+      "aid": 1354867408,
+      "bvid": "BV1Xz421Y79W",
+      "ctime": 1716094421,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d86330494a9e205af8e9ce0b5f79694e0a078d90.jpg",
+      "pubdate": 1716094421,
+      "stat": {
+        "view": 4133,
+        "vt": 0
+      },
+      "title": "第64场 广东工业大学 DynamicX 战队  vs  浙江大学 Hello World 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "65": {
+      "aid": 1354996540,
+      "bvid": "BV1az421e7ga",
+      "ctime": 1716094379,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/408dc322a8b02f31969241d9872cedcb22074c52.jpg",
+      "pubdate": 1716094379,
+      "stat": {
+        "view": 1326,
+        "vt": 0
+      },
+      "title": "第65场 西交利物浦大学\u0026利物浦大学 Gmaster 战队  vs  齐鲁工业大学 Adam 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "66": {
+      "aid": 1404879416,
+      "bvid": "BV18r42157mJ",
+      "ctime": 1716094859,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/339ffc0e7e20b51fa16326bc7b76b91987409a47.jpg",
+      "pubdate": 1716094859,
+      "stat": {
+        "view": 4655,
+        "vt": 0
+      },
+      "title": "第66场 太原理工大学 TRoMaC 战队 vs 浙江大学 Hello World 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "67": {
+      "aid": 1054970877,
+      "bvid": "BV1Vn4y1o7fS",
+      "ctime": 1716094437,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b227ecb13b10d3ad73d32cdac3a7324b907c0f66.jpg",
+      "pubdate": 1716094437,
+      "stat": {
+        "view": 330589,
+        "vt": 0
+      },
+      "title": "第67场 上海交通大学 交龙 战队 vs  广东工业大学 DynamicX 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "7": {
+      "aid": 1204651189,
+      "bvid": "BV1Bf42117Rr",
+      "ctime": 1715790669,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0e7959aba4627bd32b98edc977d3e9b08fb43bf5.png",
+      "pubdate": 1715790669,
+      "stat": {
+        "view": 86383,
+        "vt": 0
+      },
+      "title": "第7场 西交利物浦大学\u0026利物浦大学 GMaster 战队 vs 首都师范大学PIE战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "8": {
+      "aid": 1354567911,
+      "bvid": "BV1mz42117Mn",
+      "ctime": 1715790880,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/98129bb9cc18ffcf07f7af7a05d713a6dad56560.png",
+      "pubdate": 1715790880,
+      "stat": {
+        "view": 1924,
+        "vt": 0
+      },
+      "title": "第8场 南京航空航天大学金城学院 Born of Fire 战队 vs 辽宁科技大学 COD 战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    },
+    "9": {
+      "aid": 1554703398,
+      "bvid": "BV1M1421B7UL",
+      "ctime": 1715790022,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3e0fdc1037c629bab4ae4032580a9fc8776ad4d1.png",
+      "pubdate": 1715790022,
+      "stat": {
+        "view": 6551,
+        "vt": 0
+      },
+      "title": "第9场 上海交通大学 交龙战队 VS 陆军勤务学院 陆擎战队 RoboMaster 2024 超级对抗赛 东部赛区"
+    }
+  },
+  "中部赛区": {
+    "1": {
+      "aid": 1905020117,
+      "bvid": "BV1TU411d7AP",
+      "ctime": 1716785012,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7fd90c35c4ffb2ee03dc614d70a140a0c0a21861.jpg",
+      "pubdate": 1716785012,
+      "stat": {
+        "view": 1227,
+        "vt": 0
+      },
+      "title": "第1场 湖北工业大学 力创RM vs 常熟理工学院 R\u0026A RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "10": {
+      "aid": 1004970806,
+      "bvid": "BV1Gx4y1p76T",
+      "ctime": 1716426359,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d18803c0cadc591f7385b48eb673cc18d1291689.jpg",
+      "pubdate": 1716426358,
+      "stat": {
+        "view": 686,
+        "vt": 0
+      },
+      "title": "第10场 福建理工大学 苍侠战队 vs 东莞理工学院  ACE战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "11": {
+      "aid": 1504781936,
+      "bvid": "BV1yD421G7fB",
+      "ctime": 1716426391,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/14b6fe00f729405f7cc1a1d646d006ad6c3d70e0.jpg",
+      "pubdate": 1716426391,
+      "stat": {
+        "view": 3963,
+        "vt": 0
+      },
+      "title": "第11场 华南理工大学 华南虎战队 vs 四川大学 火锅战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "12": {
+      "aid": 1904863307,
+      "bvid": "BV1FU411Z7ZS",
+      "ctime": 1716426346,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f4d6d82e4c88c777839faf5ce63dcb67f0e1c91a.jpg",
+      "pubdate": 1716426346,
+      "stat": {
+        "view": 951,
+        "vt": 0
+      },
+      "title": "第12场 厦门大学嘉庚学院 TCR战队 vs 重庆三峡学院 LionHeart战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "13": {
+      "aid": 1654851460,
+      "bvid": "BV1LE421F7oV",
+      "ctime": 1716426429,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/dedde7b5229f9da308682e7d2d446040b9d8be23.jpg",
+      "pubdate": 1716426429,
+      "stat": {
+        "view": 1045,
+        "vt": 0
+      },
+      "title": "第13场 武汉工程大学 Nautilus战队 vs 西安电子科技大学 IRobot战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "14": {
+      "aid": 1104776078,
+      "bvid": "BV1nw4m1D7wu",
+      "ctime": 1716426452,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/6cde16de2e5ddc5b3eed7488d6545225c63b2c43.jpg",
+      "pubdate": 1716426452,
+      "stat": {
+        "view": 1389,
+        "vt": 0
+      },
+      "title": "第14场 华北科技学院 风暴战队 vs 西南石油大学  铁人战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "15": {
+      "aid": 1504903625,
+      "bvid": "BV1pD421V7rQ",
+      "ctime": 1716426358,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/089fb6cfcb51db55792cb8563da27339be414e1d.jpg",
+      "pubdate": 1716426358,
+      "stat": {
+        "view": 916,
+        "vt": 0
+      },
+      "title": "第15场 南京理工大学 Alliance战队 vs 内蒙古科技大学  雷霆战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "16": {
+      "aid": 1904973205,
+      "bvid": "BV1yU411Z7ob",
+      "ctime": 1716425354,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/8a766ec6294e2cdef200bf40275eec48ee64291c.jpg",
+      "pubdate": 1716425354,
+      "stat": {
+        "view": 1031,
+        "vt": 0
+      },
+      "title": "第16场 太原科技大学 NewMaker战队 vs 成都大学大学  Ultra战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "17": {
+      "aid": 1104961684,
+      "bvid": "BV14w4m1U7SL",
+      "ctime": 1716425400,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/28f4dfefb84ddaf647415a77dfa6c21db32aec20.jpg",
+      "pubdate": 1716425400,
+      "stat": {
+        "view": 969,
+        "vt": 0
+      },
+      "title": "第17场 山东科技大学  SmartRobot战队 vs 南方科技大学 ARTINX战队  RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "18": {
+      "aid": 1454847205,
+      "bvid": "BV1Gi421Q7hv",
+      "ctime": 1716425402,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/32eba73f7aa87d3615ef3e35fa362c98ef8f27e3.jpg",
+      "pubdate": 1716425402,
+      "stat": {
+        "view": 1243,
+        "vt": 0
+      },
+      "title": "第18场 沈阳航天航空大学 TUP战队 vs 北京理工大学  追梦战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "19": {
+      "aid": 1204856154,
+      "bvid": "BV11f421R7xU",
+      "ctime": 1716425394,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/32eba73f7aa87d3615ef3e35fa362c98ef8f27e3.jpg",
+      "pubdate": 1716425394,
+      "stat": {
+        "view": 708,
+        "vt": 0
+      },
+      "title": "第19场 南昌大学 Passion战队 vs 合肥工业大学 苍穹战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "2": {
+      "aid": 1005034311,
+      "bvid": "BV1hx4y1p77C",
+      "ctime": 1716785016,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b0577e26ecc63af6171eeae64c1ad3c93fea421c.jpg",
+      "pubdate": 1716785016,
+      "stat": {
+        "view": 950,
+        "vt": 0
+      },
+      "title": "第2场 常熟理工学院 R\u0026A vs 武汉科技大学 崇实战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "20": {
+      "aid": 1954883390,
+      "bvid": "BV1Ey411a7yW",
+      "ctime": 1716484785,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b7080f906401903b6f136c1c3508e20666b0a8db.jpg",
+      "pubdate": 1716484785,
+      "stat": {
+        "view": 502,
+        "vt": 0
+      },
+      "title": "第20场 桂林信息科技学院 GIRT战队 vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "21": {
+      "aid": 1904792559,
+      "bvid": "BV16U411o7N5",
+      "ctime": 1716484723,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/4eec702d8689a2fb0a9b5d92fc9c65c429e3d426.jpg",
+      "pubdate": 1716484723,
+      "stat": {
+        "view": 938,
+        "vt": 0
+      },
+      "title": "第21场 青岛大学 未来战队 vs 西安理工大学  NEXT E战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "22": {
+      "aid": 1854873277,
+      "bvid": "BV1os421w755",
+      "ctime": 1716484730,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c592a26876f0c4bfff2d2f862af4e3294f08d968.jpg",
+      "pubdate": 1716484730,
+      "stat": {
+        "view": 544,
+        "vt": 0
+      },
+      "title": "第22场 太原工业学院 火线战队  vs 河北科技大学 Actor\u0026Thinker战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "23": {
+      "aid": 1754934703,
+      "bvid": "BV1Jt421T7KP",
+      "ctime": 1716484910,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/08a985344aaedde3b9ccde47b410478702f06925.jpg",
+      "pubdate": 1716484910,
+      "stat": {
+        "view": 882,
+        "vt": 0
+      },
+      "title": "第23场 哈尔滨工程大学 创梦之翼战队 vs 长安大学  VGD战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "24": {
+      "aid": 1804941029,
+      "bvid": "BV1nb421q7kq",
+      "ctime": 1716484706,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/8e8bbdd0533ab720a3837f91bc7cbdd0ccfdbc7f.jpg",
+      "pubdate": 1716484706,
+      "stat": {
+        "view": 668,
+        "vt": 0
+      },
+      "title": "第24场 燕山大学 燕鹰战队 vs 东北林业大学 Ares战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "25": {
+      "aid": 1804876251,
+      "bvid": "BV1Fb421q7SY",
+      "ctime": 1716484915,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b7e8215c450bae8a10b8899d251225a570ca49f3.jpg",
+      "pubdate": 1716484915,
+      "stat": {
+        "view": 468,
+        "vt": 0
+      },
+      "title": "第25场 南京理工大学 Alliance战队 vs 厦门大学嘉庚学院 TCR战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "26": {
+      "aid": 1004969594,
+      "bvid": "BV1gx4y1p7xU",
+      "ctime": 1716485000,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/5b999834438444d3951e3912bcb0b382dce95c2f.jpg",
+      "pubdate": 1716485000,
+      "stat": {
+        "view": 683,
+        "vt": 0
+      },
+      "title": "第26场 西安电子科技大学 IRobot战队 vs 太原科技大学 NewMaker战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "27": {
+      "aid": 1304865880,
+      "bvid": "BV1qM4m1k72x",
+      "ctime": 1716484914,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/cc0c0991a33b0e12add4e9c5f5c18a472f8562e5.jpg",
+      "pubdate": 1716484914,
+      "stat": {
+        "view": 13620,
+        "vt": 0
+      },
+      "title": "第27场 哈尔滨工业大学 I Hiter战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "28": {
+      "aid": 1155198017,
+      "bvid": "BV1zZ421W7CK",
+      "ctime": 1716783198,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/761ce49ee52f7ea56768e4fde1b61a7a36a12ee8.jpg",
+      "pubdate": 1716783198,
+      "stat": {
+        "view": 898,
+        "vt": 0
+      },
+      "title": "第28场 东莞理工学院  ACE战队 vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "29": {
+      "aid": 1505156594,
+      "bvid": "BV1mD42137ty",
+      "ctime": 1716782965,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f1f3622d9ede56b411d01d159cc3abafa690f1fe.jpg",
+      "pubdate": 1716782965,
+      "stat": {
+        "view": 1149,
+        "vt": 0
+      },
+      "title": "第29场 武汉工程大学 Nautilus战队 vs 成都大学大学  Ultra战队 RoboMast"
+    },
+    "3": {
+      "aid": 1405054933,
+      "bvid": "BV1pr421L7wg",
+      "ctime": 1716785016,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/784f521591def5e4962919d112f51ebb264aa0ae.jpg",
+      "pubdate": 1716785016,
+      "stat": {
+        "view": 2357,
+        "vt": 0
+      },
+      "title": "第3场 湖北工业大学 力创RM vs 武汉科技大学 崇实战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "30": {
+      "aid": 1455037210,
+      "bvid": "BV1bi421S7Ba",
+      "ctime": 1716783248,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/8ccf03a2cbef68f6002754637082cf94d20a90bb.jpg",
+      "pubdate": 1716783248,
+      "stat": {
+        "view": 928,
+        "vt": 0
+      },
+      "title": "第30场 重庆三峡学院 LionHeart战队 vs 内蒙古科技大学  雷霆战队 RoboMaste"
+    },
+    "31": {
+      "aid": 1004926516,
+      "bvid": "BV1Ux4y1H7u7",
+      "ctime": 1716484863,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/378ad8ba8702c6bda7c736265aa23875204acaff.jpg",
+      "pubdate": 1716484863,
+      "stat": {
+        "view": 1210,
+        "vt": 0
+      },
+      "title": "第31场 西南石油大学  铁人战队 vs 福建理工大学 苍侠战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "32": {
+      "aid": 1854834868,
+      "bvid": "BV11s421w7xB",
+      "ctime": 1716484865,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/997eb0265882f5e83aa4ee0656b18c7c5a943380.jpg",
+      "pubdate": 1716484865,
+      "stat": {
+        "view": 1557,
+        "vt": 0
+      },
+      "title": "第32场 四川大学 火锅战队 vs 中国石油大学（华东）RPS战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "33": {
+      "aid": 1304775721,
+      "bvid": "BV1FM4m1k7jC",
+      "ctime": 1716484862,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c594d27830b04433e0ba58ec3d2c616b905a71f0.jpg",
+      "pubdate": 1716484862,
+      "stat": {
+        "view": 976,
+        "vt": 0
+      },
+      "title": "第33场 南方科技大学 ARTINX战队 vs 北京理工大学  追梦战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "34": {
+      "aid": 1004864498,
+      "bvid": "BV1zx4y1H7oi",
+      "ctime": 1716484874,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b6967e41f289eef52d9c2424f5d41b5a498f4a2e.jpg",
+      "pubdate": 1716484874,
+      "stat": {
+        "view": 571,
+        "vt": 0
+      },
+      "title": "第34场 南昌大学 Passion战队 vs 桂林信息科技学院 GIRT战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "35": {
+      "aid": 1954808056,
+      "bvid": "BV1dy411h7D7",
+      "ctime": 1716484860,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3dbb0e4f6754c3267d2365d5a12766936aa35b81.jpg",
+      "pubdate": 1716484860,
+      "stat": {
+        "view": 2393,
+        "vt": 0
+      },
+      "title": "第35场 华中科技大学 狼牙战队 vs 合肥工业大学 苍穹战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "36": {
+      "aid": 1954887212,
+      "bvid": "BV1Jy411a7XR",
+      "ctime": 1716484768,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0d22ef9e5a17fb8f30d535b195f2ca382395b6d5.jpg",
+      "pubdate": 1716484768,
+      "stat": {
+        "view": 1160,
+        "vt": 0
+      },
+      "title": "第36场 沈阳航天航空大学 TUP战队 vs 山东科技大学  SmartRobot战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "37": {
+      "aid": 1604977259,
+      "bvid": "BV1cm421T7Vw",
+      "ctime": 1716484776,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/a5d34e66bb5027181262c686c54288d93d308ef7.jpg",
+      "pubdate": 1716484776,
+      "stat": {
+        "view": 3446,
+        "vt": 0
+      },
+      "title": "第37场 东北林业大学 Ares战队 vs 哈尔滨工程大学 创梦之翼战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "38": {
+      "aid": 1404892503,
+      "bvid": "BV1er42157wq",
+      "ctime": 1716484784,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b114a4474831ce5002ec22593b2a23c8d2ced77c.jpg",
+      "pubdate": 1716484784,
+      "stat": {
+        "view": 526,
+        "vt": 0
+      },
+      "title": "第38场 青岛大学 未来战队 vs 太原工业学院 火线战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "39": {
+      "aid": 1404768766,
+      "bvid": "BV1mr421j7p7",
+      "ctime": 1716484804,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2123d4c8a0fa133f1f00cb5ff9cba83d5adc8a6f.jpg",
+      "pubdate": 1716484804,
+      "stat": {
+        "view": 544,
+        "vt": 0
+      },
+      "title": "第39场 西安电子科技大学 IRobot战队 vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "4": {
+      "aid": 1454951075,
+      "bvid": "BV1Xi421U7VQ",
+      "ctime": 1716425365,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c02f395ece3d07af0941f16c0d245a4e10fb27c4.jpg",
+      "pubdate": 1716425365,
+      "stat": {
+        "view": 1070,
+        "vt": 0
+      },
+      "title": "第4场 合肥工业大学 苍穹战队 vs 太原工业学院  火线战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "40": {
+      "aid": 1504888476,
+      "bvid": "BV1TD421V7XN",
+      "ctime": 1716484801,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f551acd52412ad57fc60a46a34a1363d8fa4e463.jpg",
+      "pubdate": 1716484801,
+      "stat": {
+        "view": 2672,
+        "vt": 0
+      },
+      "title": "第40场 华南理工大学 华南虎战队 vs 南京理工大学 Alliance战队 RoboMaster 2025 超级对抗赛 中部赛区"
+    },
+    "41": {
+      "aid": 1005098456,
+      "bvid": "BV1gx4y1n7wW",
+      "ctime": 1716566474,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4e672adea1c29f91712cb345ea34f0075ef0af0e.jpg",
+      "pubdate": 1716566474,
+      "stat": {
+        "view": 694,
+        "vt": 0
+      },
+      "title": "第41场 厦门大学嘉庚学院 TCR战队 vs 哈尔滨工业大学 I Hiter战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "42": {
+      "aid": 1755165981,
+      "bvid": "BV1Dt421N7jC",
+      "ctime": 1716566489,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/fced06cd443f3b3d7b9721e8f6645f8be315a244.jpg",
+      "pubdate": 1716566488,
+      "stat": {
+        "view": 511,
+        "vt": 0
+      },
+      "title": "第42场 东莞理工学院  ACE战队 vs 西南石油大学  铁人战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "43": {
+      "aid": 1305005865,
+      "bvid": "BV1bM4m167Dj",
+      "ctime": 1716566472,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/e8bd286779e4ed901add90e51aee1d8ce93968c3.jpg",
+      "pubdate": 1716566472,
+      "stat": {
+        "view": 1139,
+        "vt": 0
+      },
+      "title": "第43场 太原科技大学 NewMaker战队 vs 武汉工程大学 Nautilus战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "44": {
+      "aid": 1255079973,
+      "bvid": "BV1FJ4m1A7uG",
+      "ctime": 1716566447,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/efaa210c4e0e9d67a9f6bf0107038db2287808d6.jpg",
+      "pubdate": 1716566447,
+      "stat": {
+        "view": 776,
+        "vt": 0
+      },
+      "title": "第44场 中国石油大学（华东）  RPS战队 vs  重庆三峡学院 LionHeart战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "45": {
+      "aid": 1355096960,
+      "bvid": "BV1pz421a7J8",
+      "ctime": 1716566422,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/5ab536188bc691f7450af74ab10f521f2e86d9c0.jpg",
+      "pubdate": 1716566422,
+      "stat": {
+        "view": 1440,
+        "vt": 0
+      },
+      "title": "第45场 西安电子科技大学 IRobot战队 vs 太原工业学院 火线战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "46": {
+      "aid": 1655055603,
+      "bvid": "BV1q7421Z7Cq",
+      "ctime": 1716566419,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/577a772ad61a1a5cb6415b118281d72eb4230dc3.jpg",
+      "pubdate": 1716566419,
+      "stat": {
+        "view": 831,
+        "vt": 0
+      },
+      "title": "第46场 桂林信息科技学院 GIRT战队 vs 南京理工大学 Alliance战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "47": {
+      "aid": 1055038658,
+      "bvid": "BV1Yn4y1o7JJ",
+      "ctime": 1716566447,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c82d7eb5283425dd41a2053f18bd356038c41431.jpg",
+      "pubdate": 1716566447,
+      "stat": {
+        "view": 1188,
+        "vt": 0
+      },
+      "title": "第47场 沈阳航天航空大学 TUP战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "48": {
+      "aid": 1605246987,
+      "bvid": "BV1km421N7vj",
+      "ctime": 1716566552,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/7050f1b0c783fb75ec31e6a458051109bbeb76c7.jpg",
+      "pubdate": 1716566552,
+      "stat": {
+        "view": 901,
+        "vt": 0
+      },
+      "title": "第48场 太原科技大学 NewMaker战队 vs 北京理工大学  追梦战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "49": {
+      "aid": 1405161526,
+      "bvid": "BV1rr421w7MV",
+      "ctime": 1716566549,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/953bcd81004c225b6e60556a939c2b54a77a8ab6.jpg",
+      "pubdate": 1716566549,
+      "stat": {
+        "view": 953,
+        "vt": 0
+      },
+      "title": "第49场 南方科技大学 ARTINX战队 vs 东莞理工学院  ACE战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "5": {
+      "aid": 1754988989,
+      "bvid": "BV1Bt421T7Ab",
+      "ctime": 1716425370,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/cf0cd5589ac68b6e71e3036c96ad2216c5474428.jpg",
+      "pubdate": 1716425370,
+      "stat": {
+        "view": 2233,
+        "vt": 0
+      },
+      "title": "第5场 哈尔滨工程大学 创梦之翼战队 vs 北京理工大学  追梦战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "50": {
+      "aid": 1755108711,
+      "bvid": "BV1pt421N7b9",
+      "ctime": 1716566579,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2fe7609035affd7968819d970a8c42d59e463302.jpg",
+      "pubdate": 1716566579,
+      "stat": {
+        "view": 148012,
+        "vt": 0
+      },
+      "title": "第50场 哈尔滨工业大学 I Hiter战队 vs 哈尔滨工程大学 创梦之翼战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "51": {
+      "aid": 1905210110,
+      "bvid": "BV17U411o7NW",
+      "ctime": 1716567239,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/37f3761cbff0c4fdbd23b7ebc9a53eef2a0600f3.jpg",
+      "pubdate": 1716567239,
+      "stat": {
+        "view": 1706,
+        "vt": 0
+      },
+      "title": "第51场 中国石油大学（华东）  RPS战队vs 南昌大学 Passion战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "52": {
+      "aid": 1405028929,
+      "bvid": "BV1sr421L7yP",
+      "ctime": 1716567270,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/0d2486c80cd194c492b04b93b8954bbaedab5a71.jpg",
+      "pubdate": 1716567270,
+      "stat": {
+        "view": 2575,
+        "vt": 0
+      },
+      "title": "第52场 华中科技大学 狼牙战队vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "53": {
+      "aid": 1405198174,
+      "bvid": "BV1Dr421w7u6",
+      "ctime": 1716566527,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/4f6093e882ee2bb001da8aeb823fd052002982e8.jpg",
+      "pubdate": 1716566526,
+      "stat": {
+        "view": 935,
+        "vt": 0
+      },
+      "title": "第53场 桂林信息科技学院 GIRT战队vs 太原工业学院 火线战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "54": {
+      "aid": 1455248254,
+      "bvid": "BV1Ci421m7ZV",
+      "ctime": 1716566512,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/8647af09b27f2e4431250669fa91a132651a97b0.jpg",
+      "pubdate": 1716566512,
+      "stat": {
+        "view": 6843,
+        "vt": 0
+      },
+      "title": "第54场 北京理工大学  追梦战队vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "55": {
+      "aid": 1205155522,
+      "bvid": "BV1if42197h7",
+      "ctime": 1716566519,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5661d636a900aa45e70793d1cd96a900abeea344.jpg",
+      "pubdate": 1716566519,
+      "stat": {
+        "view": 2786,
+        "vt": 0
+      },
+      "title": "第55场 哈尔滨工业大学 I Hiter战队vs  南方科技大学 ARTINX战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "56": {
+      "aid": 1805118481,
+      "bvid": "BV1Pb421B7iq",
+      "ctime": 1716566476,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/779dad77a775524fd71e0a53e1dff34983102a7c.jpg",
+      "pubdate": 1716566476,
+      "stat": {
+        "view": 1438,
+        "vt": 0
+      },
+      "title": "第56场 南昌大学 Passion战队vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "57": {
+      "aid": 1055236041,
+      "bvid": "BV1Xn4y1R7Mm",
+      "ctime": 1716566464,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e6177f577487ca2ea7f585850a2903b87808bcda.jpg",
+      "pubdate": 1716566464,
+      "stat": {
+        "view": 1140,
+        "vt": 0
+      },
+      "title": "第57场 西安电子科技大学 IRobot战队vs 南京理工大学 Alliance战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "58": {
+      "aid": 1755077273,
+      "bvid": "BV1Gt421N7bv",
+      "ctime": 1716566679,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ff78b7e45a6739f923ead364c17ebf62492b5b2f.jpg",
+      "pubdate": 1716566679,
+      "stat": {
+        "view": 1228,
+        "vt": 0
+      },
+      "title": "第58场 太原科技大学 NewMaker战队vs 沈阳航空航天大学 TUP战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "59": {
+      "aid": 1055173252,
+      "bvid": "BV1en4y1R7MA",
+      "ctime": 1716690540,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/cb92f3646f83c58a8d484b945625ee1c0e07c0f8.jpg",
+      "pubdate": 1716690540,
+      "stat": {
+        "view": 1914,
+        "vt": 0
+      },
+      "title": "第59场 东莞理工学院  ACE战队vs 哈尔滨工程大学 创梦之翼战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "6": {
+      "aid": 1404893572,
+      "bvid": "BV1Yr42157C3",
+      "ctime": 1716425370,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/2caa646d915db68f2630f7ab6969d5426acf050f.jpg",
+      "pubdate": 1716425370,
+      "stat": {
+        "view": 783,
+        "vt": 0
+      },
+      "title": "第6场 桂林信息科技学院 GIRT战队 vs 西安理工大学  NEXT E战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "60": {
+      "aid": 1505136112,
+      "bvid": "BV1QD42137TB",
+      "ctime": 1716690571,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/683176d0a07f723b654a554d8f3b9243cdb45051.jpg",
+      "pubdate": 1716690571,
+      "stat": {
+        "view": 642,
+        "vt": 0
+      },
+      "title": "第60场 华北科技学院 风暴战队vs 中国石油大学（华东）  RPS战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "61": {
+      "aid": 1905168021,
+      "bvid": "BV1wU411o7mE",
+      "ctime": 1716690561,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/bb16bc2121e8fdd65b5ca5981fadc5b5a7f152df.jpg",
+      "pubdate": 1716690561,
+      "stat": {
+        "view": 3080,
+        "vt": 0
+      },
+      "title": "第61场 桂林信息科技学院 GIRT战队vs 哈尔滨工业大学 I Hiter战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "62": {
+      "aid": 1305154003,
+      "bvid": "BV14M4m1r7JE",
+      "ctime": 1716690526,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/f41d4cb7af98958780edfe899a7a4bea2e20406b.jpg",
+      "pubdate": 1716690526,
+      "stat": {
+        "view": 1316,
+        "vt": 0
+      },
+      "title": "第62场 北京理工大学  追梦战队vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "63": {
+      "aid": 1555089159,
+      "bvid": "BV181421173g",
+      "ctime": 1716690531,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/447e76af6757594a6f11a634d5c728f79da0a4bb.jpg",
+      "pubdate": 1716690531,
+      "stat": {
+        "view": 1203,
+        "vt": 0
+      },
+      "title": "第63场 南京理工大学 Alliance战队vs 哈尔滨工程大学 创梦之翼战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "64": {
+      "aid": 1055187822,
+      "bvid": "BV1bn4y1R7Z2",
+      "ctime": 1716690543,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/078c90b6daf056731f3199369780407e81c9b989.jpg",
+      "pubdate": 1716690543,
+      "stat": {
+        "view": 716,
+        "vt": 0
+      },
+      "title": "第64场 沈阳航空航天大学 TUP战队vs 中国石油大学（华东）RPS战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "65": {
+      "aid": 1105245890,
+      "bvid": "BV1Bw4m1i7uA",
+      "ctime": 1716690579,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/50cb5725e574cfc52056a8ae9ece5b6cf58878ae.jpg",
+      "pubdate": 1716690579,
+      "stat": {
+        "view": 729,
+        "vt": 0
+      },
+      "title": "第65场 西安电子科技大学 IRobot战队vs 东莞理工学院  ACE战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "66": {
+      "aid": 1005036808,
+      "bvid": "BV1ax4y1p7rT",
+      "ctime": 1716690582,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/cbe5737a683d499ab9fa7766fdc5d17d45701aaf.jpg",
+      "pubdate": 1716690582,
+      "stat": {
+        "view": 628,
+        "vt": 0
+      },
+      "title": "第66场 太原科技大学 NewMaker战队vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "67": {
+      "aid": 1255056394,
+      "bvid": "BV1QJ4m1w7aA",
+      "ctime": 1716690620,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e64b4fab95a3535c858f5935b09c2c2b6add5e0f.jpg",
+      "pubdate": 1716690620,
+      "stat": {
+        "view": 3113,
+        "vt": 0
+      },
+      "title": "第67场 哈尔滨工业大学 I Hiter战队vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "68": {
+      "aid": 1155035776,
+      "bvid": "BV1QZ421p7ji",
+      "ctime": 1716690577,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/8db72348710756455b4220880244bff4087c6e55.jpg",
+      "pubdate": 1716690577,
+      "stat": {
+        "view": 1002,
+        "vt": 0
+      },
+      "title": "第68场 南京理工大学 Alliance战队vs 沈阳航空航天大学 TUP战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "69": {
+      "aid": 1805249665,
+      "bvid": "BV1Ab421i7rK",
+      "ctime": 1716690553,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/0c7742a960a8f64207d37e9756cf67fa1d567893.jpg",
+      "pubdate": 1716690553,
+      "stat": {
+        "view": 4481,
+        "vt": 0
+      },
+      "title": "第69场 北京理工大学  追梦战队vs 桂林信息科技学院 GIRT战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "7": {
+      "aid": 1204916060,
+      "bvid": "BV1Af421d7wT",
+      "ctime": 1716425425,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/e87582abbf2a49c2c06ee09587cf798193b31099.jpg",
+      "pubdate": 1716425425,
+      "stat": {
+        "view": 941,
+        "vt": 0
+      },
+      "title": "第7场 东北林业大学 Ares战队 vs 山东科技大学  SmartRobot战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "8": {
+      "aid": 1604989489,
+      "bvid": "BV1Pm421T7X9",
+      "ctime": 1716425358,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/85fd9277967b1e6fcb66909eb266fe6e08ccbbd0.jpg",
+      "pubdate": 1716425358,
+      "stat": {
+        "view": 908,
+        "vt": 0
+      },
+      "title": "第8场 沈阳航天航空大学 TUP战队 vs 长安大学  VGD战队 RoboMaster 2024 超级对抗赛 中部赛区"
+    },
+    "9": {
+      "aid": 1504938736,
+      "bvid": "BV1aD421V7RH",
+      "ctime": 1716425673,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/18c53bf7d839c857beff39146a0538e3bb59db98.jpg",
+      "pubdate": 1716425673,
+      "stat": {
+        "view": 2115,
+        "vt": 0
+      },
+      "title": "第9场 哈尔滨工业大学 I Hiter战队 vs 中国石油大学（华东）  RPS战队 RoboMaster 2024 超级对抗赛 中部赛区.mp4"
+    }
+  },
+  "全国赛": {
+    "1": {
+      "aid": 1406374459,
+      "bvid": "BV19r421M7rY",
+      "ctime": 1722914693,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/06f33e910f52da33e8553e74cda13f012c265008.jpg",
+      "pubdate": 1722914693,
+      "stat": {
+        "view": 43058,
+        "vt": 0
+      },
+      "title": "第1场 北京理工大学 追梦战队 vs 中国石油大学（华东） RPS战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "10": {
+      "aid": 1256359601,
+      "bvid": "BV1KE4m1d7v5",
+      "ctime": 1722934434,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/042292da9218108551d60d6ca73d7c2d96622a89.jpg",
+      "pubdate": 1722934434,
+      "stat": {
+        "view": 3821,
+        "vt": 0
+      },
+      "title": "第10场 太原工业学院 火线战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "11": {
+      "aid": 1056273504,
+      "bvid": "BV1AH4y1c7Kt",
+      "ctime": 1722941363,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/acdebd6b6ba3e6ba843f269094c63fd287232dfd.jpg",
+      "pubdate": 1722941363,
+      "stat": {
+        "view": 2178,
+        "vt": 0
+      },
+      "title": "第11场 广东工业大学 DynamicX战队 vs 太原科技大学 NewMaker战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "12": {
+      "aid": 1006347472,
+      "bvid": "BV1ex4y147Jx",
+      "ctime": 1722941649,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2b800ddb6dc10b267c1fd2b0fe9270cef07c3760.jpg",
+      "pubdate": 1722941649,
+      "stat": {
+        "view": 2395,
+        "vt": 0
+      },
+      "title": "第12场 深圳大学 RobotPilots战队 vs 齐鲁工业大学 Adam战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "13": {
+      "aid": 1856260255,
+      "bvid": "BV12W421X775",
+      "ctime": 1722942561,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f05589641ce67e8d4da591500b28855d7088ccbc.jpg",
+      "pubdate": 1722942561,
+      "stat": {
+        "view": 1862,
+        "vt": 0
+      },
+      "title": "第13场 中南大学 FYT战队 vs 太原理工大学 TRoMaC战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "14": {
+      "aid": 1956406148,
+      "bvid": "BV1vy411e782",
+      "ctime": 1722948596,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ac1a7e49d472c43106ab6a491ddfa5ac32e38ce6.jpg",
+      "pubdate": 1722948596,
+      "stat": {
+        "view": 1429,
+        "vt": 0
+      },
+      "title": "第14场 五邑大学 IMCA战队 vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "15": {
+      "aid": 1056497653,
+      "bvid": "BV1bn4y1f7vw",
+      "ctime": 1722953715,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/9c66e4600172fd51a6ad4cd914c0819ea659b67f.jpg",
+      "pubdate": 1722953715,
+      "stat": {
+        "view": 1432,
+        "vt": 0
+      },
+      "title": "第15场 南昌大学 Passion战队 vs 首都师范大学 PIE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "16": {
+      "aid": 1056306931,
+      "bvid": "BV1GH4y1c7oC",
+      "ctime": 1722956994,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1db074033fdd13832a26cc87107a29b5b3abaa21.jpg",
+      "pubdate": 1722956994,
+      "stat": {
+        "view": 6455,
+        "vt": 0
+      },
+      "title": "第16场 华南理工大学 华南虎战队 vs 吉林大学 TARS_Go战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "17": {
+      "aid": 1606311140,
+      "bvid": "BV1Zm421g75i",
+      "ctime": 1722961977,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/41fdda1e910549960d4f29f377869644a6ae8e40.jpg",
+      "pubdate": 1722961977,
+      "stat": {
+        "view": 54403,
+        "vt": 0
+      },
+      "title": "第17场 浙江大学 Hello World战队 vs 桂林电子科技大学 Evolution战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "18": {
+      "aid": 1956290610,
+      "bvid": "BV1Dy411i7Uo",
+      "ctime": 1722960234,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f751166e65d2c383a2a756c35fa3220a2c044c68.jpg",
+      "pubdate": 1722960234,
+      "stat": {
+        "view": 2592,
+        "vt": 0
+      },
+      "title": "第18场 西安交通大学 笃行战队 vs 华南农业大学 Taurus战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "19": {
+      "aid": 1106253101,
+      "bvid": "BV1mw4m1r76M",
+      "ctime": 1722999348,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/29ebee050c2afa0475a2611b02672112bae498bc.jpg",
+      "pubdate": 1722999348,
+      "stat": {
+        "view": 2535,
+        "vt": 0
+      },
+      "title": "第19场 电子科技大学中山学院 RoboBraver战队 vs 中国石油大学（华东）RPS战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "2": {
+      "aid": 1656478806,
+      "bvid": "BV1AE421A7Pc",
+      "ctime": 1722914847,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b99dc0dc11244ccb3a80761602417ef3438ce3b1.jpg",
+      "pubdate": 1722914847,
+      "stat": {
+        "view": 4670,
+        "vt": 0
+      },
+      "title": "第2场 电子科技大学中山学院 RoboBraver战队 vs 哈尔滨工业大学（威海） HERO战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "20": {
+      "aid": 1506484300,
+      "bvid": "BV1qS42197TD",
+      "ctime": 1723000753,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/29235aedac9c7e79b0737a867381ccc78617a83d.jpg",
+      "pubdate": 1723000753,
+      "stat": {
+        "view": 1224,
+        "vt": 0
+      },
+      "title": "第20场 南方科技大学 ARTINX战队 vs 上海工程技术大学 木鸢Birdiebot战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "21": {
+      "aid": 1306295558,
+      "bvid": "BV1sM4m1y7pu",
+      "ctime": 1723001830,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/14a9f3e0ef44687029b5b49bc817bce11c45a68f.jpg",
+      "pubdate": 1723001830,
+      "stat": {
+        "view": 2030,
+        "vt": 0
+      },
+      "title": "第21场 南京航空航天大学 长空御风战队 vs 哈尔滨工业大学（深圳）南工骁鹰战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "22": {
+      "aid": 1306480365,
+      "bvid": "BV1HM4m1173q",
+      "ctime": 1723005992,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ac198e1704806e7b5cdacac5980fea93b73269f8.jpg",
+      "pubdate": 1723005992,
+      "stat": {
+        "view": 1558,
+        "vt": 0
+      },
+      "title": "第22场 哈尔滨工业大学（威海）HERO战队 vs 北京理工大学 追梦战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "23": {
+      "aid": 1206352256,
+      "bvid": "BV1Pf421B7MA",
+      "ctime": 1723009158,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/7076306560bf9dfd08e7c77370f8565e9bd91c50.jpg",
+      "pubdate": 1723009158,
+      "stat": {
+        "view": 2770,
+        "vt": 0
+      },
+      "title": "第23场 哈尔滨工业大学 I Hiter战队 vs 桂林信息科技学院 GIRT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "24": {
+      "aid": 1306397197,
+      "bvid": "BV1KM4m117dv",
+      "ctime": 1723045567,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/0d3b678c507eb3e70f8f91bbecf644a497bc6be4.jpg",
+      "pubdate": 1723045567,
+      "stat": {
+        "view": 2305,
+        "vt": 0
+      },
+      "title": "第24场 西安电子科技大学 IRobot战队 vs 东南大学 3SE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "25": {
+      "aid": 1056339406,
+      "bvid": "BV1pH4y1c7io",
+      "ctime": 1723012242,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f00c7a5932a3bdc4e9e71cf3fe83aa0c1ec885f2.jpg",
+      "pubdate": 1723012242,
+      "stat": {
+        "view": 2003,
+        "vt": 0
+      },
+      "title": "第25场 华中科技大学 狼牙战队 vs 深圳大学 RobotPilots战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "26": {
+      "aid": 1506292787,
+      "bvid": "BV1qS421X7qs",
+      "ctime": 1723014115,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b2b8b9880d66faba203d013720d6a0a3eeeb971a.jpg",
+      "pubdate": 1723014115,
+      "stat": {
+        "view": 1631,
+        "vt": 0
+      },
+      "title": "第26场 广东工业大学 DynamicX战队 vs 太原理工大学 TRoMaC战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "27": {
+      "aid": 1106350519,
+      "bvid": "BV1Ew4m1k7uE",
+      "ctime": 1723017678,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/48759d7b7b1edbe162e885272ca052a1e76be8c6.jpg",
+      "pubdate": 1723017678,
+      "stat": {
+        "view": 15008,
+        "vt": 0
+      },
+      "title": "第27场 东北大学 TDT战队 vs 上海交通大学 交龙战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "28": {
+      "aid": 1806482668,
+      "bvid": "BV1Hb421775L",
+      "ctime": 1723020206,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d9cfcf2f175ac58ac594eae1f071e372ee442996.jpg",
+      "pubdate": 1723020206,
+      "stat": {
+        "view": 2650,
+        "vt": 0
+      },
+      "title": "第28场 华南理工大学 华南虎战队 vs 首都师范大学 PIE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "29": {
+      "aid": 1406480585,
+      "bvid": "BV11r421K7jQ",
+      "ctime": 1723023194,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/369644125de3d4b3918c7c05b34ab106ff64972e.jpg",
+      "pubdate": 1723023194,
+      "stat": {
+        "view": 1185,
+        "vt": 0
+      },
+      "title": "第29场 吉林大学 TARS_Go战队 vs 南昌大学 Passion战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "3": {
+      "aid": 1906333412,
+      "bvid": "BV1xU411U7sA",
+      "ctime": 1722917696,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/dfc96591aacbcef5525acba89537c128b0b86c16.jpg",
+      "pubdate": 1722917696,
+      "stat": {
+        "view": 2920,
+        "vt": 0
+      },
+      "title": "第3场 华南农业大学 Taurus战队 vs 桂林信息科技学院 GIRT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "30": {
+      "aid": 1656316031,
+      "bvid": "BV15E421w78g",
+      "ctime": 1723039608,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7389800aee0950984a00b2fefd775180f9663b4c.jpg",
+      "pubdate": 1723039608,
+      "stat": {
+        "view": 1387,
+        "vt": 0
+      },
+      "title": "第30场 太原工业学院 火线战队 vs 北京理工大学珠海学院 毅恒战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "31": {
+      "aid": 1506375495,
+      "bvid": "BV1XS421X7xm",
+      "ctime": 1723025586,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7435c76eb9b1133264e6c5759d26ea440f236eee.jpg",
+      "pubdate": 1723025586,
+      "stat": {
+        "view": 1766,
+        "vt": 0
+      },
+      "title": "第31场 太原科技大学 NewMaker战队 vs 中南大学 FYT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "32": {
+      "aid": 1406263807,
+      "bvid": "BV1ur421M7og",
+      "ctime": 1723029567,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/08d94efbb5e0e5fd93bc28a382093d08d9d9b069.jpg",
+      "pubdate": 1723029567,
+      "stat": {
+        "view": 1115,
+        "vt": 0
+      },
+      "title": "第32场 五邑大学 IMCA战队 vs 齐鲁工业大学 Adam战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "33": {
+      "aid": 1056303191,
+      "bvid": "BV13H4y1c7En",
+      "ctime": 1723040088,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/e88e0c46624bb846926f8ea0bfb0083428bd3b49.jpg",
+      "pubdate": 1723040088,
+      "stat": {
+        "view": 1625,
+        "vt": 0
+      },
+      "title": "第33场 西安交通大学 笃行战队 vs 南方科技大学 ARTINX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "34": {
+      "aid": 1106484508,
+      "bvid": "BV1Zw4m1k7V2",
+      "ctime": 1723044273,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/a29dffdb813a8601cbf1f6091364fa381b9122bd.jpg",
+      "pubdate": 1723044273,
+      "stat": {
+        "view": 2982,
+        "vt": 0
+      },
+      "title": "第34场 中国石油大学（华东） RPS战队 vs 浙江大学 Hello World战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "35": {
+      "aid": 1956402612,
+      "bvid": "BV1Yy411e7So",
+      "ctime": 1723044655,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/4f82d8bd096aa2122ebe01d33b90616df83bd0d7.jpg",
+      "pubdate": 1723044655,
+      "stat": {
+        "view": 3221,
+        "vt": 0
+      },
+      "title": "第35场 电子科技大学中山学院 RoboBraver战队 vs 桂林电子科技大学 Evolution战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "36": {
+      "aid": 1706475222,
+      "bvid": "BV1LT421r7oy",
+      "ctime": 1723047189,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/01791d2e55af16b96c8566adcc860fee116f9b07.jpg",
+      "pubdate": 1723047189,
+      "stat": {
+        "view": 1519,
+        "vt": 0
+      },
+      "title": "第36场 南京航空航天大学 长空御风战队 vs 北京理工大学 追梦战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "37": {
+      "aid": 1206287596,
+      "bvid": "BV1Cf421q7Lx",
+      "ctime": 1723047343,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/872e9e05b3fe51d5b382a934c2468f222d5ed3c0.jpg",
+      "pubdate": 1723047343,
+      "stat": {
+        "view": 3360,
+        "vt": 0
+      },
+      "title": "第37场 华南农业大学 Taurus战队 vs 哈尔滨工业大学 I Hiter战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "38": {
+      "aid": 1456363938,
+      "bvid": "BV1di421h7Ye",
+      "ctime": 1723085114,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/009d9de4d87fb99cd436f49fc6d3a77a9324a196.jpg",
+      "pubdate": 1723085114,
+      "stat": {
+        "view": 1074,
+        "vt": 0
+      },
+      "title": "第38场 上海工程技术大学 木鸢Birdiebot战队 vs 东南大学 3SE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "39": {
+      "aid": 1856446358,
+      "bvid": "BV1XW42197yX",
+      "ctime": 1723087697,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ae65b5fdc097279d8a728095a040a41b59db9cbe.jpg",
+      "pubdate": 1723087697,
+      "stat": {
+        "view": 1841,
+        "vt": 0
+      },
+      "title": "第39场 哈尔滨工业大学（深圳） 南工骁鹰战队 vs 西安电子科技大学 IRobot战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "4": {
+      "aid": 1406366446,
+      "bvid": "BV1rr421M7tW",
+      "ctime": 1722922550,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/950cc9f00292ab47823676580d981c3d6d16887a.jpg",
+      "pubdate": 1722922550,
+      "stat": {
+        "view": 4777,
+        "vt": 0
+      },
+      "title": "第4场 西安电子科技大学 IRobot战队 vs 浙江大学 Hello World战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "40": {
+      "aid": 1906259231,
+      "bvid": "BV1zS411w74Z",
+      "ctime": 1723088625,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7ebbb5d1c9e3a6bde7c6a17988e996024607aa83.jpg",
+      "pubdate": 1723088625,
+      "stat": {
+        "view": 1493,
+        "vt": 0
+      },
+      "title": "第40场 哈尔滨工业大学（威海） HERO战队 vs 桂林信息科技学院 GIRT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "41": {
+      "aid": 1906267690,
+      "bvid": "BV1aS411w75x",
+      "ctime": 1723089768,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c262f3caf3366367ff6564bc415cf9276231e400.jpg",
+      "pubdate": 1723089768,
+      "stat": {
+        "view": 49309,
+        "vt": 0
+      },
+      "title": "第41场 上海交通大学 交龙战队 vs 深圳大学 RobotPilots战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "42": {
+      "aid": 1856254922,
+      "bvid": "BV1dW421X7BL",
+      "ctime": 1723090966,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/9f067819a9aa7a457d17df8afe5f6d7354559b6b.jpg",
+      "pubdate": 1723090966,
+      "stat": {
+        "view": 3566,
+        "vt": 0
+      },
+      "title": "第42场 广东工业大学 DynamicX战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "43": {
+      "aid": 1106430581,
+      "bvid": "BV1aw4m1k7wp",
+      "ctime": 1723099557,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/80f25a0d17b3c6c67a36d68f01a44a89a229d361.jpg",
+      "pubdate": 1723099557,
+      "stat": {
+        "view": 3081,
+        "vt": 0
+      },
+      "title": "第43场 太原理工大学 TRoMaC战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "44": {
+      "aid": 1556290340,
+      "bvid": "BV1E142187eH",
+      "ctime": 1723101973,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6084c5c57f0cd27659e4f9f9fd1f3c4a06081d28.jpg",
+      "pubdate": 1723101973,
+      "stat": {
+        "view": 1324,
+        "vt": 0
+      },
+      "title": "第44场 首都师范大学 PIE战队 vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "45": {
+      "aid": 1756418160,
+      "bvid": "BV164421Z7NV",
+      "ctime": 1723103074,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/cf144aa7ca47e589695febdf96d99314af1ca758.jpg",
+      "pubdate": 1723103074,
+      "stat": {
+        "view": 1094,
+        "vt": 0
+      },
+      "title": "第45场 太原工业学院 火线战队 vs 齐鲁工业大学 Adam战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "46": {
+      "aid": 1906432540,
+      "bvid": "BV1dU411U7HB",
+      "ctime": 1723107051,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d7d44ef570e9a1f00d16fd813e57f398406b0932.jpg",
+      "pubdate": 1723107051,
+      "stat": {
+        "view": 3096,
+        "vt": 0
+      },
+      "title": "第46场 中南大学 FYT战队 vs 南昌大学 Passion战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "47": {
+      "aid": 1256496521,
+      "bvid": "BV1KE4m197VM",
+      "ctime": 1723108725,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ae942d95c5a8c558518b25f8624dc474448cd049.jpg",
+      "pubdate": 1723108725,
+      "stat": {
+        "view": 1281,
+        "vt": 0
+      },
+      "title": "第47场 吉林大学 TARS_Go战队 vs 北京理工大学珠海学院 毅恒战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "48": {
+      "aid": 1306354763,
+      "bvid": "BV1yM4m1y7uw",
+      "ctime": 1723110635,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/30feda8061c5df79d40959f579b5067100c2afeb.jpg",
+      "pubdate": 1723110635,
+      "stat": {
+        "view": 1034,
+        "vt": 0
+      },
+      "title": "第48场 太原科技大学 NewMaker战队 vs 五邑大学 IMCA战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "49": {
+      "aid": 1156364694,
+      "bvid": "BV1BZ421N7u6",
+      "ctime": 1723112787,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1096ac6a3f4db2c6303cd8058c5ce8c0d3feec02.jpg",
+      "pubdate": 1723112787,
+      "stat": {
+        "view": 2212,
+        "vt": 0
+      },
+      "title": "第49场 浙江大学 Hello World战队 vs 南方科技大学 ARTINX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "5": {
+      "aid": 1206394633,
+      "bvid": "BV11f421v7NF",
+      "ctime": 1722925728,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b149762147b2ce13247097ad41b31d5cd87f6c65.jpg",
+      "pubdate": 1722925728,
+      "stat": {
+        "view": 6189,
+        "vt": 0
+      },
+      "title": "第5场 哈尔滨工业大学 I Hiter战队 vs 西安交通大学 笃行战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "50": {
+      "aid": 1956433204,
+      "bvid": "BV1ry411e7m3",
+      "ctime": 1723113382,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/cb1737c853d853dfccb20f0c673d28bdab63c913.jpg",
+      "pubdate": 1723113382,
+      "stat": {
+        "view": 1325,
+        "vt": 0
+      },
+      "title": "第50场 东南大学 3SE战队 vs 华南农业大学 Taurus战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "51": {
+      "aid": 1906411948,
+      "bvid": "BV1fU411U7Rk",
+      "ctime": 1723115894,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1871df661fa312caa665a40a79efea7b15431093.jpg",
+      "pubdate": 1723115894,
+      "stat": {
+        "view": 3277,
+        "vt": 0
+      },
+      "title": "第51场 桂林电子科技大学 Evolution战队 vs 北京理工大学 追梦战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "52": {
+      "aid": 1656326610,
+      "bvid": "BV14E421w7NU",
+      "ctime": 1723121157,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/db8b2ee591a8e1df8c5750baead5b2279f8ad1bd.jpg",
+      "pubdate": 1723121157,
+      "stat": {
+        "view": 3890,
+        "vt": 0
+      },
+      "title": "第52场 哈尔滨工业大学 I Hiter战队 vs 电子科技大学中山学院 RoboBraver战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "53": {
+      "aid": 1006316383,
+      "bvid": "BV1Wx4y147YM",
+      "ctime": 1723123275,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/18c6910b0741d95ff1fde8046ad2dc17b6a11de0.jpg",
+      "pubdate": 1723123275,
+      "stat": {
+        "view": 1318,
+        "vt": 0
+      },
+      "title": "第53场 上海工程技术大学 木鸢Birdiebot战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "54": {
+      "aid": 1056251414,
+      "bvid": "BV1NH4y1c7Na",
+      "ctime": 1723127639,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e0f4520f49e3a76310a77f88182b4920757613d5.jpg",
+      "pubdate": 1723127639,
+      "stat": {
+        "view": 1175,
+        "vt": 0
+      },
+      "title": "第54场 桂林信息科技学院 GIRT战队 vs 西安电子科技大学 IRobot战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "55": {
+      "aid": 1506386136,
+      "bvid": "BV1KS42197QW",
+      "ctime": 1723128553,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3f7fc2cdf6aa855797ae54119e81e16301ac1440.jpg",
+      "pubdate": 1723128553,
+      "stat": {
+        "view": 1795,
+        "vt": 0
+      },
+      "title": "第55场 深圳大学 RobotPilots战队 vs 首都师范大学 PIE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "56": {
+      "aid": 1406427871,
+      "bvid": "BV1Er421K7Qs",
+      "ctime": 1723129546,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/81f1f49e3dab0131d3cad704c5ed1f43b6a6378a.jpg",
+      "pubdate": 1723129546,
+      "stat": {
+        "view": 2120,
+        "vt": 0
+      },
+      "title": "第56场 广东工业大学 DynamicX战队 vs 太原理工大学 TRoMaC战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "57": {
+      "aid": 1606469701,
+      "bvid": "BV1n2421Z7mQ",
+      "ctime": 1723169678,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b3c369141247911be79e6bf898c9bebd2edb5363.jpg",
+      "pubdate": 1723169677,
+      "stat": {
+        "view": 1300,
+        "vt": 0
+      },
+      "title": "第57场 中南大学 FYT战队 vs 太原工业学院 火线战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "58": {
+      "aid": 1906445274,
+      "bvid": "BV1uU411S72t",
+      "ctime": 1723170579,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f0226ceb24bfc22b73b003977b2471db2666b4d6.jpg",
+      "pubdate": 1723170579,
+      "stat": {
+        "view": 1848,
+        "vt": 0
+      },
+      "title": "第58场 齐鲁工业大学 Adam战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "59": {
+      "aid": 1706403600,
+      "bvid": "BV1dT42167F3",
+      "ctime": 1723172139,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/34b3e72bd44f334b05de58223b7d41fdaa379aaf.jpg",
+      "pubdate": 1723172139,
+      "stat": {
+        "view": 1283,
+        "vt": 0
+      },
+      "title": "第59场 南昌大学 Passion战队 vs 华中科技大学 狼牙战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "6": {
+      "aid": 1806368840,
+      "bvid": "BV18b421J7u8",
+      "ctime": 1722927312,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/e5acb33ade371d3ba4889bb511d2d1876f825eef.jpg",
+      "pubdate": 1722927312,
+      "stat": {
+        "view": 2457,
+        "vt": 0
+      },
+      "title": "第6场 桂林电子科技大学 Evolution战队 vs 东南大学 3SE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "60": {
+      "aid": 1106332966,
+      "bvid": "BV1cw4m1k742",
+      "ctime": 1723174120,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2ae640df1d237b733f7df8fdd1c02d8581008577.jpg",
+      "pubdate": 1723174119,
+      "stat": {
+        "view": 1070,
+        "vt": 0
+      },
+      "title": "第60场 吉林大学 TARS_Go战队 vs 五邑大学 IMCA战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "61": {
+      "aid": 1156269206,
+      "bvid": "BV16Z421T78T",
+      "ctime": 1723183811,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/57a82cd35d55b2532f01342ba0b11bb4c6e5cc32.jpg",
+      "pubdate": 1723183811,
+      "stat": {
+        "view": 1606,
+        "vt": 0
+      },
+      "title": "第61场 北京理工大学 追梦战队 vs 南方科技大学 ARTINX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "62": {
+      "aid": 1806482434,
+      "bvid": "BV1Hb421777A",
+      "ctime": 1723184707,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/8918d5bf64b530c9863af9e42a9c3f9e18262ce9.jpg",
+      "pubdate": 1723184707,
+      "stat": {
+        "view": 1581,
+        "vt": 0
+      },
+      "title": "第62场 东南大学 3SE战队 vs 电子科技大学中山学院 RoboBraver战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "63": {
+      "aid": 1656393554,
+      "bvid": "BV12E421w7tT",
+      "ctime": 1723185169,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fbd9ee7194280e4654f4dcc24c0668c09e652d52.jpg",
+      "pubdate": 1723185168,
+      "stat": {
+        "view": 3674,
+        "vt": 0
+      },
+      "title": "第63场 南京航空航天大学 长空御风战队 vs 桂林信息科技学院 GIRT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "64": {
+      "aid": 1406428938,
+      "bvid": "BV1Er421K7rk",
+      "ctime": 1723187315,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/57a1cddb0593a6b77e8c257d647f1ea6c62f7ee7.jpg",
+      "pubdate": 1723187315,
+      "stat": {
+        "view": 2214,
+        "vt": 0
+      },
+      "title": "第64场 东北大学 TDT战队 vs 首都师范大学 PIE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "65": {
+      "aid": 1206411130,
+      "bvid": "BV16f421v736",
+      "ctime": 1723191365,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/9ab6ba7d371a51268745a252a9190f9968d91ba3.jpg",
+      "pubdate": 1723191365,
+      "stat": {
+        "view": 1787,
+        "vt": 0
+      },
+      "title": "第65场 中南大学 FYT战队 vs 广东工业大学 DynamicX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "66": {
+      "aid": 1906284547,
+      "bvid": "BV12S411w7pZ",
+      "ctime": 1723192050,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/797c06f3e963b046ce98b6890bee2e6e8981dcc8.jpg",
+      "pubdate": 1723192050,
+      "stat": {
+        "view": 1173,
+        "vt": 0
+      },
+      "title": "第66场 吉林大学 TARS_Go战队 vs 南昌大学 Passion战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "67": {
+      "aid": 1356276347,
+      "bvid": "BV1sz421B7ow",
+      "ctime": 1723201913,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/be4117da9979c11a391824f06d79b151673d1894.jpg",
+      "pubdate": 1723201913,
+      "stat": {
+        "view": 3998,
+        "vt": 0
+      },
+      "title": "第67场 上海交通大学 交龙战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "68": {
+      "aid": 1456441269,
+      "bvid": "BV18i421a7Xq",
+      "ctime": 1723203497,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ba15b7758edcce0233b66b50a05f060b9143224a.jpg",
+      "pubdate": 1723203496,
+      "stat": {
+        "view": 2267,
+        "vt": 0
+      },
+      "title": "第68场 太原工业学院 火线战队 vs 桂林电子科技大学 Evolution战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "69": {
+      "aid": 1006427073,
+      "bvid": "BV1Kx4y1s7mz",
+      "ctime": 1723214862,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/7e54bc2663363fbe5d85f43c761c69764fccc94e.jpg",
+      "pubdate": 1723214862,
+      "stat": {
+        "view": 1708,
+        "vt": 0
+      },
+      "title": "第69场 东南大学 3SE战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "7": {
+      "aid": 1006495337,
+      "bvid": "BV1tx4y1s72P",
+      "ctime": 1722928778,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/f41c79037971ab079dd3d25b8758ceed5596a6a6.jpg",
+      "pubdate": 1722928778,
+      "stat": {
+        "view": 2110,
+        "vt": 0
+      },
+      "title": "第7场 南京航空航天大学 长空御风战队 vs 南方科技大学 ARTINX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "70": {
+      "aid": 1656272055,
+      "bvid": "BV1gE421w7hr",
+      "ctime": 1723207035,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e4a75eacd4a89da24a2f5cf0110cb4dc08c11f8a.jpg",
+      "pubdate": 1723207035,
+      "stat": {
+        "view": 5667,
+        "vt": 0
+      },
+      "title": "第70场 浙江大学 Hello World战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "71": {
+      "aid": 1456347715,
+      "bvid": "BV1ci421a7hF",
+      "ctime": 1723212663,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d242e1ee529862f0a412179891867f99fbf96d8f.jpg",
+      "pubdate": 1723212663,
+      "stat": {
+        "view": 1594,
+        "vt": 0
+      },
+      "title": "第71场 北京理工大学 追梦战队 vs 太原理工大学 TRoMaC战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "72": {
+      "aid": 1156309901,
+      "bvid": "BV19Z421T7Gp",
+      "ctime": 1723214658,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/32e964453e5d0d98b422fc9e86daf324ad19e1e2.jpg",
+      "pubdate": 1723214658,
+      "stat": {
+        "view": 1966,
+        "vt": 0
+      },
+      "title": "第72场 西安交通大学 笃行战队 vs 广东工业大学 DynamicX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "73": {
+      "aid": 1856370817,
+      "bvid": "BV1nW42197gp",
+      "ctime": 1723214851,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/34b724493920b97f8b7f3b454ae573004e14a3f8.jpg",
+      "pubdate": 1723214851,
+      "stat": {
+        "view": 2517,
+        "vt": 0
+      },
+      "title": "第73场 深圳大学 RobotPilots战队 vs 华南农业大学 Taurus战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "74": {
+      "aid": 1156361363,
+      "bvid": "BV1iZ421N7Y9",
+      "ctime": 1723215941,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/054d64043dfb271aef7bf52d5d87942927575e31.jpg",
+      "pubdate": 1723215940,
+      "stat": {
+        "view": 1556,
+        "vt": 0
+      },
+      "title": "第74场 南昌大学 Passion战队 vs 中国石油大学（华东） RPS战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "75": {
+      "aid": 1506337280,
+      "bvid": "BV1rS421X7Ca",
+      "ctime": 1723257857,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/1b1634291f86bb354de5a7972ec030f0b7db48b9.jpg",
+      "pubdate": 1723257857,
+      "stat": {
+        "view": 2062,
+        "vt": 0
+      },
+      "title": "第75场 南京航空航天大学 长空御风战队 vs 桂林电子科技大学 Evolution战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "76": {
+      "aid": 1056444053,
+      "bvid": "BV1pn4y1f7xP",
+      "ctime": 1723257882,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/cd55924a2cf821d37906606fa1c86bd416f2cd5f.jpg",
+      "pubdate": 1723257882,
+      "stat": {
+        "view": 3359,
+        "vt": 0
+      },
+      "title": "第76场 东北大学 TDT战队 vs 东南大学 3SE战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "77": {
+      "aid": 1956306742,
+      "bvid": "BV1yy411i7A3",
+      "ctime": 1723261424,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/86f6e2e7a8ee6850757e84c2e558b23e5829304d.jpg",
+      "pubdate": 1723261424,
+      "stat": {
+        "view": 1525,
+        "vt": 0
+      },
+      "title": "第77场 北京理工大学 追梦战队 vs 广东工业大学 DynamicX战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "78": {
+      "aid": 1456387215,
+      "bvid": "BV1Vi421a7UQ",
+      "ctime": 1723262677,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/5c7fc9fc68cb40efbe5d802040be83966aed26be.jpg",
+      "pubdate": 1723262677,
+      "stat": {
+        "view": 1668,
+        "vt": 0
+      },
+      "title": "第78场 南昌大学 Passion战队 vs 华南农业大学 Taurus战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "79": {
+      "aid": 1106381609,
+      "bvid": "BV14w4m1k7Lb",
+      "ctime": 1723269610,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/8b360f88ff457e5d29c694b15b3634a98c891174.jpg",
+      "pubdate": 1723269610,
+      "stat": {
+        "view": 4155,
+        "vt": 0
+      },
+      "title": "第79场 上海交通大学 交龙战队 vs 太原工业学院 火线战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "8": {
+      "aid": 1356362296,
+      "bvid": "BV1Fz421i7dU",
+      "ctime": 1722931228,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/14a3ef17a589bce9819c79cb0f352423741d9680.jpg",
+      "pubdate": 1722931228,
+      "stat": {
+        "view": 1997,
+        "vt": 0
+      },
+      "title": "第8场 上海工程技术大学 木鸢Birdiebot战队 vs 哈尔滨工业大学（深圳） 南工骁鹰战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "80": {
+      "aid": 1006335806,
+      "bvid": "BV1nx4y147Vi",
+      "ctime": 1723270137,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/98fba67a55db9747fcffccdb3dbfa2c0944d8ad2.jpg",
+      "pubdate": 1723270137,
+      "stat": {
+        "view": 4011,
+        "vt": 0
+      },
+      "title": "第80场 浙江大学 Hello World战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "81": {
+      "aid": 1156353796,
+      "bvid": "BV1eZ421N7W8",
+      "ctime": 1723275094,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/cc16af642a3423e86fdff1afec5d3d659f11b632.jpg",
+      "pubdate": 1723275094,
+      "stat": {
+        "view": 1838,
+        "vt": 0
+      },
+      "title": "第81场 太原理工大学 TRoMaC战队 vs 西安交通大学 笃行战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "82": {
+      "aid": 1956434018,
+      "bvid": "BV1Cy411e7Sx",
+      "ctime": 1723276895,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/78cbde468c0154b5409a2f253e4aa6b391eda51d.jpg",
+      "pubdate": 1723276895,
+      "stat": {
+        "view": 2210,
+        "vt": 0
+      },
+      "title": "第82场 中国石油大学（华东） RPS战队 vs 深圳大学 RobotPilots战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "83": {
+      "aid": 1706412528,
+      "bvid": "BV1mT421673V",
+      "ctime": 1723281481,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/4d22e75a98ab742896378c815cb7b4878a5da689.jpg",
+      "pubdate": 1723281481,
+      "stat": {
+        "view": 1492,
+        "vt": 0
+      },
+      "title": "第83场 南昌大学 Passion战队 vs 太原工业学院 火线战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "84": {
+      "aid": 1056320258,
+      "bvid": "BV14H4y1c7gH",
+      "ctime": 1723282920,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3d5c27c84ad59a9448b426fe45f422c5ad90c745.jpg",
+      "pubdate": 1723282920,
+      "stat": {
+        "view": 2347,
+        "vt": 0
+      },
+      "title": "第84场 广东工业大学 DynamicX战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "85": {
+      "aid": 1406471509,
+      "bvid": "BV16r421K7Sv",
+      "ctime": 1723287874,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ede1c6b3265de7956830a5c6eaa2984c4dcca293.jpg",
+      "pubdate": 1723287873,
+      "stat": {
+        "view": 2736,
+        "vt": 0
+      },
+      "title": "第85场 西安交通大学 笃行战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "86": {
+      "aid": 1806264804,
+      "bvid": "BV12b421E7GA",
+      "ctime": 1723291676,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/31b39bec70378a95457d0ed83f7fa6be93823059.jpg",
+      "pubdate": 1723291676,
+      "stat": {
+        "view": 2798,
+        "vt": 0
+      },
+      "title": "第86场 深圳大学 RobotPilots战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "87": {
+      "aid": 1856386311,
+      "bvid": "BV1iW42197GM",
+      "ctime": 1723295536,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/68ac9c233270b609428b7b687aa154f07f44c106.jpg",
+      "pubdate": 1723295536,
+      "stat": {
+        "view": 3712,
+        "vt": 0
+      },
+      "title": "第87场 上海交通大学 交龙战队 vs 太原理工大学 TRoMaC战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "88": {
+      "aid": 1856406932,
+      "bvid": "BV1kW421975U",
+      "ctime": 1723300383,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/08fd8ccb0988f97bcfe6c82d8a4292b7c5ff7c86.jpg",
+      "pubdate": 1723300383,
+      "stat": {
+        "view": 5376,
+        "vt": 0
+      },
+      "title": "第88场 浙江大学 Hello World战队 vs 中国石油大学（华东） RPS战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "89": {
+      "aid": 1956279545,
+      "bvid": "BV1qy411i7Pw",
+      "ctime": 1723302172,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/137f351751d8f7ebeced56aa6fd92edde194e839.jpg",
+      "pubdate": 1723302171,
+      "stat": {
+        "view": 2638,
+        "vt": 0
+      },
+      "title": "第89场 南昌大学 Passion战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "9": {
+      "aid": 1406429122,
+      "bvid": "BV1Er421K7Ba",
+      "ctime": 1722932303,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4a6c94498c2f1f388d0528bf4a6e29754c5f8317.jpg",
+      "pubdate": 1722932303,
+      "stat": {
+        "view": 4128,
+        "vt": 0
+      },
+      "title": "第9场 北京理工大学珠海学院 毅恒战队 vs 上海交通大学 交龙战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "90": {
+      "aid": 1256491283,
+      "bvid": "BV1NE4m197nG",
+      "ctime": 1723305185,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d23e5704c7f56beaa9f3ad37019a4c1966afb196.jpg",
+      "pubdate": 1723305185,
+      "stat": {
+        "view": 5237,
+        "vt": 0
+      },
+      "title": "第90场 华南理工大学 华南虎战队 vs 深圳大学 RobotPilots战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "91": {
+      "aid": 1906253833,
+      "bvid": "BV1BS411w7tS",
+      "ctime": 1723344102,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d2a0d0fbb4ea34c57ff28e6311030386ec56a785.jpg",
+      "pubdate": 1723344102,
+      "stat": {
+        "view": 3977,
+        "vt": 0
+      },
+      "title": "第91场 太原理工大学 TRoMaC战队 vs 东北大学 TDT战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "92": {
+      "aid": 1406407399,
+      "bvid": "BV1pr421K7a5",
+      "ctime": 1723347095,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ee75ec855cc9b9f88180f3d876dc935821b3bade.jpg",
+      "pubdate": 1723347095,
+      "stat": {
+        "view": 3139,
+        "vt": 0
+      },
+      "title": "第92场 中国石油大学（华东） RPS战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "93": {
+      "aid": 1206415384,
+      "bvid": "BV1Cf421v7JV",
+      "ctime": 1723355982,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d674e0436ee32d07b3d4a7b767f931a72d5ff60c.jpg",
+      "pubdate": 1723355982,
+      "stat": {
+        "view": 8765,
+        "vt": 0
+      },
+      "title": "第93场 东北大学 TDT战队 vs 上海交通大学 交龙战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "94": {
+      "aid": 1406410753,
+      "bvid": "BV1Wr421K7B1",
+      "ctime": 1723356967,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3fc9382b16e2128809898c5a3b2b9f4a164d02f0.jpg",
+      "pubdate": 1723356967,
+      "stat": {
+        "view": 11334,
+        "vt": 0
+      },
+      "title": "第94场 浙江大学 Hello World战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "95": {
+      "aid": 1206266770,
+      "bvid": "BV1mf421q748",
+      "ctime": 1723368664,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/58bd735157ff4dec722c7d7a7a2f53e4a71921e2.jpg",
+      "pubdate": 1723368664,
+      "stat": {
+        "view": 9918,
+        "vt": 0
+      },
+      "title": "第95场 东北大学 TDT战队 vs 浙江大学 Hello World战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "96": {
+      "aid": 1856454230,
+      "bvid": "BV1dW42197TU",
+      "ctime": 1723372047,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/459d71c771842e300a82dc36462d79840ba4cb6a.jpg",
+      "pubdate": 1723372047,
+      "stat": {
+        "view": 33572,
+        "vt": 0
+      },
+      "title": "第96场 上海交通大学 交龙战队 vs 华南理工大学 华南虎战队 RoboMaster 2024 超级对抗赛·全国赛"
+    },
+    "97": {
+      "aid": 1906272086,
+      "bvid": "BV1YS411w78y",
+      "ctime": 1723378157,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/471f36675cadd11d3fb067e2af065db215026a02.jpg",
+      "pubdate": 1723378157,
+      "stat": {
+        "view": 20656,
+        "vt": 0
+      },
+      "title": "【一场比赛7000个技术点和梗】第97场 全明星赛 创新者 INNOVATOR vs 缔造者 CREATOR RoboMaster 2024 超级对抗赛·全国赛"
+    }
+  },
+  "南部赛区": {
+    "1": {
+      "aid": 1455269104,
+      "bvid": "BV1Fi421U7V7",
+      "ctime": 1717162939,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ad9b0939cc18c8ffc6df27700d9e6ef2319ab193.jpg",
+      "pubdate": 1717162939,
+      "stat": {
+        "view": 1282,
+        "vt": 0
+      },
+      "title": "第1场 北京邮电大学 鸿雁 战队 vs  宁波工程学院 New Legends 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "10": {
+      "aid": 1055229182,
+      "bvid": "BV1Qn4y1R7Ee",
+      "ctime": 1716971831,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/feffc286a11d923488249c3e93f7a5cb426d0045.jpg",
+      "pubdate": 1716971831,
+      "stat": {
+        "view": 1277,
+        "vt": 0
+      },
+      "title": "第10场 福建师范大学 Pikachu 战队 vs 北京信息科技大学 星辰 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "11": {
+      "aid": 1705042642,
+      "bvid": "BV1bT421i7w8",
+      "ctime": 1716979590,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/54cf094e69ac81275333347fdd50faf5139e8b16.jpg",
+      "pubdate": 1716979590,
+      "stat": {
+        "view": 258233,
+        "vt": 0
+      },
+      "title": "第11场 南京航空航天大学 长空御风 战队 vs  国防科技大学 军临 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "12": {
+      "aid": 1305216005,
+      "bvid": "BV1PM4m1z7sm",
+      "ctime": 1716979556,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/eb4d2006a238599cbdb9ed34454d186ecbd94bbd.jpg",
+      "pubdate": 1716979556,
+      "stat": {
+        "view": 2535,
+        "vt": 0
+      },
+      "title": "第12场 电子科技大学中山学院 RoboBraver 战队 vs 华南师范大学 PIONEER 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "13": {
+      "aid": 1005125448,
+      "bvid": "BV1Tx4y1n73u",
+      "ctime": 1716979533,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6a5ed63c3ac7f5abc3aeff50a04bf4c81efb7f8d.jpg",
+      "pubdate": 1716979533,
+      "stat": {
+        "view": 2816,
+        "vt": 0
+      },
+      "title": "第13场 哈尔滨工业大学（深圳）南工骁鹰 战队 vs 深圳技术大学 悍匠 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "14": {
+      "aid": 1855197603,
+      "bvid": "BV1cs421g73z",
+      "ctime": 1716979569,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/cc4d165f1c8a8d2c22c50c5e21da244f0bec7f67.jpg",
+      "pubdate": 1716979569,
+      "stat": {
+        "view": 2110,
+        "vt": 0
+      },
+      "title": "第14场 厦门大学 RCS 战队 vs 厦门理工学院 PFA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "15": {
+      "aid": 1105133939,
+      "bvid": "BV18w4m1S7U5",
+      "ctime": 1716994366,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b97c2205b78844f181de5b70972cfc079e270cb8.jpg",
+      "pubdate": 1716994366,
+      "stat": {
+        "view": 2946,
+        "vt": 0
+      },
+      "title": "第15场 东北大学 TDT 战队 vs 安徽信息工程学院 Artisans 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "16": {
+      "aid": 1455001908,
+      "bvid": "BV1Ji421S7HD",
+      "ctime": 1716994473,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/39e688d58b16a7f28ecbffa766055e3f19359739.jpg",
+      "pubdate": 1716994473,
+      "stat": {
+        "view": 1922,
+        "vt": 0
+      },
+      "title": "第16场 重庆大学 千里 战队 vs 湘潭大学 逐曦 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "17": {
+      "aid": 1805227190,
+      "bvid": "BV1Tb421i7oi",
+      "ctime": 1716993728,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2535db69c073e7afcc34e533165116d9e96599b3.jpg",
+      "pubdate": 1716993728,
+      "stat": {
+        "view": 1195,
+        "vt": 0
+      },
+      "title": "第17场 西南交通大学 Helios 战队 vs 五邑大学 IMCA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "18": {
+      "aid": 1405178618,
+      "bvid": "BV1ir421w7HA",
+      "ctime": 1716993752,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/88cad65cefe31993dcebcb2581bdf8d15ba3e20a.jpg",
+      "pubdate": 1716993752,
+      "stat": {
+        "view": 1402,
+        "vt": 0
+      },
+      "title": "第18场 深圳职业技术大学 RCIA 战队 vs 北京理工大学珠海学院 毅恒 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "19": {
+      "aid": 1305188050,
+      "bvid": "BV1iM4m1r7DA",
+      "ctime": 1716993722,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/72cf1f1fe1540764f83b8324883320e357c289e9.jpg",
+      "pubdate": 1716993722,
+      "stat": {
+        "view": 1440,
+        "vt": 0
+      },
+      "title": "第19场 西安交通大学 笃行战队 vs 湖南大学 跃鹿 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "2": {
+      "aid": 1605493588,
+      "bvid": "BV1Qm421576c",
+      "ctime": 1717164683,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ec73540c8ffc4be22f53cf2b9bd96bef4c961bf9.jpg",
+      "pubdate": 1717164683,
+      "stat": {
+        "view": 654,
+        "vt": 0
+      },
+      "title": "第2场 宁波诺丁汉大学 AIM 战队 vs  云南大学 Future 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "20": {
+      "aid": 1605141818,
+      "bvid": "BV1um421N7k3",
+      "ctime": 1716994080,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/10987f505f98e45d066d9850a4398491f84a5b13.jpg",
+      "pubdate": 1716994080,
+      "stat": {
+        "view": 2303,
+        "vt": 0
+      },
+      "title": "第20场 桂林电子科技大学 Evolution 战队 vs 深圳大学 RobotPilots 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "21": {
+      "aid": 1705116867,
+      "bvid": "BV1cT421q75s",
+      "ctime": 1717051197,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/20b9baf550c7e188c42e9c28f6c90436be1c87c9.jpg",
+      "pubdate": 1717051197,
+      "stat": {
+        "view": 1514,
+        "vt": 0
+      },
+      "title": "第21场 中南大学 FYT 战队 vs 桂林电子科技大学北海校区 破浪笃行 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "22": {
+      "aid": 1705073429,
+      "bvid": "BV1qT421i7Nn",
+      "ctime": 1717051282,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/996f384bae5e17f86707f0079b213f2d28446cb0.jpg",
+      "pubdate": 1717051282,
+      "stat": {
+        "view": 1020,
+        "vt": 0
+      },
+      "title": "第22场 南华大学 MA 战队 vs 河北工业大学 山海Mas战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "23": {
+      "aid": 1155249523,
+      "bvid": "BV1KZ421s7fK",
+      "ctime": 1717051187,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3f5177cebf4d4786ce48f6f7b8780f0cbe0afe18.jpg",
+      "pubdate": 1717051187,
+      "stat": {
+        "view": 1304,
+        "vt": 0
+      },
+      "title": "第23场 桂林理工大学 群星 战队 vs 佛山大学 醒狮 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "24": {
+      "aid": 1455234169,
+      "bvid": "BV1mi421m7r4",
+      "ctime": 1717051100,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/82b696d4dad8bcf213f678bdad5c195051d410ef.jpg",
+      "pubdate": 1717051100,
+      "stat": {
+        "view": 1342,
+        "vt": 0
+      },
+      "title": "第24场 华南农业大学 Taurus 战队 vs 北京科技大学 Reborn 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "25": {
+      "aid": 1905094143,
+      "bvid": "BV18U411d7Aw",
+      "ctime": 1717051638,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/0304a4a8745001e8a0618d8cc092374a356532ba.jpg",
+      "pubdate": 1717051638,
+      "stat": {
+        "view": 1514,
+        "vt": 0
+      },
+      "title": "第25场 大连理工大学 凌BUG 战队 vs 哈尔滨工业大学（深圳）南工骁鹰 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "26": {
+      "aid": 1355194521,
+      "bvid": "BV1Xz421a7EC",
+      "ctime": 1717051395,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/c53f909d7e170340fec9618803166d67783e6655.jpg",
+      "pubdate": 1717051395,
+      "stat": {
+        "view": 927,
+        "vt": 0
+      },
+      "title": "第26场 厦门大学 RCS 战队 vs 重庆大学 千里 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "27": {
+      "aid": 1155138623,
+      "bvid": "BV1YZ421W7wZ",
+      "ctime": 1717052013,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b43675b1aaf2b2978f356c0a68b30fbc1ceabf75.jpg",
+      "pubdate": 1717052013,
+      "stat": {
+        "view": 1733,
+        "vt": 0
+      },
+      "title": "第27场 国防科技大学 军临 战队 vs北京信息科技大学 星辰 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "28": {
+      "aid": 1105086588,
+      "bvid": "BV1Pw4m1S72N",
+      "ctime": 1717051226,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ebc2add6c14567bd8b4844a34aa99f15195c053f.jpg",
+      "pubdate": 1717051226,
+      "stat": {
+        "view": 4440,
+        "vt": 0
+      },
+      "title": "第28场 电子科技大学中山学院 RoboBraver 战队 vs 东北大学 TDT 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "29": {
+      "aid": 1255033532,
+      "bvid": "BV1eJ4m1w77k",
+      "ctime": 1717064489,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/196e0deb65f0f99f7d0b484046b377a1d7951689.jpg",
+      "pubdate": 1717064489,
+      "stat": {
+        "view": 1115,
+        "vt": 0
+      },
+      "title": "第29场 湘潭大学 逐曦 战队 vs 厦门理工学院 PFA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "3": {
+      "aid": 1455497550,
+      "bvid": "BV1yi421v7Yk",
+      "ctime": 1717164407,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/df0f64b6edf2081b8c98eb043c954538d472dde8.jpg",
+      "pubdate": 1717164407,
+      "stat": {
+        "view": 757,
+        "vt": 0
+      },
+      "title": "第3场 仲恺农业工程学院 奇点 战队 vs  北京邮电大学 鸿雁 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "30": {
+      "aid": 1555202567,
+      "bvid": "BV1L14212751",
+      "ctime": 1717064009,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f80ace3d903f90cd0a8864e2643297fe7bcc08ac.jpg",
+      "pubdate": 1717064009,
+      "stat": {
+        "view": 1440,
+        "vt": 0
+      },
+      "title": "第30场 深圳技术大学 悍匠 战队 vs  广州城市理工学院 野狼 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "31": {
+      "aid": 1355225473,
+      "bvid": "BV1cz421Y7Ev",
+      "ctime": 1717063963,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f224eb40ceb9b9e9f2de4247d04dbbf7d7a706d3.jpg",
+      "pubdate": 1717063963,
+      "stat": {
+        "view": 1083,
+        "vt": 0
+      },
+      "title": "第31场 安徽信息工程学院 Artisans 战队 vs 华南师范大学 PIONEER 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "32": {
+      "aid": 1505043018,
+      "bvid": "BV1sD42137HT",
+      "ctime": 1717064784,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/47b0eb3ed3e4f9d80466a81d901e735172604396.jpg",
+      "pubdate": 1717064784,
+      "stat": {
+        "view": 889,
+        "vt": 0
+      },
+      "title": "第32场 福建师范大学 Pikachu 战队 vs 南京航空航天大学 长空御风 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "33": {
+      "aid": 1105230692,
+      "bvid": "BV1pw4m1i7HV",
+      "ctime": 1717064019,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b61e996e278156b153cf1863af03fcf0583609e5.jpg",
+      "pubdate": 1717064019,
+      "stat": {
+        "view": 1900,
+        "vt": 0
+      },
+      "title": "第33场 五邑大学 IMCA 战队 vs 深圳大学 RobotPilots 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "34": {
+      "aid": 1355242328,
+      "bvid": "BV1dz421a7iB",
+      "ctime": 1717064066,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e73e402f83fb7ffe93a5e40251f293063a8e2436.jpg",
+      "pubdate": 1717064066,
+      "stat": {
+        "view": 941,
+        "vt": 0
+      },
+      "title": "第34场 西安交通大学 笃行战队 vs 深圳职业技术大学 RCIA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "35": {
+      "aid": 1755091688,
+      "bvid": "BV1tt421N7kN",
+      "ctime": 1717069266,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/d903fa0492aad71ac712569d16446ebce83c07cf.jpg",
+      "pubdate": 1717069266,
+      "stat": {
+        "view": 1206,
+        "vt": 0
+      },
+      "title": "第35场 华南农业大学 Taurus 战队 vs 湖南大学 跃鹿 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "36": {
+      "aid": 1305077774,
+      "bvid": "BV1QM4m167SH",
+      "ctime": 1717069304,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/1563fe830d86bb3875cfdfb8f1a05043d4a1c6dd.jpg",
+      "pubdate": 1717069304,
+      "stat": {
+        "view": 1282,
+        "vt": 0
+      },
+      "title": "第36场 佛山大学 醒狮 战队 vs 中南大学 FYT 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "37": {
+      "aid": 1705037996,
+      "bvid": "BV14T421i7ro",
+      "ctime": 1717073991,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b6fa090ce7647457aa3a651299ac87d142492c4d.jpg",
+      "pubdate": 1717073991,
+      "stat": {
+        "view": 1606,
+        "vt": 0
+      },
+      "title": "第37场 桂林电子科技大学 Evolution 战队 vs 西南交通大学 Helios 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "38": {
+      "aid": 1405054059,
+      "bvid": "BV1Hr421L7DC",
+      "ctime": 1717074465,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c105697f76fd466375970989732da6e6923e9bad.jpg",
+      "pubdate": 1717074465,
+      "stat": {
+        "view": 855,
+        "vt": 0
+      },
+      "title": "第38场 南华大学 MA 战队 vs 北京理工大学珠海学院 毅恒 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "39": {
+      "aid": 1655243936,
+      "bvid": "BV197421d7Ru",
+      "ctime": 1717075617,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3383d7ea75dc4a8b2b7d6a87a9211fcedc1a7ee4.jpg",
+      "pubdate": 1717075616,
+      "stat": {
+        "view": 2211,
+        "vt": 0
+      },
+      "title": "第39场 电子科技大学中山学院 RoboBraver 战队 vs 国防科技大学 军临 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "4": {
+      "aid": 1305319984,
+      "bvid": "BV1vM4m1z7kk",
+      "ctime": 1717243083,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b3105d736ca876030941cd25f89213b3bda84c5f.jpg",
+      "pubdate": 1717243083,
+      "stat": {
+        "view": 1841,
+        "vt": 0
+      },
+      "title": "第4场 云南大学 Future 战队 vs仲恺农业工程学院 奇点 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "40": {
+      "aid": 1955071087,
+      "bvid": "BV1vy41187zs",
+      "ctime": 1717077393,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3d0022af0dbba9bd7c90eef62a4a5fec1349c226.jpg",
+      "pubdate": 1717077393,
+      "stat": {
+        "view": 1861,
+        "vt": 0
+      },
+      "title": "第40场 重庆大学 千里 战队 vs  哈尔滨工业大学（深圳）南工骁鹰 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "41": {
+      "aid": 1655462655,
+      "bvid": "BV1u7421R76E",
+      "ctime": 1717125882,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/9be90b02a3042e59a5e966bae602700e96cf9f53.jpg",
+      "pubdate": 1717125882,
+      "stat": {
+        "view": 1098,
+        "vt": 0
+      },
+      "title": "第41场 大连理工大学 凌BUG 战队 vs  厦门大学 RCS 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "42": {
+      "aid": 1205487084,
+      "bvid": "BV14f421X7bL",
+      "ctime": 1717125835,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/241f3e8ce3290dd3be009cb5edc6262e3101d63d.jpg",
+      "pubdate": 1717125835,
+      "stat": {
+        "view": 1616,
+        "vt": 0
+      },
+      "title": "第42场 华南师范大学 PIONEER 战队 vs  东北大学 TDT 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "43": {
+      "aid": 1155403119,
+      "bvid": "BV13Z421p7eh",
+      "ctime": 1717125841,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/050218ce729f24384da76515500306f2cae10917.jpg",
+      "pubdate": 1717125841,
+      "stat": {
+        "view": 1196,
+        "vt": 0
+      },
+      "title": "第43场 北京信息科技大学 星辰 战队 vs  南京航空航天大学 长空御风 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "44": {
+      "aid": 1105387149,
+      "bvid": "BV1gw4m1q7Gd",
+      "ctime": 1717127342,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/5e0a9c4b92baaeb6f28a51e1dde200f965bc0214.jpg",
+      "pubdate": 1717127342,
+      "stat": {
+        "view": 1329,
+        "vt": 0
+      },
+      "title": "第44场 厦门理工学院 PFA 战队 vs  广州城市理工学院 野狼 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "45": {
+      "aid": 1905370295,
+      "bvid": "BV1uS411K7rr",
+      "ctime": 1717146523,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/4dd0304214b36af890af06ae94bbf9d448703274.jpg",
+      "pubdate": 1717146523,
+      "stat": {
+        "view": 1722,
+        "vt": 0
+      },
+      "title": "第45场 哈尔滨工业大学（深圳）南工骁鹰 战队 vs  北京理工大学珠海学院 毅恒 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "46": {
+      "aid": 1555412867,
+      "bvid": "BV1B1421y7V4",
+      "ctime": 1717146550,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d11295734367f515d18ceb60401b997f1dc5d147.jpg",
+      "pubdate": 1717146550,
+      "stat": {
+        "view": 1484,
+        "vt": 0
+      },
+      "title": "第46场 深圳职业技术大学 RCIA 战队 vs  东北大学 TDT 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "47": {
+      "aid": 1705449549,
+      "bvid": "BV1cT421i7y1",
+      "ctime": 1717146510,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f95c4166456ce5d5244e09324fdf7fea3e47d20b.jpg",
+      "pubdate": 1717146510,
+      "stat": {
+        "view": 1994,
+        "vt": 0
+      },
+      "title": "第47场 华南农业大学 Taurus 战队 vs  电子科技大学中山学院 RoboBraver 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "48": {
+      "aid": 1105376577,
+      "bvid": "BV1Ew4m1q7PC",
+      "ctime": 1717146612,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/ac1c1ff8058d707479afde72b69ca8b4b3e3eb9c.jpg",
+      "pubdate": 1717146611,
+      "stat": {
+        "view": 1288,
+        "vt": 0
+      },
+      "title": "第48场 重庆大学 千里 战队 vs  五邑大学 IMCA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "49": {
+      "aid": 1405417671,
+      "bvid": "BV1Tr421c7Hp",
+      "ctime": 1717162871,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f3f4025a8a65eb3b9ba4fae611c24c1ca528f945.jpg",
+      "pubdate": 1717162871,
+      "stat": {
+        "view": 1359,
+        "vt": 0
+      },
+      "title": "第49场 西安交通大学 笃行战队 vs  广州城市理工学院 野狼 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "5": {
+      "aid": 1805483983,
+      "bvid": "BV1eb421e74P",
+      "ctime": 1717242294,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ce75f424016f01aa784c377b4441de3c3376dbd4.jpg",
+      "pubdate": 1717242294,
+      "stat": {
+        "view": 1001,
+        "vt": 0
+      },
+      "title": "第5场 宁波工程学院 New Legends 战队 vs宁波诺丁汉大学 AIM 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "50": {
+      "aid": 1355268767,
+      "bvid": "BV1Nz421Y7Bm",
+      "ctime": 1717164298,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/962f9a0c31996fff9f049500bb1d3e97acb81295.jpg",
+      "pubdate": 1717164297,
+      "stat": {
+        "view": 217779,
+        "vt": 0
+      },
+      "title": "第50场 国防科技大学 军临 战队 vs  桂林电子科技大学 Evolution 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "51": {
+      "aid": 1655482470,
+      "bvid": "BV1x7421R7W3",
+      "ctime": 1717164367,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/d85699231cf746ae2a6f8517fa51c864b4f507d1.jpg",
+      "pubdate": 1717164367,
+      "stat": {
+        "view": 4575,
+        "vt": 0
+      },
+      "title": "第51场 南京航空航天大学 长空御风 战队 vs  深圳大学 RobotPilots 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "52": {
+      "aid": 1705317132,
+      "bvid": "BV1HT421v7Be",
+      "ctime": 1717165300,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/71c803c58b9e0fad491d0eb4479f3a2ef94513d5.jpg",
+      "pubdate": 1717165300,
+      "stat": {
+        "view": 3264,
+        "vt": 0
+      },
+      "title": "第52场 中南大学 FYT 战队 vs  大连理工大学 凌BUG 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "53": {
+      "aid": 1255489112,
+      "bvid": "BV1xJ4m1g7i7",
+      "ctime": 1717166417,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e1f45a94a889c0937c39f2a33ccddc91f92db9e1.jpg",
+      "pubdate": 1717166417,
+      "stat": {
+        "view": 6460,
+        "vt": 0
+      },
+      "title": "第53场 东北大学 TDT 战队 vs  哈尔滨工业大学（深圳）南工骁鹰 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "54": {
+      "aid": 1655290451,
+      "bvid": "BV1M7421o7up",
+      "ctime": 1717166406,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/f2a4de89aa435d27fa6c3adf0fc11b52ce7d34d0.jpg",
+      "pubdate": 1717166406,
+      "stat": {
+        "view": 2579,
+        "vt": 0
+      },
+      "title": "第54场 电子科技大学中山学院 RoboBraver 战队 vs  五邑大学 IMCA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "55": {
+      "aid": 1505351515,
+      "bvid": "BV1TD421g7DC",
+      "ctime": 1717211594,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/294d7e9b66b458fd121a10c1948eda2db4c02f3a.jpg",
+      "pubdate": 1717211594,
+      "stat": {
+        "view": 3420,
+        "vt": 0
+      },
+      "title": "第55场 桂林电子科技大学 Evolution 战队 vs  西安交通大学 笃行战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "56": {
+      "aid": 1155272314,
+      "bvid": "BV1hZ421H76y",
+      "ctime": 1717211843,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/8441c8c49e83fadd7e85d59baa61c088e46d9b5b.jpg",
+      "pubdate": 1717211843,
+      "stat": {
+        "view": 2765,
+        "vt": 0
+      },
+      "title": "第56场 深圳大学 RobotPilots 战队 vs  中南大学 FYT 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "57": {
+      "aid": 1755355576,
+      "bvid": "BV1H4421X7r6",
+      "ctime": 1717234712,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/56b52c311d917da905997ad9ca385b671cd511f0.jpg",
+      "pubdate": 1717234712,
+      "stat": {
+        "view": 1181,
+        "vt": 0
+      },
+      "title": "第57场 北京理工大学珠海学院 毅恒 战队 vs  深圳职业技术大学 RCIA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "58": {
+      "aid": 1955492135,
+      "bvid": "BV19y411b7X5",
+      "ctime": 1717234012,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/4d1781778cdcddcfcb71d92c2a04272f056738bf.jpg",
+      "pubdate": 1717234012,
+      "stat": {
+        "view": 1014,
+        "vt": 0
+      },
+      "title": "第58场 重庆大学 千里 战队 vs  华南农业大学 Taurus 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "59": {
+      "aid": 1505318920,
+      "bvid": "BV1oD421u7i7",
+      "ctime": 1717234140,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fa2f5b5bbc3c9f932ba23900be7603492395c554.jpg",
+      "pubdate": 1717234140,
+      "stat": {
+        "view": 1203,
+        "vt": 0
+      },
+      "title": "第59场 广州城市理工学院 野狼 战队 vs  国防科技大学 军临 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "6": {
+      "aid": 1755062139,
+      "bvid": "BV17t421N7u4",
+      "ctime": 1716971967,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/d7842026aed0a4c676d641d8c09bf1c7969c2458.jpg",
+      "pubdate": 1716971967,
+      "stat": {
+        "view": 1346,
+        "vt": 0
+      },
+      "title": "第6场 北京理工大学珠海学院 毅恒 战队 vs 桂林理工大学 群星 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "60": {
+      "aid": 1855255144,
+      "bvid": "BV1Ms421g7vU",
+      "ctime": 1717234039,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/3c79f0b0672c1eadebca925edd09e7117d30321d.jpg",
+      "pubdate": 1717234039,
+      "stat": {
+        "view": 1367,
+        "vt": 0
+      },
+      "title": "第60场 大连理工大学 凌BUG 战队 vs  南京航空航天大学 长空御风 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "61": {
+      "aid": 1405436410,
+      "bvid": "BV15r421c7M7",
+      "ctime": 1717233990,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/14821199a1015aa6273e8793f365f19c99d748af.jpg",
+      "pubdate": 1717233990,
+      "stat": {
+        "view": 3233,
+        "vt": 0
+      },
+      "title": "第61场 东北大学 TDT 战队 vs  桂林电子科技大学 Evolution 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "62": {
+      "aid": 1655458733,
+      "bvid": "BV1M7421R7Yh",
+      "ctime": 1717234303,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/1fdfb2394b97952786d98c2d582a4771f9c6a72f.jpg",
+      "pubdate": 1717234303,
+      "stat": {
+        "view": 3428,
+        "vt": 0
+      },
+      "title": "第62场 电子科技大学中山学院 RoboBraver 战队 vs  深圳大学 RobotPilots 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "63": {
+      "aid": 1705296878,
+      "bvid": "BV1NT421v71k",
+      "ctime": 1717234401,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3bd1e0e7c5d360de721a1a40635b6c6620552bfd.jpg",
+      "pubdate": 1717234401,
+      "stat": {
+        "view": 3805,
+        "vt": 0
+      },
+      "title": "第63场 北京理工大学珠海学院 毅恒 战队 vs  国防科技大学 军临 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "64": {
+      "aid": 1805449045,
+      "bvid": "BV1sb421e7nh",
+      "ctime": 1717234418,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/df650238e80b7f05fe8638bb89d399c37cc015eb.jpg",
+      "pubdate": 1717234418,
+      "stat": {
+        "view": 2528,
+        "vt": 0
+      },
+      "title": "第64场 华南农业大学 Taurus 战队 vs   南京航空航天大学 长空御风 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "65": {
+      "aid": 1905348710,
+      "bvid": "BV19S411N736",
+      "ctime": 1717242320,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/973cf204e04ff179982873b68e1177175660b716.jpg",
+      "pubdate": 1717242320,
+      "stat": {
+        "view": 3609,
+        "vt": 0
+      },
+      "title": "第65场 桂林电子科技大学 Evolution 战队 vs   深圳大学 RobotPilots 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "66": {
+      "aid": 1855484589,
+      "bvid": "BV1qs421M7RP",
+      "ctime": 1717242650,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/ef78dcbd96361e45829e4e2cc3dd9fa7bfea08ad.jpg",
+      "pubdate": 1717242649,
+      "stat": {
+        "view": 26476,
+        "vt": 0
+      },
+      "title": "第66场 东北大学 TDT 战队 vs 电子科技大学中山学院 RoboBraver 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "7": {
+      "aid": 1555078257,
+      "bvid": "BV1v142117sQ",
+      "ctime": 1716971825,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/01b8eac8fd09e1a51f92e319e66d52ceb3d90fdf.jpg",
+      "pubdate": 1716971825,
+      "stat": {
+        "view": 6619,
+        "vt": 0
+      },
+      "title": "第7场 桂林电子科技大学 Evolution 战队 vs 桂林电子科技大学北海校区 破浪笃行 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "8": {
+      "aid": 1955171342,
+      "bvid": "BV1Ny411h7je",
+      "ctime": 1716971490,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e3545bc728bf0efb0482f35de29db1ea65df9ae8.jpg",
+      "pubdate": 1716971490,
+      "stat": {
+        "view": 1463,
+        "vt": 0
+      },
+      "title": "第8场 佛山大学 醒狮 战队 vs 深圳职业技术大学 RCIA 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    },
+    "9": {
+      "aid": 1155100148,
+      "bvid": "BV1uZ421W7a2",
+      "ctime": 1716972101,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/091973d9edfbe1e99ccf35053ee829f44f659ac1.jpg",
+      "pubdate": 1716972101,
+      "stat": {
+        "view": 1521,
+        "vt": 0
+      },
+      "title": "第9场 大连理工大学 凌BUG 战队 vs 广州城市理工学院 野狼 战队 RoboMaster 2024 超级对抗赛 南部赛区"
+    }
+  },
+  "复活赛第二赛段": {
+    "23": {
+      "aid": 1806392884,
+      "bvid": "BV1sb421J72N",
+      "ctime": 1722759690,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/a93f0c21d70a0631f06894ac47c0701f603f81d6.jpg",
+      "pubdate": 1722759690,
+      "stat": {
+        "view": 1106,
+        "vt": 0
+      },
+      "title": "第23场 天津大学 北洋机甲战队 vs 上海工程技术大学 木鸢Birdiebot战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "24": {
+      "aid": 1656286635,
+      "bvid": "BV1AE421w791",
+      "ctime": 1722760360,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0f300cb81177d3510aa603338dceb9e60782017a.jpg",
+      "pubdate": 1722760360,
+      "stat": {
+        "view": 1146,
+        "vt": 0
+      },
+      "title": "第24场 深圳职业技术大学 RCIA战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "25": {
+      "aid": 1356275586,
+      "bvid": "BV1pz421B7QB",
+      "ctime": 1722762145,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/839136144562922e878181b2f098add23a36ee4f.jpg",
+      "pubdate": 1722762145,
+      "stat": {
+        "view": 1690,
+        "vt": 0
+      },
+      "title": "第25场 中国科学技术大学 RoboWalker战队 vs 香港科技大学 ENTERPRIZE战队 RoboMaster 2024 超级对抗赛"
+    },
+    "26": {
+      "aid": 1056497846,
+      "bvid": "BV1hn4y1f78t",
+      "ctime": 1722767785,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/cefee1d2759d84f8c94201611880ff83c1bb5b63.jpg",
+      "pubdate": 1722767785,
+      "stat": {
+        "view": 1167,
+        "vt": 0
+      },
+      "title": "第26场 香港大学 HerKules战队 vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "27": {
+      "aid": 1106346594,
+      "bvid": "BV17w4m1k7wx",
+      "ctime": 1722825441,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/3039e66e1e18d91972e809e9c97f26d7c42581e4.jpg",
+      "pubdate": 1722825441,
+      "stat": {
+        "view": 1014,
+        "vt": 0
+      },
+      "title": "第27场 华北科技学院 风暴战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "28": {
+      "aid": 1406447613,
+      "bvid": "BV1Yr421K7B9",
+      "ctime": 1722825416,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/b0948c1105de64508cbd279cdcc7cc446ea3cb37.jpg",
+      "pubdate": 1722825416,
+      "stat": {
+        "view": 712,
+        "vt": 0
+      },
+      "title": "第28场 上海工程技术大学 木鸢Birdiebot战队 vs 中国科学技术大学 RoboWalker战队 RoboMaster 2024 超级对抗赛"
+    },
+    "29": {
+      "aid": 1706328654,
+      "bvid": "BV1YT421677J",
+      "ctime": 1722828375,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/b16e119f273301ee6056098b58e897228893f46e.jpg",
+      "pubdate": 1722828375,
+      "stat": {
+        "view": 2304,
+        "vt": 0
+      },
+      "title": "第29场 天津大学 北洋机甲战队 vs 香港科技大学 ENTERPRIZE战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "30": {
+      "aid": 1406267700,
+      "bvid": "BV13r421M7V7",
+      "ctime": 1722830378,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/6958e5f42f896800f7e87c94d9279c9a02ac21e6.jpg",
+      "pubdate": 1722830378,
+      "stat": {
+        "view": 1359,
+        "vt": 0
+      },
+      "title": "第30场 香港大学 HerKules战队 vs 深圳职业技术大学 RCIA战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "31": {
+      "aid": 1856302450,
+      "bvid": "BV1fW421X7Lo",
+      "ctime": 1722851731,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/ebbe2a2c3a5b8a65eee1f56949849de271af77d7.jpg",
+      "pubdate": 1722851731,
+      "stat": {
+        "view": 1038,
+        "vt": 0
+      },
+      "title": "第31场 上海工程技术大学 木鸢Birdiebot战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛"
+    },
+    "32": {
+      "aid": 1006381920,
+      "bvid": "BV1Ax4y1s73e",
+      "ctime": 1722851473,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/6f5efcde92181595592840225b68139b790e8190.jpg",
+      "pubdate": 1722851473,
+      "stat": {
+        "view": 804,
+        "vt": 0
+      },
+      "title": "第32场 华北科技学院 风暴战队 vs 中国科学技术大学 RoboWalker战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "33": {
+      "aid": 1006269366,
+      "bvid": "BV1cx4y147cL",
+      "ctime": 1722851532,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3c3f5f5129007ebb7b167c8af823c7f60d542a10.jpg",
+      "pubdate": 1722851532,
+      "stat": {
+        "view": 1556,
+        "vt": 0
+      },
+      "title": "第33场 深圳职业技术大学 RCIA战队 vs 香港科技大学 ENTERPRIZE战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "34": {
+      "aid": 1706454056,
+      "bvid": "BV1FT421r7wU",
+      "ctime": 1722861307,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e021afd2edff26783d17d4c336c954dd5ebc04d6.jpg",
+      "pubdate": 1722861307,
+      "stat": {
+        "view": 1549,
+        "vt": 0
+      },
+      "title": "第34场 华北科技学院 风暴战队 vs 香港科技大学 ENTERPRIZE战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "35": {
+      "aid": 1906459351,
+      "bvid": "BV1NU411S74P",
+      "ctime": 1722911517,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/c53d3ee8392067a33061f76a3bd9ba7870dcd8a0.jpg",
+      "pubdate": 1722911517,
+      "stat": {
+        "view": 1082,
+        "vt": 0
+      },
+      "title": "第35场 南京航空航天大学 长空御风战队 vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    }
+  },
+  "港澳台及海外赛区\u0026复活赛第一赛段": {
+    "1": {
+      "aid": 1906374638,
+      "bvid": "BV1BU411U7z8",
+      "ctime": 1722614458,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/0788ec5b7885d05e5b707220b6f8f757ca762dfc.jpg",
+      "pubdate": 1722614458,
+      "stat": {
+        "view": 10041,
+        "vt": 0
+      },
+      "title": "第1场 华北科技学院 风暴战队 vs 广州城市理工学院 野狼战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "10": {
+      "aid": 1156411241,
+      "bvid": "BV1rZ421N7r4",
+      "ctime": 1722679035,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/1fd25a8901374e9427ef31da40d7ed346e043dbb.jpg",
+      "pubdate": 1722679035,
+      "stat": {
+        "view": 944,
+        "vt": 0
+      },
+      "title": "第10场 天津大学 北洋机甲战队 vs 华北科技学院 风暴战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "11": {
+      "aid": 1306453774,
+      "bvid": "BV15M4m117qH",
+      "ctime": 1722680639,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/77c215c2e185ee84dc8c460f4ccd6f363b14d473.jpg",
+      "pubdate": 1722680639,
+      "stat": {
+        "view": 1357,
+        "vt": 0
+      },
+      "title": "第11场 哈尔滨工程大学 创梦之翼战队 vs 广州城市理工学院 野狼战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "12": {
+      "aid": 1406309240,
+      "bvid": "BV1er421M7Lf",
+      "ctime": 1722680718,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/1169069ededcb688df5e7e389a7bda4726e002de.jpg",
+      "pubdate": 1722680718,
+      "stat": {
+        "view": 1199,
+        "vt": 0
+      },
+      "title": "第12场 重庆大学 千里战队 vs 南京航空航天大学金城学院 Born of Fire战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "13": {
+      "aid": 1006431892,
+      "bvid": "BV1Tx4y1s7zT",
+      "ctime": 1722681572,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/43ad5239cd937ba7eb35dfdeba7627be67898d93.jpg",
+      "pubdate": 1722681571,
+      "stat": {
+        "view": 1118,
+        "vt": 0
+      },
+      "title": "第13场 深圳职业技术大学 RCIA战队 vs 齐鲁工业大学 Adam战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "14": {
+      "aid": 1706414758,
+      "bvid": "BV1ST42167Kf",
+      "ctime": 1722685643,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/abbc842cb811cc595fff62758580ef027232a942.jpg",
+      "pubdate": 1722685643,
+      "stat": {
+        "view": 1289,
+        "vt": 0
+      },
+      "title": "第14场 大连理工大学 凌BUG战队 vs 上海工程技术大学 木鸢Birdiebot战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "15": {
+      "aid": 1356346978,
+      "bvid": "BV1Nz421i7bR",
+      "ctime": 1722696838,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/dec354a86b021243c240489867f241462d387734.jpg",
+      "pubdate": 1722696838,
+      "stat": {
+        "view": 1201,
+        "vt": 0
+      },
+      "title": "第15场 东莞理工学院 ACE战队 vs 南京理工大学 Alliance战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "16": {
+      "aid": 1556311110,
+      "bvid": "BV15142187nR",
+      "ctime": 1722701123,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/12673e640427da3ee4e89fcb95cefe0c219ab36a.jpg",
+      "pubdate": 1722701123,
+      "stat": {
+        "view": 20891,
+        "vt": 0
+      },
+      "title": "第16场 中国科学技术大学 RoboWalker战队 vs 国防科技大学 军临战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "17": {
+      "aid": 1906341847,
+      "bvid": "BV1tU411U79S",
+      "ctime": 1722736943,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/01284c98e86dd4ebbf2c76e6752b29a6eb54e220.jpg",
+      "pubdate": 1722736943,
+      "stat": {
+        "view": 1880,
+        "vt": 0
+      },
+      "title": "第17场 中国石油大学（华东） RPS战队 vs 天津大学 北洋机甲战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "18": {
+      "aid": 1456438081,
+      "bvid": "BV1Ei421a7BM",
+      "ctime": 1722738731,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/eee8c2d29436539c9452363a5f5a0c17952d0e1e.jpg",
+      "pubdate": 1722738730,
+      "stat": {
+        "view": 1224,
+        "vt": 0
+      },
+      "title": "第18场 华北科技学院 风暴战队 vs 哈尔滨工程大学 创梦之翼战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "19": {
+      "aid": 1506282501,
+      "bvid": "BV1YS421X7HP",
+      "ctime": 1722743232,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/6db59b96ee6357f22d55387f41c308636e1de9f9.jpg",
+      "pubdate": 1722743232,
+      "stat": {
+        "view": 1096,
+        "vt": 0
+      },
+      "title": "第19场 南京航空航天大学金城学院 Born of Fire战队 vs 南京航空航天大学 长空御风战队 RoboMaster 2024 超级对抗赛"
+    },
+    "2": {
+      "aid": 1956444051,
+      "bvid": "BV12y411e7uE",
+      "ctime": 1722614469,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/a1effe55e4872dbefbb3e96c190205012edcef0b.jpg",
+      "pubdate": 1722614469,
+      "stat": {
+        "view": 3046,
+        "vt": 0
+      },
+      "title": "第2场 南京航空航天大学 长空御风战队 vs 重庆大学 千里战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "20": {
+      "aid": 1106320474,
+      "bvid": "BV1Tw4m1k7xJ",
+      "ctime": 1722743719,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/e6b5e714886f3e437c6d11cfa2713070627fdd45.jpg",
+      "pubdate": 1722743719,
+      "stat": {
+        "view": 1183,
+        "vt": 0
+      },
+      "title": "第20场 齐鲁工业大学 Adam战队 vs 上海工程技术大学 木鸢Birdiebot战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "21": {
+      "aid": 1206262922,
+      "bvid": "BV11f421q7kT",
+      "ctime": 1722752144,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/b94f3511b8b31062b8de542c84759f38687e7a5d.jpg",
+      "pubdate": 1722752144,
+      "stat": {
+        "view": 4182,
+        "vt": 0
+      },
+      "title": "第21场 大连理工大学 凌BUG战队 vs 深圳职业技术大学 RCIA战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "22": {
+      "aid": 1406379172,
+      "bvid": "BV1Rr421M7xc",
+      "ctime": 1722750763,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/fdad7341cd869dcb5ae5ca8384ca1d0652b5176d.jpg",
+      "pubdate": 1722750763,
+      "stat": {
+        "view": 1856,
+        "vt": 0
+      },
+      "title": "第22场 南京理工大学 Alliance战队 vs 中国科学技术大学 RoboWalker战队 RoboMaster 2024 超级对抗赛"
+    },
+    "3": {
+      "aid": 1406387866,
+      "bvid": "BV1mr421M7LA",
+      "ctime": 1722614444,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/2f7ac7ac757737fef0f9ffed32584f7b4dba4ce7.jpg",
+      "pubdate": 1722614444,
+      "stat": {
+        "view": 2277,
+        "vt": 0
+      },
+      "title": "第3场 中国石油大学（华东） RPS战队 vs 南京航空航天大学金城学院 Born of Fire战队 RoboMaster 2024 超级对抗赛·港澳台及海外"
+    },
+    "4": {
+      "aid": 1156296714,
+      "bvid": "BV1FZ421M7KH",
+      "ctime": 1722614448,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/896059b3ed85dbd5f87697a9ca03a88ecf0f4af1.jpg",
+      "pubdate": 1722614448,
+      "stat": {
+        "view": 3543,
+        "vt": 0
+      },
+      "title": "第4场 哈尔滨工程大学 创梦之翼战队 vs 天津大学 北洋机甲战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "5": {
+      "aid": 1206281120,
+      "bvid": "BV1Cf421q7G3",
+      "ctime": 1722659845,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i0.hdslb.com/bfs/archive/3f0326a6580369164da5e398832d3d3509086714.jpg",
+      "pubdate": 1722659845,
+      "stat": {
+        "view": 1390,
+        "vt": 0
+      },
+      "title": "第5场 上海工程技术大学 木鸢Birdiebot战队 vs 南京理工大学 Alliance战队 RoboMaster 2024 超级对抗赛"
+    },
+    "6": {
+      "aid": 1956292066,
+      "bvid": "BV1Dy411i7a6",
+      "ctime": 1722659984,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e4e2e8826262e69669c0857695635b337f93f489.jpg",
+      "pubdate": 1722659984,
+      "stat": {
+        "view": 9157,
+        "vt": 0
+      },
+      "title": "第6场 国防科技大学 军临战队 vs 齐鲁工业大学 Adam战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "7": {
+      "aid": 1556390839,
+      "bvid": "BV1u1421t7CG",
+      "ctime": 1722698890,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/e71c79c315db79fe0bdf738f1b3d7cc75bcd386a.jpg",
+      "pubdate": 1722698890,
+      "stat": {
+        "view": 795,
+        "vt": 0
+      },
+      "title": "第7场 香港科技大学 ENTERPRIZE战队 vs 新潟联合大学 Phoenix Robots战队 RoboMaster 2024 超级对抗赛"
+    },
+    "8": {
+      "aid": 1956445503,
+      "bvid": "BV11y411e7xQ",
+      "ctime": 1722699368,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i2.hdslb.com/bfs/archive/29997f265e97c4bc0b2b653641d6f08296f7866b.jpg",
+      "pubdate": 1722699368,
+      "stat": {
+        "view": 1450,
+        "vt": 0
+      },
+      "title": "第8场 香港大学 HerKules战队 vs 关东联合大学 OOEDO SAMURAI战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    },
+    "9": {
+      "aid": 1256272829,
+      "bvid": "BV16E4m1R7WG",
+      "ctime": 1722679068,
+      "enable_vt": false,
+      "interactive_video": false,
+      "pic": "http://i1.hdslb.com/bfs/archive/c6d91db5f05ae093ec84d48273fab3465ccafeac.jpg",
+      "pubdate": 1722679068,
+      "stat": {
+        "view": 1835,
+        "vt": 0
+      },
+      "title": "第9场 南京航空航天大学 长空御风战队 vs 中国石油大学（华东） RPS战队 RoboMaster 2024 超级对抗赛·港澳台及海外赛区\u0026复活赛"
+    }
+  }
+}

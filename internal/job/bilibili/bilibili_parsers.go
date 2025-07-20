@@ -9,6 +9,7 @@ import (
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
 	"github.com/scutrobotlab/rm-schedule/internal/types"
 	"log"
+	"strconv"
 	"strings"
 )
 
@@ -20,6 +21,7 @@ var schedules = map[string][]byte{
 type Matches map[string]map[string][]types.MatchNode
 
 func getMatches() Matches {
+	//返回赛季、赛区、比赛三级嵌套的map,列出从日程中获取的所有比赛信息
 	matches := Matches{}
 
 	if !router.RedirectParams[common.UpstreamNameSchedule].Static {
@@ -37,6 +39,7 @@ func getMatches() Matches {
 			return nil
 		}
 
+		//遍历整理比赛
 		zones := make(map[string][]types.MatchNode)
 		for _, currentZone := range scheduleData.Data.Event.Zones.Nodes {
 			var currentMatches []types.MatchNode
@@ -62,7 +65,8 @@ func findCollection(season string, zone string, collectionList *[]types.BiliBili
 		isCorrectSeason := strings.Contains(collectionName, season)
 		var isCorrectZone bool
 		if len([]rune(zone)) > 3 {
-			isCorrectZone = strings.Contains(collectionName, string([]rune(zone)[:3])) //港澳台及海外赛区&复活赛在赛程中被拆分为两段，回放中属于同一合集
+			//港澳台及海外赛区&复活赛在赛程中被拆分为两段，回放中属于同一合集
+			isCorrectZone = strings.Contains(collectionName, string([]rune(zone)[:3]))
 		} else {
 			isCorrectZone = strings.Contains(collectionName, zone)
 		}
@@ -97,4 +101,15 @@ func findMatchVideo(match *types.MatchNode, collection *types.BiliBiliCollection
 		}
 	}
 	return types.BiliBiliVideoMetaData{}, false
+}
+func stringKeyToIntKey[T any](stringKeyMap map[string]T) map[int]T {
+	//int作为键的数据存入json时会被变为string，该函数将键转换回去
+	intKeyMap := make(map[int]T)
+	for key, value := range stringKeyMap {
+		intKey, err := strconv.Atoi(key)
+		if err == nil {
+			intKeyMap[intKey] = value
+		}
+	}
+	return intKeyMap
 }
