@@ -191,9 +191,9 @@ func FetchBiliBiliReplayVideos() {
 			matchOrderToVideoAll[season] = matchOrderToVideoSingleSeason
 		}
 	}
-	svc.Cache.Set("match_id_to_video", matchIDToVideo, cache.DefaultExpiration)
+	svc.Cache.Set("match_id_to_video", matchIDToVideo, cache.NoExpiration)
 	if len(matchOrderToVideoAll) > 0 {
-		svc.Cache.Set("match_order_to_video", matchOrderToVideoAll, cache.DefaultExpiration)
+		svc.Cache.Set("match_order_to_video", matchOrderToVideoAll, cache.NoExpiration)
 	}
 	log.Printf("Bilibili collections updated")
 }
