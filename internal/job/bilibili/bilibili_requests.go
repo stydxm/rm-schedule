@@ -178,7 +178,7 @@ func FetchBiliBiliReplayVideos() {
 				for _, match := range matches {
 					correspondingVideo, ok := findMatchVideo(&match, &collectionInfo)
 					if !ok {
-						logrus.Errorf("video for match %d not found", match.ID)
+						logrus.Errorf("video for match %s not found", match.ID)
 						continue
 					}
 					matchIDToVideo[match.ID] = correspondingVideo

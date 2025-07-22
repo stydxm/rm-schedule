@@ -1,8 +1,8 @@
 package handler
 
 import (
+	"github.com/sirupsen/logrus"
 	"io"
-	"log"
 	"net/http"
 	"strings"
 
@@ -32,7 +32,7 @@ func RMStaticHandler(c iris.Context) {
 
 	resp, err := http.Get(url)
 	if err != nil {
-		log.Printf("Failed to get static file: %v\n", err)
+		logrus.Errorf("Failed to get static file: %v\n", err)
 		c.StatusCode(500)
 		c.JSON(iris.Map{"code": -1, "msg": "Failed to get static file"})
 		return
@@ -41,7 +41,7 @@ func RMStaticHandler(c iris.Context) {
 
 	bytes, err := io.ReadAll(resp.Body)
 	if err != nil {
-		log.Printf("Failed to read static file: %v\n", err)
+		logrus.Errorf("Failed to read static file: %v\n", err)
 		c.StatusCode(500)
 		c.JSON(iris.Map{"code": -1, "msg": "Failed to read static file"})
 		return
