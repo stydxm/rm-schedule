@@ -96,6 +96,11 @@ func checkStringInclude(fullStr string, subStr string) bool {
 
 func findMatchVideo(match *types.MatchNode, collection *types.BiliBiliCollectionInfo) (types.BiliBiliVideoMetaData, bool) {
 	for _, video := range collection.Data.Archives {
+		if match.RedSide.Player == nil || match.RedSide.Player.Team == nil {
+			//如果比赛信息中没有红蓝双方的选手信息，则跳过
+			logrus.Warnf("match %s has no player info, skipping", match.ID)
+			continue
+		}
 		videoTitle := video.Title
 		isCorrectOrderNum := strings.Contains(videoTitle, fmt.Sprintf("第%d场", match.OrderNumber)) ||
 			strings.Contains(videoTitle, fmt.Sprintf("第 %d 场", match.OrderNumber))
