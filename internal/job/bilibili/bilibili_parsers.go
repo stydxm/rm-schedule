@@ -101,6 +101,11 @@ func findMatchVideo(match *types.MatchNode, collection *types.BiliBiliCollection
 			logrus.Warnf("match %s has no player info, skipping", match.ID)
 			continue
 		}
+		if match.BlueSide.Player == nil || match.BlueSide.Player.Team == nil {
+			//如果比赛信息中没有红蓝双方的选手信息，则跳过
+			logrus.Warnf("match %s has no player info, skipping", match.ID)
+			continue
+		}
 		videoTitle := video.Title
 		isCorrectOrderNum := strings.Contains(videoTitle, fmt.Sprintf("第%d场", match.OrderNumber)) ||
 			strings.Contains(videoTitle, fmt.Sprintf("第 %d 场", match.OrderNumber))
