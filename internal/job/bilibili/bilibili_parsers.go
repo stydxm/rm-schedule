@@ -58,6 +58,13 @@ func getMatches() Matches {
 }
 
 func findCollection(season string, zone string, collectionList *[]types.BiliBiliCollectionMetaData) (types.BiliBiliCollectionMetaData, bool) {
+	if season == "2025" {
+		switch zone {
+		case "复活赛第一赛段":
+			return types.BiliBiliCollectionMetaData{Name: "2025复活赛第一赛段", CollectionId: 5947992}, true
+		}
+	}
+
 	for _, collection := range *collectionList {
 		collectionName := collection.Name
 		isReplay := strings.Contains(collectionName, "比赛回放") || strings.Contains(collectionName, "直播回放")
