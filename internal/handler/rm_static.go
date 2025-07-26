@@ -1,6 +1,8 @@
 package handler
 
 import (
+	"fmt"
+	"github.com/scutrobotlab/rm-schedule/internal/common"
 	"github.com/sirupsen/logrus"
 	"io"
 	"net/http"
@@ -13,8 +15,10 @@ import (
 
 func RMStaticHandler(c iris.Context) {
 	path := c.Params().Get("path")
+	process := c.URLParam("process")
+	cacheKey := fmt.Sprintf("Static_%s_%s", path, process)
 
-	cached, b := svc.Cache.Get("static" + path)
+	cached, b := svc.Cache.Get(cacheKey)
 	if b {
 		c.Header("Cache-Control", "public, max-age=3600")
 		c.ContentType("image/png")
@@ -46,7 +50,26 @@ func RMStaticHandler(c iris.Context) {
 		c.JSON(iris.Map{"code": -1, "msg": "Failed to read static file"})
 		return
 	}
-	svc.Cache.Set("static"+path, bytes, cache.DefaultExpiration)
+
+	if process != "" {
+		switch process {
+		case "bg_white":
+			// Convert transparent PNG to white background
+			bytes, err = common.ConvertTransparentToWhite(bytes)
+			if err != nil {
+				logrus.Errorf("ConvertTransparentToWhite failed: %v\n", err)
+				c.StatusCode(500)
+				c.JSON(iris.Map{"code": -1, "msg": "Failed to process image"})
+				return
+			}
+		default:
+			c.StatusCode(400)
+			c.JSON(iris.Map{"code": -1, "msg": "Unknown process type"})
+			return
+		}
+	}
+
+	svc.Cache.Set(cacheKey, bytes, cache.DefaultExpiration)
 
 	c.Header("Cache-Control", "public, max-age=3600")
 	c.ContentType(resp.Header.Get("Content-Type"))
