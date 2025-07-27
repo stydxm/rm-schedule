@@ -77,7 +77,7 @@ func MpMatchHandler(c iris.Context) {
 		if !b {
 			data, err := loadMpMatch(_id)
 			if err != nil {
-				logrus.Errorf("Failed to get mp match: %v\n", err)
+				logrus.Errorf("Failed to get mp match: %v", err)
 				c.StatusCode(500)
 				c.JSON(iris.Map{"code": -1, "msg": "Failed to get mp match"})
 				return
@@ -89,7 +89,7 @@ func MpMatchHandler(c iris.Context) {
 				go func(id int) {
 					_, err := loadMpMatch(id)
 					if err != nil {
-						logrus.Errorf("Failed to get mp match: %v\n", err)
+						logrus.Errorf("Failed to get mp match: %v", err)
 					}
 				}(_id)
 			}
@@ -128,7 +128,7 @@ func loadMpMatch(id int) (*MpMatchData, error) {
 	var _mpMatchResp MpMatchSrcResp
 	err = json.Unmarshal(bytes, &_mpMatchResp)
 	if err != nil {
-		logrus.Errorf("failed to unmarshal bytes: %v\n", string(bytes))
+		logrus.Errorf("failed to unmarshal bytes: %v", string(bytes))
 		return nil, fmt.Errorf("failed to unmarshal mp match response: %v", err)
 	}
 

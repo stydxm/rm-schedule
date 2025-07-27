@@ -89,7 +89,7 @@ func RankListHandler(c iris.Context) {
 		rankScoreJson := make([]RankScoreItem, 0)
 		err := json.Unmarshal(rankScoreBytes, &rankScoreJson)
 		if err != nil {
-			logrus.Infof("Failed to parse rank list: %v\n", err)
+			logrus.Infof("Failed to parse rank list: %v", err)
 			c.StatusCode(500)
 			c.JSON(iris.Map{"code": -1, "msg": "Failed to parse rank list"})
 			return
@@ -137,7 +137,7 @@ func GetCompleteFormMap(season string) (map[string]CompleteForm, error) {
 	completeFormJson := make([]CompleteForm, 0)
 	err := json.Unmarshal(completeFormBytes, &completeFormJson)
 	if err != nil {
-		logrus.Errorf("Failed to parse complete form: %v\n", err)
+		logrus.Errorf("Failed to parse complete form: %v", err)
 		return nil, errors.New("Failed to parse complete form")
 	}
 
@@ -146,7 +146,7 @@ func GetCompleteFormMap(season string) (map[string]CompleteForm, error) {
 		completeFormRankJson := make([]CompleteFormRank, 0)
 		err = json.Unmarshal(completeFormRankBytes, &completeFormRankJson)
 		if err != nil {
-			logrus.Errorf("Failed to parse complete form rank: %v\n", err)
+			logrus.Errorf("Failed to parse complete form rank: %v", err)
 			return nil, errors.New("Failed to parse complete form rank")
 		}
 		completeFormRankMap := make(map[string]CompleteFormRank)

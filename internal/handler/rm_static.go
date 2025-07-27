@@ -37,7 +37,7 @@ func RMStaticHandler(c iris.Context) {
 
 	resp, err := http.Get(url)
 	if err != nil {
-		logrus.Errorf("Failed to get static file: %v\n", err)
+		logrus.Errorf("Failed to get static file: %v", err)
 		c.StatusCode(500)
 		c.JSON(iris.Map{"code": -1, "msg": "Failed to get static file"})
 		return
@@ -46,7 +46,7 @@ func RMStaticHandler(c iris.Context) {
 
 	bytes, err := io.ReadAll(resp.Body)
 	if err != nil {
-		logrus.Errorf("Failed to read static file: %v\n", err)
+		logrus.Errorf("Failed to read static file: %v", err)
 		c.StatusCode(500)
 		c.JSON(iris.Map{"code": -1, "msg": "Failed to read static file"})
 		return
@@ -58,7 +58,7 @@ func RMStaticHandler(c iris.Context) {
 			// Convert transparent PNG to white background
 			bytes, err = common.ConvertTransparentToWhite(bytes)
 			if err != nil {
-				logrus.Errorf("ConvertTransparentToWhite failed: %v\n", err)
+				logrus.Errorf("ConvertTransparentToWhite failed: %v", err)
 				c.StatusCode(500)
 				c.JSON(iris.Map{"code": -1, "msg": "Failed to process image"})
 				return

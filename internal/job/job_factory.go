@@ -15,19 +15,19 @@ func CronJobFactory(param CronJobParam) func() {
 	return func() {
 		resp, err := http.Get(param.Url)
 		if err != nil {
-			logrus.Errorf("Failed to get %s: %v\n", param.Name, err)
+			logrus.Errorf("Failed to get %s: %v", param.Name, err)
 			return
 		}
 		defer resp.Body.Close()
 
 		if resp.StatusCode != http.StatusOK {
-			logrus.Errorf("Failed to get %s: status code %d\n", param.Name, resp.StatusCode)
+			logrus.Errorf("Failed to get %s: status code %d", param.Name, resp.StatusCode)
 			return
 		}
 
 		bytes, err := io.ReadAll(resp.Body)
 		if err != nil {
-			logrus.Errorf("Failed to read %s: %v\n", param.Name, err)
+			logrus.Errorf("Failed to read %s: %v", param.Name, err)
 			return
 		}
 
@@ -37,7 +37,7 @@ func CronJobFactory(param CronJobParam) func() {
 
 		svc.Cache.Set(param.Name, bytes, cache.DefaultExpiration)
 
-		logrus.Infof("%s updated\n", strings.ReplaceAll(cases.Title(language.English).String(param.Name), "_", " "))
+		logrus.Infof("%s updated", strings.ReplaceAll(cases.Title(language.English).String(param.Name), "_", " "))
 	}
 }
 

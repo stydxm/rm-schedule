@@ -35,7 +35,7 @@ func getMatches() Matches {
 		var scheduleData types.ScheduleResp
 		err := json.Unmarshal(scheduleBytes, &scheduleData)
 		if err != nil {
-			logrus.Errorf("failed to unmarshal schedule: %v\n", err)
+			logrus.Errorf("failed to unmarshal schedule: %v", err)
 			return nil
 		}
 
