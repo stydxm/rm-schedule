@@ -21,6 +21,18 @@ func ConvertTransparentToWhite(input []byte) ([]byte, error) {
 		return nil, fmt.Errorf("解码图像失败: %v", err)
 	}
 
+	switch format {
+	case "jpeg", "jpg":
+		// JPEG格式不支持透明通道，直接返回原始数据
+		return input, nil
+	case "png":
+		// PNG格式需要处理透明通道
+		// 继续处理透明通道，将透明部分替换为白色
+		break
+	default:
+		return nil, fmt.Errorf("unsupported image format: %s", format)
+	}
+
 	// 处理透明通道，将透明部分替换为白色
 	bounds := img.Bounds()
 	width, height := bounds.Max.X, bounds.Max.Y
