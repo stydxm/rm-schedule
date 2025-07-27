@@ -29,6 +29,7 @@ func RMStaticHandler(c iris.Context) {
 	url := strings.Replace(path, "rm-static_djicdn_com", "https://rm-static.djicdn.com", 1)
 	url = strings.Replace(url, "terra-cn-oss-cdn-public-pro_oss-cn-hangzhou_aliyuncs_com", "https://terra-cn-oss-cdn-public-pro.oss-cn-hangzhou.aliyuncs.com", 1)
 	url = strings.Replace(url, "pro-robomasters-hz-n5i3_oss-cn-hangzhou_aliyuncs_com", "https://pro-robomasters-hz-n5i3.oss-cn-hangzhou.aliyuncs.com", 1)
+	url = strings.Replace(url, "terra-us-pro-rm-prod-pub-us_s3_amazonaws_com", "https://terra-us-pro-rm-prod-pub-us.s3.amazonaws.com", 1)
 	// auto add scheme
 	if !strings.HasPrefix(url, "http") {
 		url = "https://" + url
