@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"encoding/json"
 	"github.com/kataras/iris/v12/x/errors"
-	"github.com/scutrobotlab/rm-schedule/internal/job"
+	"github.com/scutrobotlab/rm-schedule/internal/common"
 	"github.com/scutrobotlab/rm-schedule/internal/types"
 	"io"
 	"net/http"
@@ -14,7 +14,7 @@ import (
 
 // GetScheduleData 获取赛程数据
 func GetScheduleData() ([]byte, error) {
-	resp, err := http.Get(job.Params["schedule"].Url)
+	resp, err := http.Get(common.UpstreamUrlSchedule)
 	if err != nil {
 		return nil, err
 	}
