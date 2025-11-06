@@ -31,6 +31,29 @@ var HistoryMatchBytes []byte
 //go:embed bilibili_videos.json
 var BilibiliVideosBytes []byte
 
+// 2025 赛季的静态文件
+
+//go:embed season_2025/complete_form.json
+var CompleteFormBytes2025 []byte
+
+//go:embed season_2025/complete_form_rank.json
+var CompleteFormRankBytes2025 []byte
+
+//go:embed season_2025/rank_score.json
+var RankScoreBytes2025 []byte
+
+//go:embed season_2025/schedule.json
+var ScheduleBytes2025 []byte
+
+//go:embed season_2025/group_rank_info.json
+var GroupRankInfoBytes2025 []byte
+
+//go:embed season_2025/robot_data.json
+var RobotDataBytes2025 []byte
+
+//go:embed season_2025/bilibili_videos.json
+var BilibiliVideosBytes2025 []byte
+
 // 2024 赛季的静态文件
 
 //go:embed season_2024/complete_form.json

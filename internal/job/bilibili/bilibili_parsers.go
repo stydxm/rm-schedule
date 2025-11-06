@@ -15,7 +15,7 @@ import (
 
 var schedules = map[string][]byte{
 	"2024": static.ScheduleBytes2024,
-	"2025": router.RedirectParams[common.UpstreamNameSchedule].Data,
+	"2025": static.ScheduleBytes2025,
 }
 
 type Matches map[string]map[string][]types.MatchNode
