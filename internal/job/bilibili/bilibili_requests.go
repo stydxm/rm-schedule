@@ -100,6 +100,7 @@ func getCollectionInfo(id int) (types.BiliBiliCollectionInfo, error) {
 func FetchBiliBiliReplayVideos() {
 	previousSeasons := map[string][]byte{
 		"2024": static.BilibiliVideosBytes2024,
+		"2025": static.BilibiliVideosBytes2025,
 	}
 	matchIDToVideo := make(map[string]types.BiliBiliVideoMetaData)
 	matchOrderToVideoAll := make(types.MatchOrderToVideoType)

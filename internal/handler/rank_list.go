@@ -44,14 +44,17 @@ type CompleteFormRank struct {
 
 var SeasonCompleteFormMap = map[string][]byte{
 	"2024": static.CompleteFormBytes2024,
+	"2025": static.CompleteFormBytes2025,
 }
 
 var SeasonCompleteFormRankMap = map[string][]byte{
 	"2024": {},
+	"2025": static.CompleteFormRankBytes2025,
 }
 
 var SeasonRankScoreMap = map[string][]byte{
 	"2024": static.RankScoreBytes2024,
+	"2025": static.RankScoreBytes2025,
 }
 
 func RankListHandler(c iris.Context) {
