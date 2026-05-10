@@ -13,21 +13,21 @@ import (
 	"strings"
 )
 
-var schedules = map[string][]byte{
-	"2024": static.ScheduleBytes2024,
-	"2025": static.ScheduleBytes2025,
-}
-
 type Matches map[string]map[string][]types.MatchNode
 
 func getMatches() Matches {
 	//返回赛季、赛区、比赛三级嵌套的map,列出从日程中获取的所有比赛信息
 	matches := Matches{}
 
+	schedules := map[string][]byte{
+		"2024": static.ScheduleBytes2024,
+		"2025": static.ScheduleBytes2025,
+	}
+
 	if !router.RedirectParams[common.UpstreamNameSchedule].Static {
 		liveScheduleData, ok := svc.Cache.Get(router.RedirectParams[common.UpstreamNameSchedule].Name)
 		if ok {
-			schedules["2025"] = liveScheduleData.([]byte)
+			schedules["2026"] = liveScheduleData.([]byte)
 		}
 	}
 
