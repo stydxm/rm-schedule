@@ -67,3 +67,14 @@ jobs:
             org.opencontainers.image.title=rm-schedule
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+      - name: Deploy PRE
+        uses: appleboy/ssh-action@v1.0.3
+        if: github.event_name == 'push'
+        with:
+          host: ${{ secrets.CLOUD_SERVER_HOST }}
+          username: ${{ secrets.CLOUD_SERVER_USER }}
+          key: ${{ secrets.CLOUD_SERVER_SSH_KEY }}
+          port: ${{ secrets.CLOUD_SERVER_PORT }}
+          script: |
+            /opt/rm-schedule-pre/update.sh
