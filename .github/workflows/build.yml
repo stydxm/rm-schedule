@@ -77,4 +77,5 @@ jobs:
           key: ${{ secrets.CLOUD_SERVER_SSH_KEY }}
           port: ${{ secrets.CLOUD_SERVER_PORT }}
           script: |
-            /opt/rm-schedule-pre/update.sh
+            cd /opt/rm-schedule-pre
+            ./update.sh
