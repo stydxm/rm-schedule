@@ -16,9 +16,10 @@ import (
 )
 
 const (
-	MpMatchCacheRefreshTime = 10 * time.Second // 缓存即将过期时，异步刷新
-	MpMatchCacheExpiration  = 60 * time.Second // 缓存过期时间
-	MpMatchDisabled         = false            // 是否禁用
+	MpMatchCacheRefreshTime       = 10 * time.Second // 缓存即将过期时，异步刷新
+	MpMatchCacheExpiration        = 60 * time.Second // 缓存过期时间
+	MpMatchFailureCacheExpiration = 30 * time.Second // 单场拉取失败的占位缓存时间
+	MpMatchDisabled               = false            // 是否禁用
 )
 
 type MpMatchSrcResp struct {
@@ -77,10 +78,9 @@ func MpMatchHandler(c iris.Context) {
 		if !b {
 			data, err := loadMpMatch(_id)
 			if err != nil {
-				logrus.Errorf("Failed to get mp match: %v", err)
-				c.StatusCode(500)
-				c.JSON(iris.Map{"code": -1, "msg": "Failed to get mp match"})
-				return
+				logrus.Errorf("Failed to get mp match %d: %v", _id, err)
+				data = unavailableMpMatchData(_id)
+				svc.Cache.Set("mp_match:"+id, *data, MpMatchFailureCacheExpiration)
 			}
 			mpMatchRespList = append(mpMatchRespList, *data)
 		} else {
@@ -100,6 +100,15 @@ func MpMatchHandler(c iris.Context) {
 
 	c.Header("Cache-Control", "public, max-age=10")
 	c.JSON(MpMatchDstResp{List: mpMatchRespList})
+}
+
+func unavailableMpMatchData(id int) *MpMatchData {
+	return &MpMatchData{
+		MatchId:  id,
+		RedRate:  -1.0,
+		BlueRate: -1.0,
+		TieRate:  -1.0,
+	}
 }
 
 func loadMpMatch(id int) (*MpMatchData, error) {
