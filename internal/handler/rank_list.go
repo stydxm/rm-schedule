@@ -3,6 +3,8 @@ package handler
 import (
 	"encoding/json"
 	"fmt"
+	"strings"
+
 	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/x/errors"
 	"github.com/patrickmn/go-cache"
@@ -57,6 +59,13 @@ var SeasonRankScoreMap = map[string][]byte{
 	"2025": static.RankScoreBytes2025,
 }
 
+var schoolNameReplacer = strings.NewReplacer("（", "(", "）", ")")
+
+// normalizeSchoolName 将全角括号统一转换为半角，兼容数据源中的括号差异
+func normalizeSchoolName(name string) string {
+	return schoolNameReplacer.Replace(name)
+}
+
 func RankListHandler(c iris.Context) {
 	season := c.URLParam("season")
 	rankScoreKey := fmt.Sprintf("rank_score_%s", season)
@@ -67,7 +76,7 @@ func RankListHandler(c iris.Context) {
 		rankScoreBytes = static.RankScoreBytes
 	}
 
-	schoolName := c.URLParam("school_name")
+	schoolName := normalizeSchoolName(c.URLParam("school_name"))
 	if schoolName == "" {
 		c.StatusCode(400)
 		c.JSON(iris.Map{"code": -1, "msg": "School name is empty"})
@@ -92,13 +101,15 @@ func RankListHandler(c iris.Context) {
 		rankScoreJson := make([]RankScoreItem, 0)
 		err := json.Unmarshal(rankScoreBytes, &rankScoreJson)
 		if err != nil {
-			logrus.Infof("Failed to parse rank list: %v", err)
+			logrus.Errorf("Failed to parse rank list: %v", err)
 			c.StatusCode(500)
 			c.JSON(iris.Map{"code": -1, "msg": "Failed to parse rank list"})
 			return
 		}
 
-		rankScoreMap = lo.SliceToMap(rankScoreJson, func(item RankScoreItem) (string, RankScoreItem) { return item.SchoolChinese, item })
+		rankScoreMap = lo.SliceToMap(rankScoreJson, func(item RankScoreItem) (string, RankScoreItem) {
+			return normalizeSchoolName(item.SchoolChinese), item
+		})
 		svc.Cache.Set(rankScoreKey, rankScoreMap, cache.NoExpiration)
 	}
 
@@ -154,10 +165,10 @@ func GetCompleteFormMap(season string) (map[string]CompleteForm, error) {
 		}
 		completeFormRankMap := make(map[string]CompleteFormRank)
 		for _, item := range completeFormRankJson {
-			completeFormRankMap[item.School] = item
+			completeFormRankMap[normalizeSchoolName(item.School)] = item
 		}
 		for i, item := range completeFormJson {
-			if rankItem, ok := completeFormRankMap[item.School]; ok {
+			if rankItem, ok := completeFormRankMap[normalizeSchoolName(item.School)]; ok {
 				completeFormJson[i].Rank = rankItem.Rank
 			}
 		}
@@ -174,7 +185,9 @@ func GetCompleteFormMap(season string) (map[string]CompleteForm, error) {
 			lastCoinTotal = completeFormJson[i].InitialCoinTotal
 		}
 	}
-	completeFormMap := lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) { return item.School, item })
+	completeFormMap := lo.SliceToMap(completeFormJson, func(item CompleteForm) (string, CompleteForm) {
+		return normalizeSchoolName(item.School), item
+	})
 	svc.Cache.Set(completeFormKey, completeFormMap, cache.NoExpiration)
 
 	return completeFormMap, nil

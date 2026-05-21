@@ -2,14 +2,20 @@ package handler
 
 import (
 	"encoding/json"
+	"regexp"
+	"strings"
+
 	"github.com/kataras/iris/v12"
 	"github.com/patrickmn/go-cache"
 	"github.com/scutrobotlab/rm-schedule/internal/static"
 	"github.com/scutrobotlab/rm-schedule/internal/svc"
-	"strings"
+	"github.com/sirupsen/logrus"
 )
 
 const BilibiliOfficialKey = "bilibili_official"
+
+// formerNameRegex 匹配"现名（原曾用名）"格式，如"广州城市理工学院（原华南理工大学广州学院）"
+var formerNameRegex = regexp.MustCompile(`^(.+?)（原(.+?)）$`)
 
 type TeamInfo struct {
 	CollegeName string `json:"collegeName"`
@@ -37,6 +43,7 @@ func TeamInfoHandler(c iris.Context) {
 		var bilibiliOfficialList []BilibiliOfficial
 		err := json.Unmarshal(static.BilibiliOfficialBytes, &bilibiliOfficialList)
 		if err != nil {
+			logrus.Errorf("Failed to parse Bilibili official data: %v", err)
 			c.StatusCode(500)
 			c.JSON(iris.Map{"code": -1, "msg": "Failed to parse Bilibili official data"})
 			return
@@ -45,22 +52,13 @@ func TeamInfoHandler(c iris.Context) {
 		bilibiliOfficialMap = make(map[string]BilibiliOfficial)
 		for _, official := range bilibiliOfficialList {
 			school := strings.TrimSpace(official.School)
-			if strings.Contains(school, "（原") {
-				// 学校有曾用名
-				// eg. 广州城市理工学院（原华南理工大学广州学院）
-				for _, split := range strings.Split(school, "（原") {
-					// 去掉末尾的括号和内容
-					split = strings.TrimSuffix(split, "）")
-					// 去掉前后的空格
-					split = strings.TrimSpace(split)
-					if split == "" {
-						continue
-					}
-					bilibiliOfficialMap[split] = official
-				}
+			if matches := formerNameRegex.FindStringSubmatch(school); matches != nil {
+				// 学校有曾用名，eg. 广州城市理工学院（原华南理工大学广州学院）
+				// matches[1]=现名, matches[2]=曾用名，均注册到 map
+				bilibiliOfficialMap[strings.TrimSpace(matches[1])] = official
+				bilibiliOfficialMap[strings.TrimSpace(matches[2])] = official
 			} else {
-				// 学校没有曾用名
-				bilibiliOfficialMap[official.School] = official
+				bilibiliOfficialMap[school] = official
 			}
 		}
 		svc.Cache.Set(BilibiliOfficialKey, bilibiliOfficialMap, cache.NoExpiration)
