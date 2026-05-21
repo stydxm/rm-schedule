@@ -17,6 +17,14 @@ const BilibiliOfficialKey = "bilibili_official"
 // formerNameRegex 匹配"现名（原曾用名）"格式，如"广州城市理工学院（原华南理工大学广州学院）"
 var formerNameRegex = regexp.MustCompile(`^(.+?)（原(.+?)）$`)
 
+// parenRegex 匹配全角和半角括号本身（不含内容），用于将"合肥工业大学（宣城校区）"展平为"合肥工业大学宣城校区"
+var parenRegex = regexp.MustCompile(`[（）()]`)
+
+// flattenParentheses 去除括号符号但保留括号内的内容
+func flattenParentheses(name string) string {
+	return parenRegex.ReplaceAllString(name, "")
+}
+
 type TeamInfo struct {
 	CollegeName string `json:"collegeName"`
 	BilibiliUid int64  `json:"bilibiliUid"`
@@ -64,6 +72,10 @@ func TeamInfoHandler(c iris.Context) {
 		svc.Cache.Set(BilibiliOfficialKey, bilibiliOfficialMap, cache.NoExpiration)
 	}
 	bilibiliOfficial, ok := bilibiliOfficialMap[collegeName]
+	if !ok {
+		// 兼容数据源无括号形式，如"合肥工业大学（宣城校区）"→"合肥工业大学宣城校区"
+		bilibiliOfficial, ok = bilibiliOfficialMap[flattenParentheses(collegeName)]
+	}
 	if !ok {
 		c.StatusCode(404)
 		c.JSON(iris.Map{"code": -1, "msg": "School not found"})
